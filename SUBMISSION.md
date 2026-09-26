@@ -105,7 +105,7 @@ Each stage reads files and writes files (`data/<stage>/<file>.json`), so each st
 | 2 | Semantic R@5 (hybrid) ≥ **0.70** | Users must be able to find things phrased differently from how they were said. |
 | 3 | Hybrid R@5 ≥ the better of keyword and vector, **for every query type** | Fusion must never lose a moment that either search found on its own. |
 
-**How the criteria changed:** criterion 3 was originally "hybrid beats both searches on mixed queries". The eval showed that this can't pass as written. When keyword search returns nothing, the RRF ranking becomes exactly the vector ranking, so hybrid ties vector by construction. That happened on 10 of the 18 mixed queries. On the other 8, keyword only found moments vector had already found. The criterion was really measuring keyword search, not fusion, so it was replaced with the fairer "never worse than the best single search". The full reasoning is in [prompts.md](prompts.md) #15.
+**How the criteria changed:** criterion 3 was originally "hybrid beats both searches on mixed queries". The eval showed that this can't pass as written. When keyword search returns nothing, the RRF ranking becomes exactly the vector ranking, so hybrid ties vector by construction. That happened on 10 of the 18 mixed queries. On the other 8, keyword only found moments vector had already found. The criterion was really measuring keyword search, not fusion, so it was replaced with the fairer "never worse than the best single search".
 
 ---
 
@@ -168,20 +168,16 @@ Each stage reads files and writes files (`data/<stage>/<file>.json`), so each st
    - Diarization makes occasional errors. For example, a host question at 7:45 in nikhilkamath is attributed to the guest.
    - `num_speakers=2` is hard-coded, so show intros and outros are forced into one of the two speakers.
 
-**Chunking**
-
-7. Chunks that are too short to merge with a same-speaker neighbour are kept as-is. Some are a single word: 3 chunks are just "And" or "That", which gives them an empty keyword index entry. They are noise in vector results.
-
 **Evaluation and dataset**
 
-8. **The golden set is small and labelled by one annotator.** Labels were drafted by the coding agent from the transcripts, following my labelling rules. There was no second annotator and no agreement measure. With about 20 queries per type, one query moves a type's average by about 0.05.
-9. **Labels inherit the ASR's timing**, because spans were located using the same transcripts that search runs over.
-10. **The hit rule is lenient:** any overlap counts, so long spans are easy to hit.
-11. **Three recordings are under the requested 8–10 minutes:** 7:12, 7:15 and 7:33. The source recordings are that long. The other three are 9:37 to 10:00.
+7. **The golden set is small and labelled by one annotator.** Labels were drafted by the coding agent from the transcripts, following my labelling rules. There was no second annotator and no agreement measure. With about 20 queries per type, one query moves a type's average by about 0.05.
+8. **Labels inherit the ASR's timing**, because spans were located using the same transcripts that search runs over.
+9. **The hit rule is lenient:** any overlap counts, so long spans are easy to hit.
+10. **Three recordings are under the requested 8–10 minutes:** 7:12, 7:15 and 7:33. The source recordings are that long. The other three are 9:37 to 10:00.
 
 **Scale**
 
-12. **Scale is untested.** The system was only run on 192 chunks; HNSW has no measurable effect at this size, and latency numbers won't carry over. Ingest also truncates and reloads the whole table rather than updating it incrementally.
+11. **Scale is untested.** The system was only run on 192 chunks; HNSW has no measurable effect at this size, and latency numbers won't carry over. Ingest also truncates and reloads the whole table rather than updating it incrementally.
 
 ---
 
@@ -213,11 +209,6 @@ The problem statement asks which diarization, database, embedding and indexing s
 - Diarization error rate, plus the speaker-attribution accuracy of the results actually returned.
 - The share of words assigned to a speaker with low confidence.
 
-**User behaviour (online):**
-- Click-to-play rate on results, and how long the user keeps listening after the jump.
-- Query reformulation rate, "no results" rate, and abandonment.
-- A/B tests for fusion weights and model changes.
-
 **System:**
 - p50 / p95 latency for each search and end to end.
 - Ingest throughput (audio hours processed per hour), time from upload to searchable, cost per audio hour, index size.
@@ -236,8 +227,6 @@ In production, add multiple annotators with an agreement measure, and grow the q
 
 ## 9. Coding agent disclosure
 
-**Agent:** Claude, via Claude Code in VS Code. The agent wrote the code, tests, golden-set span labels, README and `init.sh`. I wrote the spec, chose the audio and the first rough query notes (`audio_notes/`), made every design decision, and directed each step.
-
 **How I directed it:**
 1. **Spec first.** Before any code, I gave the agent [design.md](design.md). It sets out, for each stage: input and output schemas, parameters, rules and invariants (e.g. "assign to the span it overlaps most, not the midpoint", "token count out == token count in"), plus success criteria and what's out of scope.
 2. **Working rules in the first prompt:**
@@ -245,21 +234,5 @@ In production, add multiple annotators with an agreement measure, and grow the q
    - the stack is fixed (Python 3.11, faster-whisper, pyannote 4.x, sentence-transformers, psycopg3, pytest, dotenv)
    - **if you think a design decision is wrong, say so and why; do not silently implement something different**
    - write boring, readable code
-3. **Clarify before coding.** The agent first restated the pipeline and raised 6 gaps in the spec, for example an `id` column with no type and a contradictory word-splitting rule. I decided each one.
-4. **One prompt per module** ("Start align.py", "Start chunk.py", …). After each module the agent ran it on the real data and reported what it found, for example "0% low-confidence" and "95 chunks, max embed_text 115 words".
-5. **The agent proposed, I decided.** Key decisions:
 
-| topic | proposed by | decision |
-|---|---|---|
-| use the exclusive (non-overlapping) diarization output | agent | accepted |
-| chunk timestamps: add word timings to turns (vs estimating from position) | agent asked, 3 options | word timings |
-| context for later chunks of a long answer | agent asked | the other speaker's last turn |
-| keyword AND vs OR | agent flagged | keep AND until the eval gives numbers |
-| golden set: speaker labels in labels? multiple spans? | **I asked** | no speaker (labels are arbitrary per run); add `file` to every span; count recall per span |
-| golden set too basic ("amazon robotics" appears in more than one place) | **I flagged** | label every relevant moment, one labelling rule, add trap queries |
-| 10 queries per file, several multi-span, 2–3 failure cases | **I set** | failure candidates tested against live search; only real failures kept |
-| "hybrid beats both on mixed" always fails | **I asked why** | agent traced it to RRF + empty keyword results; I chose "hybrid ≥ best single search" |
-
-6. **Understanding before accepting.** At several points I asked the agent to explain rather than build. For example: "take 3 queries and explain all the tables with data", and "is R@5 just 1 or 0 for one span?". That's how I checked the metrics before relying on them.
-
-**Full trace:** [prompts.md](prompts.md) records every prompt, every question the agent asked, the options it offered, and what I decided and why.
+**Full trace:** [prompts.md](prompts.md) records every prompt, every question the agent asked, and what I decided and why.

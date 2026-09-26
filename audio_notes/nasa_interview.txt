@@ -1,0 +1,10 @@
+LEXICAL "roadmap of NASA" 0.23 to 0.35
+SEMANTIC "plan after building moon base" 0.53 to 1.14
+LEXICAL "Artemis program" 1.33 to 1.41
+SEMANTIC "exploring potential of the moon" 1.50 to 2.02
+LEXICAL "China space race" 3.18 to 3.26
+SEMANTIC "different artemis and rockets" 4.29 to 4.44
+SEMANTIC "how can we go to moon with less money" 5.20 to 5.36
+SEMANTIC "competitive launch market" 5.56 to 6.03 and 6.30 to 6.37
+LEXICAL "4.5%" 7.28 to 7.35
+LEXICAL "Discovery shuttle controversy" 10.04 to 10.18

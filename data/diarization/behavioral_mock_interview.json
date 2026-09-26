@@ -1,0 +1,105 @@
+{
+  "file": "behavioral_mock_interview.wav",
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 4.604,
+      "end": 13.21
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 13.43,
+      "end": 58.385
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 58.621,
+      "end": 66.046
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 66.265,
+      "end": 105.972
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 106.124,
+      "end": 108.301
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 108.638,
+      "end": 115.388
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 115.743,
+      "end": 155.028
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 155.332,
+      "end": 157.07
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 157.508,
+      "end": 161.896
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 162.571,
+      "end": 169.625
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 169.81,
+      "end": 178.484
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 178.99,
+      "end": 229.936
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 230.122,
+      "end": 230.712
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 230.797,
+      "end": 238.559
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 238.88,
+      "end": 284.763
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 284.999,
+      "end": 294.128
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 294.635,
+      "end": 333.295
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 333.582,
+      "end": 340.45
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 341.092,
+      "end": 374.892
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 377.474,
+      "end": 421.045
+    }
+  ]
+}

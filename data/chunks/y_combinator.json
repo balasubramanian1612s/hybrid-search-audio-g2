@@ -1,0 +1,362 @@
+[
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 0,
+    "end_ms": 5360,
+    "text": "The real product market fit. Yes. This was a good one. Not",
+    "n_words": 12,
+    "embed_text": "The real product market fit. Yes. This was a good one. Not"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 5360,
+    "end_ms": 6340,
+    "text": "that the other ones aren't great.",
+    "n_words": 6,
+    "embed_text": "The real product market fit. Yes. This was a good one. Not that the other ones aren't great."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 7160,
+    "end_ms": 29880,
+    "text": "Try my best. Yeah, yeah. All right. I often talk to founders who believe they've found product market fit when they haven't. This is a huge problem because they start hiring people, increasing burn and optimizing their product before they've actually discovered what needs to be built. I'm writing this post to help you understand when you've really found product market fit. To start, read Mark Andreessen's on product market fit for startups.",
+    "n_words": 73,
+    "embed_text": "that the other ones aren't great. Try my best. Yeah, yeah. All right. I often talk to founders who believe they've found product market fit when they haven't. This is a huge problem because they start hiring people, increasing burn and optimizing their product before they've actually discovered what needs to be built. I'm writing this post to help you understand when you've really found product market fit. To start, read Mark Andreessen's on product market fit for startups."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 30160,
+    "end_ms": 48750,
+    "text": "It has been the single most influential post for me as an entrepreneur and it was the first time I ever read the term. Here's how he defines the term. The customers are buying the product just as fast as you can make it or usage is growing just as fast as you can add more service. Money from customers is piling up in your company, checking in camp.",
+    "n_words": 69,
+    "embed_text": "that the other ones aren't great. It has been the single most influential post for me as an entrepreneur and it was the first time I ever read the term. Here's how he defines the term. The customers are buying the product just as fast as you can make it or usage is growing just as fast as you can add more service. Money from customers is piling up in your company, checking in camp."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 49190,
+    "end_ms": 56710,
+    "text": "You're hiring sales and customer support staff as fast as you can. So why do most people think they're there when they're not?",
+    "n_words": 23,
+    "embed_text": "that the other ones aren't great. You're hiring sales and customer support staff as fast as you can. So why do most people think they're there when they're not?"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 57450,
+    "end_ms": 86820,
+    "text": "One, it's intellectually convenient too. I think that a lot of founders are really excited at the prospect of company building and they think that company building is what creates success. And by company building, I mean like hiring employees and having great culture and getting an office and having management and so on and so forth. And they are not real with themselves that the real challenge is to solve the problem.",
+    "n_words": 73,
+    "embed_text": "in camp. You're hiring sales and customer support staff as fast as you can. So why do most people think they're there when they're not? One, it's intellectually convenient too. I think that a lot of founders are really excited at the prospect of company building and they think that company building is what creates success. And by company building, I mean like hiring employees and having great culture and getting an office and having management and so on and so forth. And they are not real with themselves that the real challenge is to solve the problem."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 87440,
+    "end_ms": 109130,
+    "text": "And the company building happens for the most part after you figure out how to solve the problem, not before. I hear this term product market fit so often and I have to tell you 98 % of the time it's using correctly. And what's so frustrating is that people almost act like it's an undefined or flexibly defined term and it's totally not.",
+    "n_words": 64,
+    "embed_text": "in camp. You're hiring sales and customer support staff as fast as you can. So why do most people think they're there when they're not? And the company building happens for the most part after you figure out how to solve the problem, not before. I hear this term product market fit so often and I have to tell you 98 % of the time it's using correctly. And what's so frustrating is that people almost act like it's an undefined or flexibly defined term and it's totally not."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 109130,
+    "end_ms": 116450,
+    "text": "It's like saying that like, oh yeah, like green, blue, yellow, we could call off those orange. Like it's okay. Like we'll just call them orange. It's different",
+    "n_words": 28,
+    "embed_text": "in camp. You're hiring sales and customer support staff as fast as you can. So why do most people think they're there when they're not? It's like saying that like, oh yeah, like green, blue, yellow, we could call off those orange. Like it's okay. Like we'll just call them orange. It's different"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 116450,
+    "end_ms": 116990,
+    "text": "for every company.",
+    "n_words": 3,
+    "embed_text": "that like, oh yeah, like green, blue, yellow, we could call off those orange. Like it's okay. Like we'll just call them orange. It's different for every company."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 117470,
+    "end_ms": 136650,
+    "text": "Yeah, exactly. It's like it's your interpretation of it. It's like, no, it's not. It's not the case. Like there's a defined term. Make up another term if you want to mean something else. So I think the most common way it's mistaken is like, it's weird because it sounds so close but it's not. I built the thing that customers want.",
+    "n_words": 62,
+    "embed_text": "for every company. Yeah, exactly. It's like it's your interpretation of it. It's like, no, it's not. It's not the case. Like there's a defined term. Make up another term if you want to mean something else. So I think the most common way it's mistaken is like, it's weird because it sounds so close but it's not. I built the thing that customers want."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 137590,
+    "end_ms": 154950,
+    "text": "And like what's hilarious is like product market fit is what happens after you built the things that customers want. It turns out the only way you know you've built them that customers want is because they're using it in an explosive and destructive way. And like people want to separate these two concepts. It's like so amazing.",
+    "n_words": 58,
+    "embed_text": "for every company. And like what's hilarious is like product market fit is what happens after you built the things that customers want. It turns out the only way you know you've built them that customers want is because they're using it in an explosive and destructive way. And like people want to separate these two concepts. It's like so amazing."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 155150,
+    "end_ms": 174690,
+    "text": "It's like so like, you can see intellectually why it's just so much easier to be able to look at your thing and say, this is what customers want and not have to really have any customers. Oh yeah, totally. It's easier to say that. And so man, people really just want to separate those two things out. And it's like if you are not getting explosive usage you do not have what customers want.",
+    "n_words": 75,
+    "embed_text": "for every company. It's like so like, you can see intellectually why it's just so much easier to be able to look at your thing and say, this is what customers want and not have to really have any customers. Oh yeah, totally. It's easier to say that. And so man, people really just want to separate those two things out. And it's like if you are not getting explosive usage you do not have what customers want."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 176290,
+    "end_ms": 205940,
+    "text": "Or there aren't that many customers in which case you don't have a big business. No. And so I think the awful reality is like the vast majority of founders, the vast majority of YC founders even never find product market fit ever. I would argue that like more acquisitions than you might know are of companies that did not find product market fit. Once you find product market fit,",
+    "n_words": 70,
+    "embed_text": "for every company. Or there aren't that many customers in which case you don't have a big business. No. And so I think the awful reality is like the vast majority of founders, the vast majority of YC founders even never find product market fit ever. I would argue that like more acquisitions than you might know are of companies that did not find product market fit. Once you find product market fit,"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 208230,
+    "end_ms": 230310,
+    "text": "I almost say it's like it's your company to fuck up. Like it's almost like this is gonna work unless you screw it up. Whereas like pre -product market fit there's all this stuff you need to do to even see if there can be something there and you really don't know. Post -product market fit, it's like if you execute you get there. Pre -product market fit you get actually great and you never have anything.",
+    "n_words": 77,
+    "embed_text": "for every company. I almost say it's like it's your company to fuck up. Like it's almost like this is gonna work unless you screw it up. Whereas like pre -product market fit there's all this stuff you need to do to even see if there can be something there and you really don't know. Post -product market fit, it's like if you execute you get there. Pre -product market fit you get actually great and you never have anything."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 230790,
+    "end_ms": 235850,
+    "text": "And moreover you can still have customers. You can still have growth if you're pre -product market fit. Yes,",
+    "n_words": 19,
+    "embed_text": "Post -product market fit, it's like if you execute you get there. Pre -product market fit you get actually great and you never have anything. And moreover you can still have customers. You can still have growth if you're pre -product market fit. Yes,"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 235930,
+    "end_ms": 255750,
+    "text": "yes, yes, yes. It's not like when I go from zero customers to one customer I've not hit product market fit. Like I think that Mark does a good job of defining it because it's experiential. I think if you tried to define it any other way people would find loopholes. I mean they clearly have already found loopholes but like it's like is the growth killing you?",
+    "n_words": 68,
+    "embed_text": "And moreover you can still have customers. You can still have growth if you're pre -product market fit. Yes, yes, yes, yes. It's not like when I go from zero customers to one customer I've not hit product market fit. Like I think that Mark does a good job of defining it because it's experiential. I think if you tried to define it any other way people would find loopholes. I mean they clearly have already found loopholes but like it's like is the growth killing you?"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 256270,
+    "end_ms": 268910,
+    "text": "Like if I were to extract what the meaning of this sentence is is the growth almost killing you? And is it profitable? Like people always want to forget the second one, right? Like money is piling up in the check account.",
+    "n_words": 42,
+    "embed_text": "And moreover you can still have customers. You can still have growth if you're pre -product market fit. Yes, Like if I were to extract what the meaning of this sentence is is the growth almost killing you? And is it profitable? Like people always want to forget the second one, right? Like money is piling up in the check account."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 268930,
+    "end_ms": 270130,
+    "text": "That is by definition profit.",
+    "n_words": 5,
+    "embed_text": "killing you? And is it profitable? Like people always want to forget the second one, right? Like money is piling up in the check account. That is by definition profit."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 270950,
+    "end_ms": 278910,
+    "text": "Like literally there are so many companies who are like the growth is killing us and I'm like oh show me explain it and they're like and they're scaling negative margins.",
+    "n_words": 31,
+    "embed_text": "That is by definition profit. Like literally there are so many companies who are like the growth is killing us and I'm like oh show me explain it and they're like and they're scaling negative margins."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 279210,
+    "end_ms": 279450,
+    "text": "Exactly.",
+    "n_words": 1,
+    "embed_text": "companies who are like the growth is killing us and I'm like oh show me explain it and they're like and they're scaling negative margins. Exactly."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 279450,
+    "end_ms": 292430,
+    "text": "They're saying hey Craig how about you pay 75 cents and I give you a dollar worth of value. Yeah, Craig make that trade 17 times an hour. Yeah, no I",
+    "n_words": 31,
+    "embed_text": "Exactly. They're saying hey Craig how about you pay 75 cents and I give you a dollar worth of value. Yeah, Craig make that trade 17 times an hour. Yeah, no I"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 292430,
+    "end_ms": 301590,
+    "text": "love that the PV quote where it's like they figure it out before you. That you're kidding me. I just figured it out. Well because you're just burning VC money or your own money.",
+    "n_words": 34,
+    "embed_text": "you pay 75 cents and I give you a dollar worth of value. Yeah, Craig make that trade 17 times an hour. Yeah, no I love that the PV quote where it's like they figure it out before you. That you're kidding me. I just figured it out. Well because you're just burning VC money or your own money."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 302810,
+    "end_ms": 332200,
+    "text": "The customer, the customer has a nose for those types of deals. Because if you have the problem like you really understand the value of the solution. So what's funny to me is that you know oftentimes founders will want to try to reduce this. I get this question so often. It's like should I optimize for growth? Should I optimize for retention or should I optimize for profitability? And my answer is always the same. Yes.",
+    "n_words": 77,
+    "embed_text": "figure it out before you. That you're kidding me. I just figured it out. Well because you're just burning VC money or your own money. The customer, the customer has a nose for those types of deals. Because if you have the problem like you really understand the value of the solution. So what's funny to me is that you know oftentimes founders will want to try to reduce this. I get this question so often. It's like should I optimize for growth? Should I optimize for retention or should I optimize for profitability? And my answer is always the same. Yes."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 334280,
+    "end_ms": 347180,
+    "text": "Like what makes you think that building a successful company is a single variable problem? Like how could that be the case? It's clearly not the case. Especially",
+    "n_words": 28,
+    "embed_text": "figure it out before you. That you're kidding me. I just figured it out. Well because you're just burning VC money or your own money. Like what makes you think that building a successful company is a single variable problem? Like how could that be the case? It's clearly not the case. Especially"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 347180,
+    "end_ms": 348780,
+    "text": "in the venture paradigm.",
+    "n_words": 4,
+    "embed_text": "you think that building a successful company is a single variable problem? Like how could that be the case? It's clearly not the case. Especially in the venture paradigm."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 349240,
+    "end_ms": 371240,
+    "text": "Yes, yes, yes for a tech startup. Yes, it's clearly not the case. Like there's clearly multiple variables here. And you know one of the things we try to talk to people we often if you're charging your customer or we try to talk to you about revenue. And the reason why is that like in many cases like revenue that you keep is as close as we can get to a single metric.",
+    "n_words": 74,
+    "embed_text": "in the venture paradigm. Yes, yes, yes for a tech startup. Yes, it's clearly not the case. Like there's clearly multiple variables here. And you know one of the things we try to talk to people we often if you're charging your customer or we try to talk to you about revenue. And the reason why is that like in many cases like revenue that you keep is as close as we can get to a single metric."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 371940,
+    "end_ms": 394800,
+    "text": "But like even that is not perfect. Like you really want to know like what percentage of your revenue are you losing every month. You really want to know like how much does it cost you to get that revenue. Like you really want to know like how satisfied are your customers. Like you need to know those other stats to really know. And so yeah product market fit like I wish more comfortable.",
+    "n_words": 74,
+    "embed_text": "in the venture paradigm. But like even that is not perfect. Like you really want to know like what percentage of your revenue are you losing every month. You really want to know like how much does it cost you to get that revenue. Like you really want to know like how satisfied are your customers. Like you need to know those other stats to really know. And so yeah product market fit like I wish more comfortable."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 394940,
+    "end_ms": 417120,
+    "text": "Like I talk about pre -product market fit as just being in the suck. It's just like you're just in the river of crap and you're not enjoying your life. And unfortunately I think that you every startup I almost imagine this isn't the case but I almost imagine that there's like a predetermined amount of time you have to live there until you figure out how to get out.",
+    "n_words": 70,
+    "embed_text": "in the venture paradigm. Like I talk about pre -product market fit as just being in the suck. It's just like you're just in the river of crap and you're not enjoying your life. And unfortunately I think that you every startup I almost imagine this isn't the case but I almost imagine that there's like a predetermined amount of time you have to live there until you figure out how to get out."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 417480,
+    "end_ms": 417840,
+    "text": "And",
+    "n_words": 1,
+    "embed_text": "but I almost imagine that there's like a predetermined amount of time you have to live there until you figure out how to get out. And"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 417840,
+    "end_ms": 435790,
+    "text": "like a lot of founders just want to cheat and like a lot of founders just like I want to get out by cheating. Like I just want to pretend like I'm not in here and like build a nice house or I just want to like do something that's really unprofitable so I can tend to be out of here and it's just like you can't pretend your way out of product market fit. Like it does not work.",
+    "n_words": 80,
+    "embed_text": "And like a lot of founders just want to cheat and like a lot of founders just like I want to get out by cheating. Like I just want to pretend like I'm not in here and like build a nice house or I just want to like do something that's really unprofitable so I can tend to be out of here and it's just like you can't pretend your way out of product market fit. Like it does not work."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 435850,
+    "end_ms": 444250,
+    "text": "You have to be comfortable. You have to be so passionate about the people you're working with and or the problem that you're solving that you are comfortable failing at it for a while.",
+    "n_words": 34,
+    "embed_text": "And You have to be comfortable. You have to be so passionate about the people you're working with and or the problem that you're solving that you are comfortable failing at it for a while."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 444980,
+    "end_ms": 446500,
+    "text": "Did you guys hit it at social cam?",
+    "n_words": 8,
+    "embed_text": "so passionate about the people you're working with and or the problem that you're solving that you are comfortable failing at it for a while. Did you guys hit it at social cam?"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 447310,
+    "end_ms": 465800,
+    "text": "Absolutely not. So here's a perfect example. Social cam over the course of four months got 16 million downloads got one eighth of every single person on Facebook to watch at least one video on our platform over the course of three to four months.",
+    "n_words": 45,
+    "embed_text": "Did you guys hit it at social cam? Absolutely not. So here's a perfect example. Social cam over the course of four months got 16 million downloads got one eighth of every single person on Facebook to watch at least one video on our platform over the course of three to four months."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 468340,
+    "end_ms": 493500,
+    "text": "Wouldn't that be like almost the definition of product market fit? We certainly were dying in the traffic we shut off like half the world to not couldn't use the product because we were like we can't do it. Absolutely not. For our product one, we had no monetization we probably could have figured out monetization but at that point no monetization. Two more importantly, we had horrible retention. Absolutely horrible retention.",
+    "n_words": 72,
+    "embed_text": "Did you guys hit it at social cam? Wouldn't that be like almost the definition of product market fit? We certainly were dying in the traffic we shut off like half the world to not couldn't use the product because we were like we can't do it. Absolutely not. For our product one, we had no monetization we probably could have figured out monetization but at that point no monetization. Two more importantly, we had horrible retention. Absolutely horrible retention."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 493840,
+    "end_ms": 517970,
+    "text": "If you came and downloaded the app the chances that you were using that app 10 days later was basically zero. If you watched a video the chances that you'd watch it five more videos that week very low. And like it was interesting because it was like we had an exit we had tons of growth we for a while were top five in the app store get not product market fit.",
+    "n_words": 73,
+    "embed_text": "Did you guys hit it at social cam? If you came and downloaded the app the chances that you were using that app 10 days later was basically zero. If you watched a video the chances that you'd watch it five more videos that week very low. And like it was interesting because it was like we had an exit we had tons of growth we for a while were top five in the app store get not product market fit."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 519390,
+    "end_ms": 541070,
+    "text": "I'd even argue I mean if you look back at Justin TV Justin TV by let's say 2000 and let's think 10 so it started in 2006 but 2010 I'm sure I have those dates right I think that's correct. Yeah. We made eight million dollars in revenue",
+    "n_words": 48,
+    "embed_text": "Did you guys hit it at social cam? I'd even argue I mean if you look back at Justin TV Justin TV by let's say 2000 and let's think 10 so it started in 2006 but 2010 I'm sure I have those dates right I think that's correct. Yeah. We made eight million dollars in revenue"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_01",
+    "start_ms": 541750,
+    "end_ms": 542330,
+    "text": "one",
+    "n_words": 1,
+    "embed_text": "it started in 2006 but 2010 I'm sure I have those dates right I think that's correct. Yeah. We made eight million dollars in revenue one"
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 542330,
+    "end_ms": 551500,
+    "text": "million in profit with approximately 30 million monthly viewers on the product and we were not at product market fit. Right.",
+    "n_words": 21,
+    "embed_text": "one million in profit with approximately 30 million monthly viewers on the product and we were not at product market fit. Right."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 552900,
+    "end_ms": 582300,
+    "text": "And so it's like Yeah. This like it is hard like and the reason why for the Justin TV case was that we didn't have a repeatable engine to create growth like that 300 million monthly uniques we couldn't make that number go up and then the second thing was that unfortunately we had tons of copper and content on the site. And so it wasn't we weren't able to reliably monetize that over time. Right.",
+    "n_words": 76,
+    "embed_text": "one And so it's like Yeah. This like it is hard like and the reason why for the Justin TV case was that we didn't have a repeatable engine to create growth like that 300 million monthly uniques we couldn't make that number go up and then the second thing was that unfortunately we had tons of copper and content on the site. And so it wasn't we weren't able to reliably monetize that over time. Right."
+  },
+  {
+    "file": "y_combinator.wav",
+    "speaker": "SPEAKER_00",
+    "start_ms": 582640,
+    "end_ms": 598120,
+    "text": "And so it's like it's funny because I can't imagine how many pitches that I gave trying to present that as a good business when like in my heart I knew it wasn't a good business and I mean like and like it wasn't until we actually",
+    "n_words": 47,
+    "embed_text": "one And so it's like it's funny because I can't imagine how many pitches that I gave trying to present that as a good business when like in my heart I knew it wasn't a good business and I mean like and like it wasn't until we actually"
+  }
+]

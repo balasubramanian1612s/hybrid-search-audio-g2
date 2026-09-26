@@ -1,1 +1,4 @@
 .venv
+.env
+pipeline/__pycache__
+tests/__pycache__

@@ -1,0 +1,402 @@
+[
+  {"query": "amazon robotics", "type": "lexical",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 31.6, "end": 32.5, "why": "intro: 'internships at a local power plant and at Amazon Robotics'"},
+     {"file": "behavioral_mock_interview.wav", "start": 178.0, "end": 229.8, "why": "story: working at Amazon on the first new robotic facility"}
+   ]},
+
+  {"query": "boston consulting group", "type": "lexical",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 34.5, "end": 35.5, "why": "intro: consulting internship at the Boston Consulting Group"},
+     {"file": "behavioral_mock_interview.wav", "start": 238.0, "end": 284.6, "why": "leadership story set at the Boston Consulting Group"}
+   ]},
+
+  {"query": "leadership experience", "type": "lexical",
+   "note": "distractor: nasa says 'American leadership in space' twice, which is not this",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 162.6, "end": 169.4, "why": "names leadership as his second key strength"},
+     {"file": "behavioral_mock_interview.wav", "start": 230.0, "end": 284.6, "why": "'demonstrated strong leadership skills?' + BCG team-lead story"}
+   ]},
+
+  {"query": "example of persuading people", "type": "semantic",
+   "note": "cross-file: the psychology file's influence examples also answer this",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 178.0, "end": 229.8, "why": "convinced the VP of supply chain not to delay the launch"},
+     {"file": "psychology_raj_shamani.wav", "start": 71.0, "end": 123.0, "why": "example: giving suspects a choice (open door) so they talk"},
+     {"file": "psychology_raj_shamani.wav", "start": 179.0, "end": 213.0, "why": "example: doing favours for Raj to later ask for podcast help"}
+   ]},
+
+  {"query": "struggling to decide which task to do first", "type": "semantic",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 294.0, "end": 333.0, "why": "weakness: prioritizing competing high-urgency projects"}
+   ]},
+
+  {"query": "feedback on how the candidate performed", "type": "semantic",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 377.0, "end": 421.0, "why": "interviewer's closing review: poised, STAR method, concise, next round"}
+   ]},
+
+  {"query": "what are externships", "type": "mixed",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 71.0, "end": 78.0, "why": "'the opportunities for externship' named as a reason to join"},
+     {"file": "behavioral_mock_interview.wav", "start": 88.0, "end": 103.0, "why": "explains it: six months at a public sector company or nonprofit in Africa"}
+   ]},
+
+  {"query": "nonprofit education work in Africa", "type": "mixed",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 44.0, "end": 54.0, "why": "goal: education technology company in Morocco to make education affordable"},
+     {"file": "behavioral_mock_interview.wav", "start": 92.0, "end": 103.0, "why": "externship at a nonprofit out in Africa focused on education"}
+   ]},
+
+  {"query": "how to source a supplier matching your pricing", "type": "mixed",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 121.0, "end": 154.0, "why": "French supplier's pricing didn't match budget, found and negotiated a South Korean one"}
+   ]},
+
+  {"query": "internships that were not technical", "type": "semantic",
+   "expect_fail": true,
+   "fail_reason": "negation: embeddings ignore 'not', so vector search returns the technical internships (power plant, Amazon Robotics). Keyword AND finds nothing.",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 33.0, "end": 36.0, "why": "'I also did one in consulting at the Boston Consulting Group'"}
+   ]},
+
+
+  {"query": "Artemis program", "type": "lexical",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 93.0, "end": 101.0, "why": "president created the Artemis program"},
+     {"file": "nasa_interview.wav", "start": 269.0, "end": 311.0, "why": "Artemis 2 / 3 question + answer (SLS authorized through Artemis 5)"},
+     {"file": "nasa_interview.wav", "start": 580.0, "end": 600.0, "why": "Artemis II crew test in Orion on SLS, weeks away"}
+   ]},
+
+  {"query": "China space race", "type": "lexical",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 198.0, "end": 268.5, "why": "space race against China / cold war question + answer on high ground, geopolitics"}
+   ]},
+
+  {"query": "American leadership in space", "type": "lexical",
+   "note": "distractor: behavioral talks about leadership skills, which is not this",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 46.0, "end": 52.5, "why": "'most significant commitment to American leadership in space since Kennedy'"},
+     {"file": "nasa_interview.wav", "start": 508.0, "end": 511.5, "why": "'number one priority, American leadership in the high ground of space'"}
+   ]},
+
+  {"query": "how rich entrepreneurs help pay for space missions", "type": "semantic",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 414.0, "end": 490.0, "why": "SpaceX IPO / private capital question + answer (SpaceX, Bezos)"},
+     {"file": "nasa_interview.wav", "start": 536.0, "end": 542.0, "why": "'not gonna happen if it's perpetually funded by the taxpayers'"}
+   ]},
+
+  {"query": "who is the new head of the space agency", "type": "semantic",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 0.0, "end": 17.2, "why": "introduces Jared Isaacman, newly confirmed NASA administrator"}
+   ]},
+
+  {"query": "plan after building moon base", "type": "mixed",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 53.0, "end": 73.7, "why": "'build the moon base', then nuclear power/propulsion, next giant leap"},
+     {"file": "nasa_interview.wav", "start": 184.0, "end": 197.8, "why": "return to the moon, infrastructure, then nuclear and science"},
+     {"file": "nasa_interview.wav", "start": 511.0, "end": 536.0, "why": "enduring presence, nuclear spaceships, Mars, mining on the moon"}
+   ]},
+
+  {"query": "competitive launch market", "type": "mixed",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 247.0, "end": 257.5, "why": "'competition is a good thing' among commercial partners"},
+     {"file": "nasa_interview.wav", "start": 349.6, "end": 413.5, "why": "'enough competition?' + healthiest launch market answer"}
+   ]},
+
+  {"query": "working with commercial partners", "type": "mixed",
+   "note": "distractor: behavioral 'the partners were very happy with the dashboard' means BCG partners",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 138.0, "end": 149.5, "why": "partnering / contracting with commercial space companies question"},
+     {"file": "nasa_interview.wav", "start": 250.0, "end": 257.5, "why": "commercial partners and international partners contributing"},
+     {"file": "nasa_interview.wav", "start": 311.0, "end": 349.0, "why": "commercial partners SpaceX and Blue Origin under contract"},
+     {"file": "nasa_interview.wav", "start": 456.0, "end": 482.0, "why": "partners investing private capital, SpaceX Starship, Blue Origin New Glenn"}
+   ]},
+
+  {"query": "4.5%", "type": "lexical",
+   "expect_fail": true,
+   "fail_reason": "ASR tokenization: whisper split it into words '4' '.5' '%', chunk text reads '4 .5 %', so keyword search cannot match '4.5'. Vector has no meaning to match on a bare number.",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 451.1, "end": 452.1, "why": "NASA received 4.5% of the discretionary budget in the 1960s"}
+   ]},
+
+  {"query": "how can we go to moon with less money", "type": "semantic",
+   "expect_fail": true,
+   "fail_reason": "vocabulary gap: speaker says 'affordably', 'low cost', 'fraction of the budget', never 'money'. MiniLM does not bridge it; keyword AND finds nothing.",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 319.0, "end": 336.0, "why": "reusability lets us go to and from the moon affordably"},
+     {"file": "nasa_interview.wav", "start": 409.0, "end": 413.5, "why": "'low cost launch in a competitive environment is key'"},
+     {"file": "nasa_interview.wav", "start": 447.0, "end": 490.0, "why": "fraction of the 1960s budget, private partners fund the rest"}
+   ]},
+
+
+  {"query": "miranda rights", "type": "lexical",
+   "spans": [
+     {"file": "psychology_raj_shamani.wav", "start": 48.0, "end": 70.0, "why": "can't make someone talk, right to remain silent, Miranda rights"}
+   ]},
+
+  {"query": "reciprocity strategy", "type": "lexical",
+   "spans": [
+     {"file": "psychology_raj_shamani.wav", "start": 124.0, "end": 247.0, "why": "reciprocity defined, door example, podcast favour example, 'that's another influence strategy, reciprocity'"}
+   ]},
+
+  {"query": "what is paralinguistics", "type": "lexical",
+   "note": "Whisper transcribed it as 'parallel linguistics', so keyword search misses it; hybrid should rescue it through vector",
+   "spans": [
+     {"file": "psychology_raj_shamani.wav", "start": 274.0, "end": 311.0, "why": "politician voice study: deeper tone seen as more authority"}
+   ]},
+
+  {"query": "how fast do people judge you when you walk in", "type": "semantic",
+   "spans": [
+     {"file": "psychology_raj_shamani.wav", "start": 361.0, "end": 423.0, "why": "first impressions in 0.1 to a few seconds, hard to reverse, social media"}
+   ]},
+
+  {"query": "interrogation techniques to get suspects to talk", "type": "semantic",
+   "spans": [
+     {"file": "psychology_raj_shamani.wav", "start": 1.0, "end": 123.0, "why": "examiner / law enforcement: can't force talk, give them a choice"}
+   ]},
+
+  {"query": "how clothing affects how people see you", "type": "semantic",
+   "spans": [
+     {"file": "psychology_raj_shamani.wav", "start": 331.0, "end": 358.0, "why": "darker colors exude authority, bright yellow outfit takes it away"},
+     {"file": "psychology_raj_shamani.wav", "start": 375.0, "end": 386.0, "why": "'what you wear, how you're dressed' decides how people see you"}
+   ]},
+
+  {"query": "what is autonomy", "type": "mixed",
+   "spans": [
+     {"file": "psychology_raj_shamani.wav", "start": 13.0, "end": 123.0, "why": "autonomy introduced, defined, door example, 'that's autonomy'"}
+   ]},
+
+  {"query": "how is reciprocity related to goodness", "type": "mixed",
+   "spans": [
+     {"file": "psychology_raj_shamani.wav", "start": 157.0, "end": 247.0, "why": "do things for the niceness of it vs using it to influence, manipulation"}
+   ]},
+
+  {"query": "what influence strategies does she describe", "type": "mixed",
+   "spans": [
+     {"file": "psychology_raj_shamani.wav", "start": 13.0, "end": 123.0, "why": "strategy 1: autonomy"},
+     {"file": "psychology_raj_shamani.wav", "start": 124.0, "end": 247.0, "why": "strategy 2: reciprocity"},
+     {"file": "psychology_raj_shamani.wav", "start": 247.0, "end": 358.0, "why": "strategy 3: authority (voice, dress)"}
+   ]},
+
+  {"query": "what jobs has Evie had", "type": "semantic",
+   "expect_fail": true,
+   "fail_reason": "identity reasoning: 'Evie' is the guest's name, but her jobs are spread across the talk (examiner, law enforcement, Secret Service) and no chunk links the name to them.",
+   "spans": [
+     {"file": "psychology_raj_shamani.wav", "start": 7.0, "end": 11.0, "why": "'I did that all the time when I was an examiner'"},
+     {"file": "psychology_raj_shamani.wav", "start": 34.0, "end": 39.0, "why": "'my old job in law enforcement, even now in media'"},
+     {"file": "psychology_raj_shamani.wav", "start": 344.0, "end": 353.0, "why": "'I'm former U.S. Secret Service'"}
+   ]},
+
+
+  {"query": "law of karma", "type": "lexical",
+   "spans": [
+     {"file": "beerbiceps.wav", "start": 104.0, "end": 126.0, "why": "third topic: karma, equal and opposite reaction, 'law of karma which governs our fortunes'"}
+   ]},
+
+  {"query": "journal", "type": "lexical",
+   "spans": [
+     {"file": "beerbiceps.wav", "start": 308.0, "end": 327.0, "why": "25 years of journaling how he sees the Gita in daily life, reading what he wrote 20 years ago"}
+   ]},
+
+  {"query": "five topics", "type": "lexical",
+   "spans": [
+     {"file": "beerbiceps.wav", "start": 60.0, "end": 73.5, "why": "'Krishna explains five topics' that unravel any existential question"},
+     {"file": "beerbiceps.wav", "start": 176.0, "end": 193.5, "why": "recap: 'if you understand those five topics, the soul, the material world, karma, time, and God'"}
+   ]},
+
+  {"query": "does time move in a straight line or in circles", "type": "semantic",
+   "spans": [
+     {"file": "beerbiceps.wav", "start": 127.0, "end": 147.5, "why": "fourth topic: 'is time linear or is time cyclical?'"}
+   ]},
+
+  {"query": "why rereading the same scripture keeps teaching you more", "type": "semantic",
+   "spans": [
+     {"file": "beerbiceps.wav", "start": 250.0, "end": 287.5, "why": "spiritual learning is a spiral: same verses, same stories, gradually reaching the essence"},
+     {"file": "beerbiceps.wav", "start": 318.0, "end": 327.0, "why": "reading what he wrote 20 years ago shows the Gita's knowledge in action"}
+   ]},
+
+  {"query": "can we understand God just by our own effort", "type": "semantic",
+   "spans": [
+     {"file": "beerbiceps.wav", "start": 351.0, "end": 426.0, "why": "knowledge is not understood by our endeavor, awakened by divinity; hundred doors, last one locked from inside"}
+   ]},
+
+  {"query": "what is the blueprint of reality", "type": "mixed",
+   "spans": [
+     {"file": "beerbiceps.wav", "start": 46.0, "end": 193.5, "why": "'understanding that blueprint of reality', the question, and the five-topic answer"}
+   ]},
+
+  {"query": "four steps to understand the Gita", "type": "mixed",
+   "spans": [
+     {"file": "beerbiceps.wav", "start": 289.0, "end": 413.0, "why": "study, reflection, application, prayer; 'if you want to understand the Gita'"}
+   ]},
+
+  {"query": "the soul and the material body", "type": "mixed",
+   "spans": [
+     {"file": "beerbiceps.wav", "start": 74.0, "end": 81.5, "why": "first topic, atma: 'we're not this body, but we're the soul'"},
+     {"file": "beerbiceps.wav", "start": 83.0, "end": 95.5, "why": "second topic, prakriti: soul living in the material body, in the material world"},
+     {"file": "beerbiceps.wav", "start": 168.0, "end": 175.5, "why": "yoga is the connection of the soul to that reality"}
+   ]},
+
+  {"query": "Sanskrit shloka", "type": "semantic",
+   "expect_fail": true,
+   "fail_reason": "ASR garble: the verse (Gita 15.15) was transcribed as nonsense ('Saravasya Jaaham Riddhi...'), and 'Sanskrit' / 'shloka' are never said, so neither arm can tell this chunk is a verse.",
+   "spans": [
+     {"file": "beerbiceps.wav", "start": 365.0, "end": 382.0, "why": "Krishna's verse, then its translation: 'from me dwelling in your heart comes knowledge, remembrance and forgetfulness'"}
+   ]},
+
+
+  {"query": "crypto", "type": "lexical",
+   "spans": [
+     {"file": "nikhilkamath.wav", "start": 173.0, "end": 187.5, "why": "Bitcoin in 2012, people were upset, vitriol on CNBC"},
+     {"file": "nikhilkamath.wav", "start": 397.0, "end": 421.5, "why": "'going back to this crypto example', private crypto projects could go to zero or infinity"}
+   ]},
+
+  {"query": "rat poison", "type": "lexical",
+   "spans": [
+     {"file": "nikhilkamath.wav", "start": 268.0, "end": 311.5, "why": "large investments need consensus: 'I want you to just hate it... it's rat poison'"}
+   ]},
+
+  {"query": "portfolio construction", "type": "lexical",
+   "spans": [
+     {"file": "nikhilkamath.wav", "start": 314.0, "end": 322.5, "why": "'which portfolio did better?' gross dollars vs sheer alpha"},
+     {"file": "nikhilkamath.wav", "start": 353.0, "end": 447.5, "why": "'constructing a portfolio, how do I arrive at that?' small / medium / large buckets, 'this is about portfolio construction'"}
+   ]},
+
+  {"query": "why investing should be done alone and not by committee", "type": "semantic",
+   "spans": [
+     {"file": "nikhilkamath.wav", "start": 43.0, "end": 91.5, "why": "'single-minded', 'not a team sport', teams of investors lose money"},
+     {"file": "nikhilkamath.wav", "start": 322.0, "end": 365.0, "why": "'it's a you thing', one person makes the investment decisions, host summarizes 'no team'"}
+   ]},
+
+  {"query": "when people hate your idea it may be a good sign", "type": "semantic",
+   "spans": [
+     {"file": "nikhilkamath.wav", "start": 100.0, "end": 134.5, "why": "embarrassed to tell people, NBA team: everyone up in arms, 'almost the best signal'"},
+     {"file": "nikhilkamath.wav", "start": 189.0, "end": 227.5, "why": "negative reactions touch a core belief: 'an incredible signal', asymmetric outcome"},
+     {"file": "nikhilkamath.wav", "start": 254.0, "end": 267.5, "why": "visceral reaction means 'I'm onto something'"}
+   ]},
+
+  {"query": "will AI take away people's jobs", "type": "semantic",
+   "spans": [
+     {"file": "nikhilkamath.wav", "start": 480.0, "end": 486.5, "why": "build the tooling that lets people participate in the gains"},
+     {"file": "nikhilkamath.wav", "start": 498.0, "end": 546.5, "why": "what will billions of people do? agrarian revolution, pessimists were wrong every time"}
+   ]},
+
+  {"query": "view on AI productivity", "type": "mixed",
+   "spans": [
+     {"file": "nikhilkamath.wav", "start": 458.0, "end": 486.5, "why": "'a very specific view on AI', 'a massive accelerant on productivity'"},
+     {"file": "nikhilkamath.wav", "start": 498.0, "end": 546.5, "why": "when productivity goes up, what do billions of people do"}
+   ]},
+
+  {"query": "risk of ruin with large investments", "type": "mixed",
+   "spans": [
+     {"file": "nikhilkamath.wav", "start": 144.0, "end": 164.5, "why": "'the risk of ruin was very high', parked money in an uncorrelated asset"},
+     {"file": "nikhilkamath.wav", "start": 268.0, "end": 311.5, "why": "hundreds of millions or billions: 'risk of ruin goes up', want consensus"},
+     {"file": "nikhilkamath.wav", "start": 423.0, "end": 440.5, "why": "medium and large 'can never be wrong', rather take a 2x on a billion"}
+   ]},
+
+  {"query": "small bets for massive alpha", "type": "mixed",
+   "spans": [
+     {"file": "nikhilkamath.wav", "start": 318.0, "end": 322.5, "why": "'sheer alpha this one'"},
+     {"file": "nikhilkamath.wav", "start": 376.0, "end": 421.5, "why": "'small should be about massive alpha', generated in controversy, swinging for the fences"}
+   ]},
+
+  {"query": "Meta", "type": "lexical",
+   "expect_fail": true,
+   "fail_reason": "ASR error: transcribed as 'Metta' ('Facebook, which is now Metta'), so keyword cannot match, and a bare company name gives vector nothing to work with.",
+   "spans": [
+     {"file": "nikhilkamath.wav", "start": 11.0, "end": 17.5, "why": "'from starting at Facebook, which is now Meta'"}
+   ]},
+
+
+  {"query": "Justin TV", "type": "lexical",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 519.0, "end": 598.0, "why": "$8M revenue, 30M monthly viewers, still not product market fit; no repeatable growth, content problems"}
+   ]},
+
+  {"query": "negative margins", "type": "lexical",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 270.0, "end": 290.5, "why": "'scaling negative margins': pay 75 cents, get a dollar of value"}
+   ]},
+
+  {"query": "retention", "type": "lexical",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 323.0, "end": 329.5, "why": "'should I optimize for growth, retention or profitability?'"},
+     {"file": "y_combinator.wav", "start": 375.0, "end": 380.5, "why": "what percentage of revenue are you losing every month (churn)"},
+     {"file": "y_combinator.wav", "start": 488.0, "end": 505.5, "why": "Socialcam: 'horrible retention', nobody using the app 10 days later"}
+   ]},
+
+  {"query": "how can you tell a startup has really taken off", "type": "semantic",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 36.0, "end": 51.5, "why": "Andreessen's definition: customers buying as fast as you can make it, money piling up"},
+     {"file": "y_combinator.wav", "start": 134.0, "end": 174.5, "why": "customers using it in an explosive way; no explosive usage means you don't have it"},
+     {"file": "y_combinator.wav", "start": 250.0, "end": 270.0, "why": "'is the growth killing you?' and is it profitable"}
+   ]},
+
+  {"query": "scaling up the organisation too early", "type": "semantic",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 10.0, "end": 21.5, "why": "founders start hiring, increasing burn before discovering what to build"},
+     {"file": "y_combinator.wav", "start": 57.0, "end": 92.5, "why": "company building (employees, culture, office, management) happens after solving the problem"}
+   ]},
+
+  {"query": "do you need just one number to measure startup success", "type": "semantic",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 311.0, "end": 390.5, "why": "not a single variable problem; revenue you keep is the closest single metric, but you need churn, CAC, satisfaction"}
+   ]},
+
+  {"query": "Andreessen definition of product market fit", "type": "mixed",
+   "note": "ASR spells him 'Mark Andreessen'",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 26.0, "end": 51.5, "why": "read Andreessen's post; 'here's how he defines the term'"},
+     {"file": "y_combinator.wav", "start": 240.0, "end": 270.5, "why": "'Mark does a good job of defining it because it's experiential': growth killing you + profitable"}
+   ]},
+
+  {"query": "pre-product market fit vs post-product market fit", "type": "mixed",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 203.0, "end": 236.5, "why": "post: 'your company to screw up'; pre: you really don't know, can still have customers and growth"},
+     {"file": "y_combinator.wav", "start": 391.0, "end": 444.5, "why": "pre-product market fit is 'being in the suck'; you can't pretend your way out"}
+   ]},
+
+  {"query": "why most YC founders never find product market fit", "type": "mixed",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 180.0, "end": 201.5, "why": "'the vast majority of YC founders never find product market fit', acquisitions of companies that didn't"}
+   ]},
+
+  {"query": "copyrighted content", "type": "lexical",
+   "expect_fail": true,
+   "fail_reason": "ASR error: transcribed as 'tons of copper and content on the site', so keyword cannot match and the embedding reads it as copper, not copyright.",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 570.0, "end": 581.5, "why": "Justin TV: 'we had tons of copyrighted content on the site', couldn't monetize it"}
+   ]},
+
+
+  {"query": "Y Combinator", "type": "lexical",
+   "expect_fail": true,
+   "fail_reason": "alias: the speakers only ever say 'YC', never 'Y Combinator'. Keyword has no shared word, and MiniLM does not link the full name to the acronym.",
+   "spans": [
+     {"file": "y_combinator.wav", "start": 180.0, "end": 201.5, "why": "'the vast majority of YC founders even never find product market fit'"}
+   ]},
+
+  {"query": "artemus program", "type": "lexical",
+   "expect_fail": true,
+   "fail_reason": "typo in a name: 'artemus' is not 'artemis', so keyword finds nothing, and the misspelled name splits into different wordpieces so vector misses it too.",
+   "spans": [
+     {"file": "nasa_interview.wav", "start": 93.0, "end": 101.0, "why": "president created the Artemis program"},
+     {"file": "nasa_interview.wav", "start": 269.0, "end": 311.0, "why": "Artemis 2 / 3 question + answer (SLS authorized through Artemis 5)"},
+     {"file": "nasa_interview.wav", "start": 580.0, "end": 600.0, "why": "Artemis II crew test in Orion on SLS, weeks away"}
+   ]},
+
+  {"query": "questions the interviewer asked the candidate", "type": "semantic",
+   "expect_fail": true,
+   "fail_reason": "speaker/role: search cannot filter by who is speaking, and speaker labels are just SPEAKER_00/01. Also 8 relevant moments cannot fit in a top 5, so R@5 is at most 0.62.",
+   "spans": [
+     {"file": "behavioral_mock_interview.wav", "start": 4.5, "end": 13.0, "why": "'could you tell me a little bit about yourself?'"},
+     {"file": "behavioral_mock_interview.wav", "start": 58.6, "end": 65.8, "why": "'why exactly are you interested in interviewing with our consulting firm?'"},
+     {"file": "behavioral_mock_interview.wav", "start": 106.1, "end": 115.2, "why": "'tell me about a time where you solved a difficult problem?'"},
+     {"file": "behavioral_mock_interview.wav", "start": 155.3, "end": 161.5, "why": "'one or two of your key strengths?'"},
+     {"file": "behavioral_mock_interview.wav", "start": 169.7, "end": 178.3, "why": "'a time you were able to convince someone to change their mind'"},
+     {"file": "behavioral_mock_interview.wav", "start": 230.1, "end": 238.3, "why": "'a time that you demonstrated strong leadership skills?'"},
+     {"file": "behavioral_mock_interview.wav", "start": 284.6, "end": 293.7, "why": "'tell me about a weakness that you face in the workforce'"},
+     {"file": "behavioral_mock_interview.wav", "start": 333.7, "end": 340.3, "why": "'do you have any questions for me?'"}
+   ]}
+]

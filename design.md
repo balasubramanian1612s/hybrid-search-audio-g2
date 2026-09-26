@@ -26,7 +26,7 @@ output: data/transcripts/<stem>.json
 input: audio/*.wav
 output: data/diarization/<stem>.json
         {file, turns:[{speaker, start, end}]}
-- pyannote community-1, 4.x output shape (output.speaker_diarization)
+- pyannote community-1, 4.x output shape (output.exclusive_speaker_diarization, no overlapping turns)
 - num_speaker = 2
 - progress the hook
 - print per-speaker time limit
@@ -35,7 +35,7 @@ output: data/diarization/<stem>.json
 
 input: transcripts/<stem>.json + diarization/<stem>.json
 output: data/turns/<stem>.json
-        {file, turns:[{speaker, start, end, text, n_words, n_low}]}
+        {file, turns:[{speaker, start, end, text, n_words, n_low, words:[{word, start, end}]}]}
 - drop diarization spans < 250ms
 - split the words at the boundary, multi-token can be split, single token should not be split
 - assign speaker: never splits.

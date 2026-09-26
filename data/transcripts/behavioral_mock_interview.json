@@ -1,0 +1,8695 @@
+{
+  "file": "behavioral_mock_interview.wav",
+  "duration": 432.144,
+  "segments": [
+    {
+      "id": 1,
+      "text": "Hi, I'm Rhea. Thank you for coming to interview with us today. Let's just go",
+      "start": 4.53,
+      "end": 8.99,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 4.53,
+          "end": 4.93
+        },
+        {
+          "word": "I'm",
+          "start": 5.11,
+          "end": 5.25
+        },
+        {
+          "word": "Rhea.",
+          "start": 5.25,
+          "end": 5.49
+        },
+        {
+          "word": "Thank",
+          "start": 5.63,
+          "end": 5.77
+        },
+        {
+          "word": "you",
+          "start": 5.77,
+          "end": 5.91
+        },
+        {
+          "word": "for",
+          "start": 5.91,
+          "end": 6.13
+        },
+        {
+          "word": "coming",
+          "start": 6.13,
+          "end": 6.49
+        },
+        {
+          "word": "to",
+          "start": 6.49,
+          "end": 6.67
+        },
+        {
+          "word": "interview",
+          "start": 6.67,
+          "end": 6.87
+        },
+        {
+          "word": "with",
+          "start": 6.87,
+          "end": 7.17
+        },
+        {
+          "word": "us",
+          "start": 7.17,
+          "end": 7.33
+        },
+        {
+          "word": "today.",
+          "start": 7.33,
+          "end": 7.61
+        },
+        {
+          "word": "Let's",
+          "start": 8.21,
+          "end": 8.59
+        },
+        {
+          "word": "just",
+          "start": 8.59,
+          "end": 8.77
+        },
+        {
+          "word": "go",
+          "start": 8.77,
+          "end": 8.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "ahead and get started with a quick introduction. Could you tell me a little",
+      "start": 8.99,
+      "end": 12.35,
+      "words": [
+        {
+          "word": "ahead",
+          "start": 8.99,
+          "end": 9.17
+        },
+        {
+          "word": "and",
+          "start": 9.17,
+          "end": 9.31
+        },
+        {
+          "word": "get",
+          "start": 9.31,
+          "end": 9.45
+        },
+        {
+          "word": "started",
+          "start": 9.45,
+          "end": 9.87
+        },
+        {
+          "word": "with",
+          "start": 9.87,
+          "end": 10.23
+        },
+        {
+          "word": "a",
+          "start": 10.23,
+          "end": 10.53
+        },
+        {
+          "word": "quick",
+          "start": 10.53,
+          "end": 10.63
+        },
+        {
+          "word": "introduction.",
+          "start": 10.63,
+          "end": 11.11
+        },
+        {
+          "word": "Could",
+          "start": 11.43,
+          "end": 11.51
+        },
+        {
+          "word": "you",
+          "start": 11.51,
+          "end": 11.73
+        },
+        {
+          "word": "tell",
+          "start": 11.73,
+          "end": 12.07
+        },
+        {
+          "word": "me",
+          "start": 12.07,
+          "end": 12.17
+        },
+        {
+          "word": "a",
+          "start": 12.17,
+          "end": 12.27
+        },
+        {
+          "word": "little",
+          "start": 12.27,
+          "end": 12.35
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "bit about yourself? Yeah, absolutely. First of all, thank you so much for",
+      "start": 12.35,
+      "end": 15.23,
+      "words": [
+        {
+          "word": "bit",
+          "start": 12.35,
+          "end": 12.49
+        },
+        {
+          "word": "about",
+          "start": 12.49,
+          "end": 12.65
+        },
+        {
+          "word": "yourself?",
+          "start": 12.65,
+          "end": 12.99
+        },
+        {
+          "word": "Yeah,",
+          "start": 13.49,
+          "end": 13.59
+        },
+        {
+          "word": "absolutely.",
+          "start": 13.61,
+          "end": 13.89
+        },
+        {
+          "word": "First",
+          "start": 14.27,
+          "end": 14.37
+        },
+        {
+          "word": "of",
+          "start": 14.37,
+          "end": 14.51
+        },
+        {
+          "word": "all,",
+          "start": 14.51,
+          "end": 14.59
+        },
+        {
+          "word": "thank",
+          "start": 14.63,
+          "end": 14.73
+        },
+        {
+          "word": "you",
+          "start": 14.73,
+          "end": 14.85
+        },
+        {
+          "word": "so",
+          "start": 14.85,
+          "end": 14.95
+        },
+        {
+          "word": "much",
+          "start": 14.95,
+          "end": 15.11
+        },
+        {
+          "word": "for",
+          "start": 15.11,
+          "end": 15.23
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "having me. It's an honor to be here. So a bit about myself. I'm originally from",
+      "start": 15.23,
+      "end": 19.81,
+      "words": [
+        {
+          "word": "having",
+          "start": 15.23,
+          "end": 15.39
+        },
+        {
+          "word": "me.",
+          "start": 15.39,
+          "end": 15.61
+        },
+        {
+          "word": "It's",
+          "start": 16.11,
+          "end": 16.51
+        },
+        {
+          "word": "an",
+          "start": 16.51,
+          "end": 16.61
+        },
+        {
+          "word": "honor",
+          "start": 16.61,
+          "end": 16.79
+        },
+        {
+          "word": "to",
+          "start": 16.79,
+          "end": 16.97
+        },
+        {
+          "word": "be",
+          "start": 16.97,
+          "end": 17.09
+        },
+        {
+          "word": "here.",
+          "start": 17.09,
+          "end": 17.31
+        },
+        {
+          "word": "So",
+          "start": 17.91,
+          "end": 18.13
+        },
+        {
+          "word": "a",
+          "start": 18.13,
+          "end": 18.21
+        },
+        {
+          "word": "bit",
+          "start": 18.21,
+          "end": 18.31
+        },
+        {
+          "word": "about",
+          "start": 18.31,
+          "end": 18.51
+        },
+        {
+          "word": "myself.",
+          "start": 18.51,
+          "end": 18.83
+        },
+        {
+          "word": "I'm",
+          "start": 19.09,
+          "end": 19.25
+        },
+        {
+          "word": "originally",
+          "start": 19.25,
+          "end": 19.57
+        },
+        {
+          "word": "from",
+          "start": 19.57,
+          "end": 19.81
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Morocco, where I lived pretty much my whole life. I then came to Boston and",
+      "start": 19.81,
+      "end": 23.47,
+      "words": [
+        {
+          "word": "Morocco,",
+          "start": 19.81,
+          "end": 20.17
+        },
+        {
+          "word": "where",
+          "start": 20.17,
+          "end": 20.59
+        },
+        {
+          "word": "I",
+          "start": 20.59,
+          "end": 20.69
+        },
+        {
+          "word": "lived",
+          "start": 20.69,
+          "end": 20.89
+        },
+        {
+          "word": "pretty",
+          "start": 20.89,
+          "end": 21.25
+        },
+        {
+          "word": "much",
+          "start": 21.25,
+          "end": 21.41
+        },
+        {
+          "word": "my",
+          "start": 21.41,
+          "end": 21.57
+        },
+        {
+          "word": "whole",
+          "start": 21.57,
+          "end": 21.71
+        },
+        {
+          "word": "life.",
+          "start": 21.71,
+          "end": 22.03
+        },
+        {
+          "word": "I",
+          "start": 22.37,
+          "end": 22.49
+        },
+        {
+          "word": "then",
+          "start": 22.49,
+          "end": 22.61
+        },
+        {
+          "word": "came",
+          "start": 22.61,
+          "end": 22.81
+        },
+        {
+          "word": "to",
+          "start": 22.81,
+          "end": 22.99
+        },
+        {
+          "word": "Boston",
+          "start": 22.99,
+          "end": 23.23
+        },
+        {
+          "word": "and",
+          "start": 23.23,
+          "end": 23.47
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "studied industrial engineering at Northeastern University. While I was",
+      "start": 23.47,
+      "end": 27.05,
+      "words": [
+        {
+          "word": "studied",
+          "start": 23.47,
+          "end": 23.75
+        },
+        {
+          "word": "industrial",
+          "start": 23.75,
+          "end": 24.21
+        },
+        {
+          "word": "engineering",
+          "start": 24.21,
+          "end": 24.65
+        },
+        {
+          "word": "at",
+          "start": 24.65,
+          "end": 24.89
+        },
+        {
+          "word": "Northeastern",
+          "start": 24.89,
+          "end": 25.31
+        },
+        {
+          "word": "University.",
+          "start": 25.31,
+          "end": 25.65
+        },
+        {
+          "word": "While",
+          "start": 26.51,
+          "end": 26.83
+        },
+        {
+          "word": "I",
+          "start": 26.83,
+          "end": 26.95
+        },
+        {
+          "word": "was",
+          "start": 26.95,
+          "end": 27.05
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "in college, I did a few different internships. I did technical ones at",
+      "start": 27.05,
+      "end": 30.37,
+      "words": [
+        {
+          "word": "in",
+          "start": 27.05,
+          "end": 27.15
+        },
+        {
+          "word": "college,",
+          "start": 27.15,
+          "end": 27.39
+        },
+        {
+          "word": "I",
+          "start": 27.51,
+          "end": 27.61
+        },
+        {
+          "word": "did",
+          "start": 27.61,
+          "end": 27.73
+        },
+        {
+          "word": "a",
+          "start": 27.73,
+          "end": 27.85
+        },
+        {
+          "word": "few",
+          "start": 27.85,
+          "end": 27.93
+        },
+        {
+          "word": "different",
+          "start": 27.93,
+          "end": 28.17
+        },
+        {
+          "word": "internships.",
+          "start": 28.17,
+          "end": 28.61
+        },
+        {
+          "word": "I",
+          "start": 29.03,
+          "end": 29.17
+        },
+        {
+          "word": "did",
+          "start": 29.17,
+          "end": 29.31
+        },
+        {
+          "word": "technical",
+          "start": 29.31,
+          "end": 29.65
+        },
+        {
+          "word": "ones",
+          "start": 29.65,
+          "end": 30.01
+        },
+        {
+          "word": "at",
+          "start": 30.01,
+          "end": 30.37
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "a local power plant and at Amazon Robotics. I also did one in consulting at",
+      "start": 30.37,
+      "end": 34.45,
+      "words": [
+        {
+          "word": "a",
+          "start": 30.37,
+          "end": 30.51
+        },
+        {
+          "word": "local",
+          "start": 30.51,
+          "end": 30.69
+        },
+        {
+          "word": "power",
+          "start": 30.69,
+          "end": 30.99
+        },
+        {
+          "word": "plant",
+          "start": 30.99,
+          "end": 31.31
+        },
+        {
+          "word": "and",
+          "start": 31.31,
+          "end": 31.57
+        },
+        {
+          "word": "at",
+          "start": 31.57,
+          "end": 31.67
+        },
+        {
+          "word": "Amazon",
+          "start": 31.67,
+          "end": 31.89
+        },
+        {
+          "word": "Robotics.",
+          "start": 31.89,
+          "end": 32.45
+        },
+        {
+          "word": "I",
+          "start": 32.87,
+          "end": 33.13
+        },
+        {
+          "word": "also",
+          "start": 33.13,
+          "end": 33.33
+        },
+        {
+          "word": "did",
+          "start": 33.33,
+          "end": 33.51
+        },
+        {
+          "word": "one",
+          "start": 33.51,
+          "end": 33.67
+        },
+        {
+          "word": "in",
+          "start": 33.67,
+          "end": 33.79
+        },
+        {
+          "word": "consulting",
+          "start": 33.79,
+          "end": 34.13
+        },
+        {
+          "word": "at",
+          "start": 34.13,
+          "end": 34.45
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "the Boston Consulting Group. I was also the president of the consulting club at",
+      "start": 34.45,
+      "end": 38.25,
+      "words": [
+        {
+          "word": "the",
+          "start": 34.45,
+          "end": 34.55
+        },
+        {
+          "word": "Boston",
+          "start": 34.55,
+          "end": 34.77
+        },
+        {
+          "word": "Consulting",
+          "start": 34.77,
+          "end": 35.27
+        },
+        {
+          "word": "Group.",
+          "start": 35.27,
+          "end": 35.43
+        },
+        {
+          "word": "I",
+          "start": 35.79,
+          "end": 35.97
+        },
+        {
+          "word": "was",
+          "start": 35.97,
+          "end": 36.13
+        },
+        {
+          "word": "also",
+          "start": 36.13,
+          "end": 36.31
+        },
+        {
+          "word": "the",
+          "start": 36.31,
+          "end": 36.47
+        },
+        {
+          "word": "president",
+          "start": 36.47,
+          "end": 36.79
+        },
+        {
+          "word": "of",
+          "start": 36.79,
+          "end": 37.31
+        },
+        {
+          "word": "the",
+          "start": 37.31,
+          "end": 37.45
+        },
+        {
+          "word": "consulting",
+          "start": 37.45,
+          "end": 37.77
+        },
+        {
+          "word": "club",
+          "start": 37.77,
+          "end": 38.05
+        },
+        {
+          "word": "at",
+          "start": 38.05,
+          "end": 38.25
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "my university. So really I'm someone who enjoys both the business side of",
+      "start": 38.25,
+      "end": 42.01,
+      "words": [
+        {
+          "word": "my",
+          "start": 38.25,
+          "end": 38.39
+        },
+        {
+          "word": "university.",
+          "start": 38.39,
+          "end": 38.83
+        },
+        {
+          "word": "So",
+          "start": 39.63,
+          "end": 39.75
+        },
+        {
+          "word": "really",
+          "start": 39.75,
+          "end": 40.15
+        },
+        {
+          "word": "I'm",
+          "start": 40.15,
+          "end": 40.29
+        },
+        {
+          "word": "someone",
+          "start": 40.29,
+          "end": 40.51
+        },
+        {
+          "word": "who",
+          "start": 40.51,
+          "end": 40.67
+        },
+        {
+          "word": "enjoys",
+          "start": 40.67,
+          "end": 40.99
+        },
+        {
+          "word": "both",
+          "start": 40.99,
+          "end": 41.19
+        },
+        {
+          "word": "the",
+          "start": 41.19,
+          "end": 41.39
+        },
+        {
+          "word": "business",
+          "start": 41.39,
+          "end": 41.59
+        },
+        {
+          "word": "side",
+          "start": 41.59,
+          "end": 41.91
+        },
+        {
+          "word": "of",
+          "start": 41.91,
+          "end": 42.01
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "things, but I also do have a passion for technology. So down the line, my goal",
+      "start": 42.01,
+      "end": 46.57,
+      "words": [
+        {
+          "word": "things,",
+          "start": 42.01,
+          "end": 42.19
+        },
+        {
+          "word": "but",
+          "start": 42.31,
+          "end": 42.43
+        },
+        {
+          "word": "I",
+          "start": 42.43,
+          "end": 42.53
+        },
+        {
+          "word": "also",
+          "start": 42.53,
+          "end": 42.65
+        },
+        {
+          "word": "do",
+          "start": 42.65,
+          "end": 42.77
+        },
+        {
+          "word": "have",
+          "start": 42.77,
+          "end": 42.95
+        },
+        {
+          "word": "a",
+          "start": 42.95,
+          "end": 43.03
+        },
+        {
+          "word": "passion",
+          "start": 43.03,
+          "end": 43.27
+        },
+        {
+          "word": "for",
+          "start": 43.27,
+          "end": 43.49
+        },
+        {
+          "word": "technology.",
+          "start": 43.49,
+          "end": 43.91
+        },
+        {
+          "word": "So",
+          "start": 44.83,
+          "end": 44.99
+        },
+        {
+          "word": "down",
+          "start": 44.99,
+          "end": 45.49
+        },
+        {
+          "word": "the",
+          "start": 45.49,
+          "end": 45.67
+        },
+        {
+          "word": "line,",
+          "start": 45.67,
+          "end": 45.89
+        },
+        {
+          "word": "my",
+          "start": 46.05,
+          "end": 46.19
+        },
+        {
+          "word": "goal",
+          "start": 46.19,
+          "end": 46.57
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "is to start my own education technology company in my home country, Morocco, so",
+      "start": 46.57,
+      "end": 50.13,
+      "words": [
+        {
+          "word": "is",
+          "start": 46.57,
+          "end": 46.73
+        },
+        {
+          "word": "to",
+          "start": 46.73,
+          "end": 46.83
+        },
+        {
+          "word": "start",
+          "start": 46.83,
+          "end": 47.01
+        },
+        {
+          "word": "my",
+          "start": 47.01,
+          "end": 47.19
+        },
+        {
+          "word": "own",
+          "start": 47.19,
+          "end": 47.31
+        },
+        {
+          "word": "education",
+          "start": 47.31,
+          "end": 47.69
+        },
+        {
+          "word": "technology",
+          "start": 47.69,
+          "end": 48.29
+        },
+        {
+          "word": "company",
+          "start": 48.29,
+          "end": 48.73
+        },
+        {
+          "word": "in",
+          "start": 48.73,
+          "end": 48.91
+        },
+        {
+          "word": "my",
+          "start": 48.91,
+          "end": 49.01
+        },
+        {
+          "word": "home",
+          "start": 49.01,
+          "end": 49.15
+        },
+        {
+          "word": "country,",
+          "start": 49.15,
+          "end": 49.41
+        },
+        {
+          "word": "Morocco,",
+          "start": 49.49,
+          "end": 49.77
+        },
+        {
+          "word": "so",
+          "start": 49.77,
+          "end": 50.13
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "I can make education more affordable through the use of tech. And outside",
+      "start": 50.13,
+      "end": 54.43,
+      "words": [
+        {
+          "word": "I",
+          "start": 50.13,
+          "end": 50.25
+        },
+        {
+          "word": "can",
+          "start": 50.25,
+          "end": 50.33
+        },
+        {
+          "word": "make",
+          "start": 50.33,
+          "end": 50.53
+        },
+        {
+          "word": "education",
+          "start": 50.53,
+          "end": 51.01
+        },
+        {
+          "word": "more",
+          "start": 51.01,
+          "end": 51.31
+        },
+        {
+          "word": "affordable",
+          "start": 51.31,
+          "end": 51.77
+        },
+        {
+          "word": "through",
+          "start": 51.77,
+          "end": 52.27
+        },
+        {
+          "word": "the",
+          "start": 52.27,
+          "end": 52.43
+        },
+        {
+          "word": "use",
+          "start": 52.43,
+          "end": 52.61
+        },
+        {
+          "word": "of",
+          "start": 52.61,
+          "end": 52.75
+        },
+        {
+          "word": "tech.",
+          "start": 52.75,
+          "end": 52.93
+        },
+        {
+          "word": "And",
+          "start": 53.75,
+          "end": 53.83
+        },
+        {
+          "word": "outside",
+          "start": 53.83,
+          "end": 54.43
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "of like school and work, I also do magic tricks on college campuses. Oh",
+      "start": 54.43,
+      "end": 58.83,
+      "words": [
+        {
+          "word": "of",
+          "start": 54.43,
+          "end": 54.65
+        },
+        {
+          "word": "like",
+          "start": 54.65,
+          "end": 54.79
+        },
+        {
+          "word": "school",
+          "start": 54.79,
+          "end": 55.03
+        },
+        {
+          "word": "and",
+          "start": 55.03,
+          "end": 55.21
+        },
+        {
+          "word": "work,",
+          "start": 55.21,
+          "end": 55.39
+        },
+        {
+          "word": "I",
+          "start": 55.53,
+          "end": 55.61
+        },
+        {
+          "word": "also",
+          "start": 55.61,
+          "end": 55.79
+        },
+        {
+          "word": "do",
+          "start": 55.79,
+          "end": 55.97
+        },
+        {
+          "word": "magic",
+          "start": 55.97,
+          "end": 56.29
+        },
+        {
+          "word": "tricks",
+          "start": 56.29,
+          "end": 56.65
+        },
+        {
+          "word": "on",
+          "start": 56.65,
+          "end": 57.27
+        },
+        {
+          "word": "college",
+          "start": 57.27,
+          "end": 57.59
+        },
+        {
+          "word": "campuses.",
+          "start": 57.59,
+          "end": 57.99
+        },
+        {
+          "word": "Oh",
+          "start": 58.57,
+          "end": 58.83
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "wow, that sounds like a very impressive background. So why exactly are you",
+      "start": 58.83,
+      "end": 63.25,
+      "words": [
+        {
+          "word": "wow,",
+          "start": 58.83,
+          "end": 59.01
+        },
+        {
+          "word": "that",
+          "start": 59.21,
+          "end": 59.31
+        },
+        {
+          "word": "sounds",
+          "start": 59.31,
+          "end": 59.47
+        },
+        {
+          "word": "like",
+          "start": 59.47,
+          "end": 59.73
+        },
+        {
+          "word": "a",
+          "start": 59.73,
+          "end": 59.85
+        },
+        {
+          "word": "very",
+          "start": 59.85,
+          "end": 60.13
+        },
+        {
+          "word": "impressive",
+          "start": 60.13,
+          "end": 60.77
+        },
+        {
+          "word": "background.",
+          "start": 60.77,
+          "end": 61.33
+        },
+        {
+          "word": "So",
+          "start": 61.93,
+          "end": 62.17
+        },
+        {
+          "word": "why",
+          "start": 62.17,
+          "end": 62.51
+        },
+        {
+          "word": "exactly",
+          "start": 62.51,
+          "end": 62.91
+        },
+        {
+          "word": "are",
+          "start": 62.91,
+          "end": 63.15
+        },
+        {
+          "word": "you",
+          "start": 63.15,
+          "end": 63.25
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "interested in interviewing with our consulting firm? Yeah, my reasons for",
+      "start": 63.25,
+      "end": 67.15,
+      "words": [
+        {
+          "word": "interested",
+          "start": 63.25,
+          "end": 63.67
+        },
+        {
+          "word": "in",
+          "start": 63.67,
+          "end": 64.15
+        },
+        {
+          "word": "interviewing",
+          "start": 64.15,
+          "end": 64.53
+        },
+        {
+          "word": "with",
+          "start": 64.53,
+          "end": 64.97
+        },
+        {
+          "word": "our",
+          "start": 64.97,
+          "end": 65.17
+        },
+        {
+          "word": "consulting",
+          "start": 65.17,
+          "end": 65.51
+        },
+        {
+          "word": "firm?",
+          "start": 65.51,
+          "end": 65.81
+        },
+        {
+          "word": "Yeah,",
+          "start": 66.31,
+          "end": 66.43
+        },
+        {
+          "word": "my",
+          "start": 66.53,
+          "end": 66.69
+        },
+        {
+          "word": "reasons",
+          "start": 66.69,
+          "end": 66.93
+        },
+        {
+          "word": "for",
+          "start": 66.93,
+          "end": 67.15
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "joining your consulting firm are twofold. Number one, I think the exposure to the",
+      "start": 67.15,
+      "end": 71.03,
+      "words": [
+        {
+          "word": "joining",
+          "start": 67.15,
+          "end": 67.39
+        },
+        {
+          "word": "your",
+          "start": 67.39,
+          "end": 67.57
+        },
+        {
+          "word": "consulting",
+          "start": 67.57,
+          "end": 67.93
+        },
+        {
+          "word": "firm",
+          "start": 67.93,
+          "end": 68.23
+        },
+        {
+          "word": "are",
+          "start": 68.23,
+          "end": 68.35
+        },
+        {
+          "word": "twofold.",
+          "start": 68.35,
+          "end": 68.75
+        },
+        {
+          "word": "Number",
+          "start": 69.25,
+          "end": 69.47
+        },
+        {
+          "word": "one,",
+          "start": 69.47,
+          "end": 69.75
+        },
+        {
+          "word": "I",
+          "start": 69.95,
+          "end": 70.01
+        },
+        {
+          "word": "think",
+          "start": 70.01,
+          "end": 70.13
+        },
+        {
+          "word": "the",
+          "start": 70.13,
+          "end": 70.27
+        },
+        {
+          "word": "exposure",
+          "start": 70.27,
+          "end": 70.63
+        },
+        {
+          "word": "to",
+          "start": 70.63,
+          "end": 70.91
+        },
+        {
+          "word": "the",
+          "start": 70.91,
+          "end": 71.03
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "strategy work is very appealing to me. And then second, the opportunities for",
+      "start": 71.03,
+      "end": 74.29,
+      "words": [
+        {
+          "word": "strategy",
+          "start": 71.03,
+          "end": 71.37
+        },
+        {
+          "word": "work",
+          "start": 71.37,
+          "end": 71.65
+        },
+        {
+          "word": "is",
+          "start": 71.65,
+          "end": 71.81
+        },
+        {
+          "word": "very",
+          "start": 71.81,
+          "end": 71.99
+        },
+        {
+          "word": "appealing",
+          "start": 71.99,
+          "end": 72.27
+        },
+        {
+          "word": "to",
+          "start": 72.27,
+          "end": 72.47
+        },
+        {
+          "word": "me.",
+          "start": 72.47,
+          "end": 72.61
+        },
+        {
+          "word": "And",
+          "start": 72.89,
+          "end": 72.91
+        },
+        {
+          "word": "then",
+          "start": 72.91,
+          "end": 73.01
+        },
+        {
+          "word": "second,",
+          "start": 73.01,
+          "end": 73.29
+        },
+        {
+          "word": "the",
+          "start": 73.49,
+          "end": 73.51
+        },
+        {
+          "word": "opportunities",
+          "start": 73.51,
+          "end": 73.99
+        },
+        {
+          "word": "for",
+          "start": 73.99,
+          "end": 74.29
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "externship is also one that I am highly looking at. So on the strategy",
+      "start": 74.29,
+      "end": 78.29,
+      "words": [
+        {
+          "word": "externship",
+          "start": 74.29,
+          "end": 74.93
+        },
+        {
+          "word": "is",
+          "start": 74.93,
+          "end": 75.43
+        },
+        {
+          "word": "also",
+          "start": 75.43,
+          "end": 75.65
+        },
+        {
+          "word": "one",
+          "start": 75.65,
+          "end": 75.85
+        },
+        {
+          "word": "that",
+          "start": 75.85,
+          "end": 75.99
+        },
+        {
+          "word": "I",
+          "start": 75.99,
+          "end": 76.09
+        },
+        {
+          "word": "am",
+          "start": 76.09,
+          "end": 76.21
+        },
+        {
+          "word": "highly",
+          "start": 76.21,
+          "end": 76.53
+        },
+        {
+          "word": "looking",
+          "start": 76.53,
+          "end": 76.81
+        },
+        {
+          "word": "at.",
+          "start": 76.81,
+          "end": 77.05
+        },
+        {
+          "word": "So",
+          "start": 77.51,
+          "end": 77.67
+        },
+        {
+          "word": "on",
+          "start": 77.67,
+          "end": 77.81
+        },
+        {
+          "word": "the",
+          "start": 77.81,
+          "end": 77.93
+        },
+        {
+          "word": "strategy",
+          "start": 77.93,
+          "end": 78.29
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "side, I know that your consulting firm is one of the few that gives you",
+      "start": 78.29,
+      "end": 81.25,
+      "words": [
+        {
+          "word": "side,",
+          "start": 78.29,
+          "end": 78.59
+        },
+        {
+          "word": "I",
+          "start": 78.73,
+          "end": 78.81
+        },
+        {
+          "word": "know",
+          "start": 78.81,
+          "end": 78.95
+        },
+        {
+          "word": "that",
+          "start": 78.95,
+          "end": 79.11
+        },
+        {
+          "word": "your",
+          "start": 79.11,
+          "end": 79.19
+        },
+        {
+          "word": "consulting",
+          "start": 79.19,
+          "end": 79.59
+        },
+        {
+          "word": "firm",
+          "start": 79.59,
+          "end": 79.85
+        },
+        {
+          "word": "is",
+          "start": 79.85,
+          "end": 79.99
+        },
+        {
+          "word": "one",
+          "start": 79.99,
+          "end": 80.15
+        },
+        {
+          "word": "of",
+          "start": 80.15,
+          "end": 80.23
+        },
+        {
+          "word": "the",
+          "start": 80.23,
+          "end": 80.35
+        },
+        {
+          "word": "few",
+          "start": 80.35,
+          "end": 80.59
+        },
+        {
+          "word": "that",
+          "start": 80.59,
+          "end": 80.85
+        },
+        {
+          "word": "gives",
+          "start": 80.85,
+          "end": 81.13
+        },
+        {
+          "word": "you",
+          "start": 81.13,
+          "end": 81.25
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "exposure to C-suite executives and to strategy type projects early on in",
+      "start": 81.25,
+      "end": 85.51,
+      "words": [
+        {
+          "word": "exposure",
+          "start": 81.25,
+          "end": 81.69
+        },
+        {
+          "word": "to",
+          "start": 81.69,
+          "end": 81.93
+        },
+        {
+          "word": "C",
+          "start": 81.93,
+          "end": 82.13
+        },
+        {
+          "word": "-suite",
+          "start": 82.13,
+          "end": 82.31
+        },
+        {
+          "word": "executives",
+          "start": 82.31,
+          "end": 82.89
+        },
+        {
+          "word": "and",
+          "start": 82.89,
+          "end": 83.43
+        },
+        {
+          "word": "to",
+          "start": 83.43,
+          "end": 83.57
+        },
+        {
+          "word": "strategy",
+          "start": 83.57,
+          "end": 84.03
+        },
+        {
+          "word": "type",
+          "start": 84.03,
+          "end": 84.29
+        },
+        {
+          "word": "projects",
+          "start": 84.29,
+          "end": 84.77
+        },
+        {
+          "word": "early",
+          "start": 84.77,
+          "end": 85.15
+        },
+        {
+          "word": "on",
+          "start": 85.15,
+          "end": 85.39
+        },
+        {
+          "word": "in",
+          "start": 85.39,
+          "end": 85.51
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "your career, which is something that I won't find at other companies. Then",
+      "start": 85.51,
+      "end": 88.63,
+      "words": [
+        {
+          "word": "your",
+          "start": 85.51,
+          "end": 85.63
+        },
+        {
+          "word": "career,",
+          "start": 85.63,
+          "end": 85.91
+        },
+        {
+          "word": "which",
+          "start": 85.91,
+          "end": 86.17
+        },
+        {
+          "word": "is",
+          "start": 86.17,
+          "end": 86.27
+        },
+        {
+          "word": "something",
+          "start": 86.27,
+          "end": 86.47
+        },
+        {
+          "word": "that",
+          "start": 86.47,
+          "end": 86.67
+        },
+        {
+          "word": "I",
+          "start": 86.67,
+          "end": 86.75
+        },
+        {
+          "word": "won't",
+          "start": 86.75,
+          "end": 86.93
+        },
+        {
+          "word": "find",
+          "start": 86.93,
+          "end": 87.17
+        },
+        {
+          "word": "at",
+          "start": 87.17,
+          "end": 87.29
+        },
+        {
+          "word": "other",
+          "start": 87.29,
+          "end": 87.49
+        },
+        {
+          "word": "companies.",
+          "start": 87.49,
+          "end": 87.87
+        },
+        {
+          "word": "Then",
+          "start": 88.39,
+          "end": 88.63
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "the second reason is the opportunity to do externships. So as I mentioned, I am",
+      "start": 88.63,
+      "end": 92.51,
+      "words": [
+        {
+          "word": "the",
+          "start": 88.63,
+          "end": 88.77
+        },
+        {
+          "word": "second",
+          "start": 88.77,
+          "end": 88.97
+        },
+        {
+          "word": "reason",
+          "start": 88.97,
+          "end": 89.27
+        },
+        {
+          "word": "is",
+          "start": 89.27,
+          "end": 89.41
+        },
+        {
+          "word": "the",
+          "start": 89.41,
+          "end": 89.51
+        },
+        {
+          "word": "opportunity",
+          "start": 89.51,
+          "end": 89.91
+        },
+        {
+          "word": "to",
+          "start": 89.91,
+          "end": 90.27
+        },
+        {
+          "word": "do",
+          "start": 90.27,
+          "end": 90.39
+        },
+        {
+          "word": "externships.",
+          "start": 90.39,
+          "end": 91.35
+        },
+        {
+          "word": "So",
+          "start": 91.55,
+          "end": 91.57
+        },
+        {
+          "word": "as",
+          "start": 91.57,
+          "end": 91.71
+        },
+        {
+          "word": "I",
+          "start": 91.71,
+          "end": 91.81
+        },
+        {
+          "word": "mentioned,",
+          "start": 91.81,
+          "end": 92.03
+        },
+        {
+          "word": "I",
+          "start": 92.25,
+          "end": 92.35
+        },
+        {
+          "word": "am",
+          "start": 92.35,
+          "end": 92.51
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "interested in the education sector down the line and I know that your company",
+      "start": 92.51,
+      "end": 95.37,
+      "words": [
+        {
+          "word": "interested",
+          "start": 92.51,
+          "end": 92.81
+        },
+        {
+          "word": "in",
+          "start": 92.81,
+          "end": 92.97
+        },
+        {
+          "word": "the",
+          "start": 92.97,
+          "end": 93.07
+        },
+        {
+          "word": "education",
+          "start": 93.07,
+          "end": 93.41
+        },
+        {
+          "word": "sector",
+          "start": 93.41,
+          "end": 93.79
+        },
+        {
+          "word": "down",
+          "start": 93.79,
+          "end": 94.03
+        },
+        {
+          "word": "the",
+          "start": 94.03,
+          "end": 94.19
+        },
+        {
+          "word": "line",
+          "start": 94.19,
+          "end": 94.37
+        },
+        {
+          "word": "and",
+          "start": 94.37,
+          "end": 94.57
+        },
+        {
+          "word": "I",
+          "start": 94.57,
+          "end": 94.67
+        },
+        {
+          "word": "know",
+          "start": 94.67,
+          "end": 94.81
+        },
+        {
+          "word": "that",
+          "start": 94.81,
+          "end": 94.95
+        },
+        {
+          "word": "your",
+          "start": 94.95,
+          "end": 95.05
+        },
+        {
+          "word": "company",
+          "start": 95.05,
+          "end": 95.37
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "offers the opportunity to work for six months at a public sector type company",
+      "start": 95.37,
+      "end": 99.71,
+      "words": [
+        {
+          "word": "offers",
+          "start": 95.37,
+          "end": 95.71
+        },
+        {
+          "word": "the",
+          "start": 95.71,
+          "end": 95.91
+        },
+        {
+          "word": "opportunity",
+          "start": 95.91,
+          "end": 96.33
+        },
+        {
+          "word": "to",
+          "start": 96.33,
+          "end": 96.65
+        },
+        {
+          "word": "work",
+          "start": 96.65,
+          "end": 96.77
+        },
+        {
+          "word": "for",
+          "start": 96.77,
+          "end": 96.93
+        },
+        {
+          "word": "six",
+          "start": 96.93,
+          "end": 97.21
+        },
+        {
+          "word": "months",
+          "start": 97.21,
+          "end": 97.51
+        },
+        {
+          "word": "at",
+          "start": 97.51,
+          "end": 98.23
+        },
+        {
+          "word": "a",
+          "start": 98.23,
+          "end": 98.47
+        },
+        {
+          "word": "public",
+          "start": 98.47,
+          "end": 98.73
+        },
+        {
+          "word": "sector",
+          "start": 98.73,
+          "end": 99.01
+        },
+        {
+          "word": "type",
+          "start": 99.01,
+          "end": 99.31
+        },
+        {
+          "word": "company",
+          "start": 99.31,
+          "end": 99.71
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "or a nonprofit out in Africa focused on education. So I think those are some",
+      "start": 99.71,
+      "end": 103.49,
+      "words": [
+        {
+          "word": "or",
+          "start": 99.71,
+          "end": 99.85
+        },
+        {
+          "word": "a",
+          "start": 99.85,
+          "end": 99.97
+        },
+        {
+          "word": "nonprofit",
+          "start": 99.97,
+          "end": 100.21
+        },
+        {
+          "word": "out",
+          "start": 100.21,
+          "end": 100.75
+        },
+        {
+          "word": "in",
+          "start": 100.75,
+          "end": 100.89
+        },
+        {
+          "word": "Africa",
+          "start": 100.89,
+          "end": 101.19
+        },
+        {
+          "word": "focused",
+          "start": 101.19,
+          "end": 101.57
+        },
+        {
+          "word": "on",
+          "start": 101.57,
+          "end": 101.79
+        },
+        {
+          "word": "education.",
+          "start": 101.79,
+          "end": 102.21
+        },
+        {
+          "word": "So",
+          "start": 102.65,
+          "end": 102.79
+        },
+        {
+          "word": "I",
+          "start": 102.79,
+          "end": 102.91
+        },
+        {
+          "word": "think",
+          "start": 102.91,
+          "end": 103.01
+        },
+        {
+          "word": "those",
+          "start": 103.01,
+          "end": 103.19
+        },
+        {
+          "word": "are",
+          "start": 103.19,
+          "end": 103.33
+        },
+        {
+          "word": "some",
+          "start": 103.33,
+          "end": 103.49
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "of the things that highly appeal to me in your company. Okay, awesome.",
+      "start": 103.49,
+      "end": 107.05,
+      "words": [
+        {
+          "word": "of",
+          "start": 103.49,
+          "end": 103.59
+        },
+        {
+          "word": "the",
+          "start": 103.59,
+          "end": 103.65
+        },
+        {
+          "word": "things",
+          "start": 103.65,
+          "end": 103.85
+        },
+        {
+          "word": "that",
+          "start": 103.85,
+          "end": 104.13
+        },
+        {
+          "word": "highly",
+          "start": 104.13,
+          "end": 104.71
+        },
+        {
+          "word": "appeal",
+          "start": 104.71,
+          "end": 104.99
+        },
+        {
+          "word": "to",
+          "start": 104.99,
+          "end": 105.15
+        },
+        {
+          "word": "me",
+          "start": 105.15,
+          "end": 105.29
+        },
+        {
+          "word": "in",
+          "start": 105.29,
+          "end": 105.33
+        },
+        {
+          "word": "your",
+          "start": 105.33,
+          "end": 105.43
+        },
+        {
+          "word": "company.",
+          "start": 105.43,
+          "end": 105.71
+        },
+        {
+          "word": "Okay,",
+          "start": 106.13,
+          "end": 106.49
+        },
+        {
+          "word": "awesome.",
+          "start": 106.65,
+          "end": 107.05
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "That's good to know. So now we'll dive into a little bit more behavioral",
+      "start": 107.29,
+      "end": 110.75,
+      "words": [
+        {
+          "word": "That's",
+          "start": 107.29,
+          "end": 107.49
+        },
+        {
+          "word": "good",
+          "start": 107.49,
+          "end": 107.61
+        },
+        {
+          "word": "to",
+          "start": 107.61,
+          "end": 107.79
+        },
+        {
+          "word": "know.",
+          "start": 107.79,
+          "end": 107.99
+        },
+        {
+          "word": "So",
+          "start": 108.53,
+          "end": 108.83
+        },
+        {
+          "word": "now",
+          "start": 108.83,
+          "end": 108.97
+        },
+        {
+          "word": "we'll",
+          "start": 108.97,
+          "end": 109.11
+        },
+        {
+          "word": "dive",
+          "start": 109.11,
+          "end": 109.29
+        },
+        {
+          "word": "into",
+          "start": 109.29,
+          "end": 109.57
+        },
+        {
+          "word": "a",
+          "start": 109.57,
+          "end": 109.69
+        },
+        {
+          "word": "little",
+          "start": 109.69,
+          "end": 109.79
+        },
+        {
+          "word": "bit",
+          "start": 109.79,
+          "end": 109.97
+        },
+        {
+          "word": "more",
+          "start": 109.97,
+          "end": 110.23
+        },
+        {
+          "word": "behavioral",
+          "start": 110.23,
+          "end": 110.75
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "questions. So could you tell me about a time where you solved a",
+      "start": 110.75,
+      "end": 114.43,
+      "words": [
+        {
+          "word": "questions.",
+          "start": 110.75,
+          "end": 111.47
+        },
+        {
+          "word": "So",
+          "start": 111.97,
+          "end": 112.19
+        },
+        {
+          "word": "could",
+          "start": 112.19,
+          "end": 112.37
+        },
+        {
+          "word": "you",
+          "start": 112.37,
+          "end": 112.49
+        },
+        {
+          "word": "tell",
+          "start": 112.49,
+          "end": 112.65
+        },
+        {
+          "word": "me",
+          "start": 112.65,
+          "end": 112.79
+        },
+        {
+          "word": "about",
+          "start": 112.79,
+          "end": 112.95
+        },
+        {
+          "word": "a",
+          "start": 112.95,
+          "end": 113.09
+        },
+        {
+          "word": "time",
+          "start": 113.09,
+          "end": 113.35
+        },
+        {
+          "word": "where",
+          "start": 113.35,
+          "end": 113.63
+        },
+        {
+          "word": "you",
+          "start": 113.63,
+          "end": 113.89
+        },
+        {
+          "word": "solved",
+          "start": 113.89,
+          "end": 114.23
+        },
+        {
+          "word": "a",
+          "start": 114.23,
+          "end": 114.43
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "difficult problem? That's a good question. I think the moment that",
+      "start": 114.43,
+      "end": 117.89,
+      "words": [
+        {
+          "word": "difficult",
+          "start": 114.43,
+          "end": 114.67
+        },
+        {
+          "word": "problem?",
+          "start": 114.67,
+          "end": 115.15
+        },
+        {
+          "word": "That's",
+          "start": 115.75,
+          "end": 115.85
+        },
+        {
+          "word": "a",
+          "start": 115.85,
+          "end": 115.93
+        },
+        {
+          "word": "good",
+          "start": 115.93,
+          "end": 116.01
+        },
+        {
+          "word": "question.",
+          "start": 116.01,
+          "end": 116.29
+        },
+        {
+          "word": "I",
+          "start": 116.85,
+          "end": 117.25
+        },
+        {
+          "word": "think",
+          "start": 117.25,
+          "end": 117.37
+        },
+        {
+          "word": "the",
+          "start": 117.37,
+          "end": 117.51
+        },
+        {
+          "word": "moment",
+          "start": 117.51,
+          "end": 117.71
+        },
+        {
+          "word": "that",
+          "start": 117.71,
+          "end": 117.89
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "I can think of is when I was working at the electrical power plant, we were",
+      "start": 117.89,
+      "end": 121.75,
+      "words": [
+        {
+          "word": "I",
+          "start": 117.89,
+          "end": 118.01
+        },
+        {
+          "word": "can",
+          "start": 118.01,
+          "end": 118.11
+        },
+        {
+          "word": "think",
+          "start": 118.11,
+          "end": 118.27
+        },
+        {
+          "word": "of",
+          "start": 118.27,
+          "end": 118.49
+        },
+        {
+          "word": "is",
+          "start": 118.49,
+          "end": 118.85
+        },
+        {
+          "word": "when",
+          "start": 118.85,
+          "end": 119.05
+        },
+        {
+          "word": "I",
+          "start": 119.05,
+          "end": 119.17
+        },
+        {
+          "word": "was",
+          "start": 119.17,
+          "end": 119.29
+        },
+        {
+          "word": "working",
+          "start": 119.29,
+          "end": 119.53
+        },
+        {
+          "word": "at",
+          "start": 119.53,
+          "end": 119.79
+        },
+        {
+          "word": "the",
+          "start": 119.79,
+          "end": 119.93
+        },
+        {
+          "word": "electrical",
+          "start": 119.93,
+          "end": 120.27
+        },
+        {
+          "word": "power",
+          "start": 120.27,
+          "end": 120.53
+        },
+        {
+          "word": "plant,",
+          "start": 120.53,
+          "end": 120.89
+        },
+        {
+          "word": "we",
+          "start": 121.37,
+          "end": 121.65
+        },
+        {
+          "word": "were",
+          "start": 121.65,
+          "end": 121.75
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "trying to launch a new department and my task was to essentially source a",
+      "start": 121.75,
+      "end": 125.61,
+      "words": [
+        {
+          "word": "trying",
+          "start": 121.75,
+          "end": 121.99
+        },
+        {
+          "word": "to",
+          "start": 121.99,
+          "end": 122.15
+        },
+        {
+          "word": "launch",
+          "start": 122.15,
+          "end": 122.35
+        },
+        {
+          "word": "a",
+          "start": 122.35,
+          "end": 122.47
+        },
+        {
+          "word": "new",
+          "start": 122.47,
+          "end": 122.57
+        },
+        {
+          "word": "department",
+          "start": 122.57,
+          "end": 122.95
+        },
+        {
+          "word": "and",
+          "start": 122.95,
+          "end": 123.59
+        },
+        {
+          "word": "my",
+          "start": 123.59,
+          "end": 123.79
+        },
+        {
+          "word": "task",
+          "start": 123.79,
+          "end": 124.05
+        },
+        {
+          "word": "was",
+          "start": 124.05,
+          "end": 124.27
+        },
+        {
+          "word": "to",
+          "start": 124.27,
+          "end": 124.51
+        },
+        {
+          "word": "essentially",
+          "start": 124.51,
+          "end": 124.85
+        },
+        {
+          "word": "source",
+          "start": 124.85,
+          "end": 125.37
+        },
+        {
+          "word": "a",
+          "start": 125.37,
+          "end": 125.61
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "supplier. Typically, we work with a supplier of generators from France,",
+      "start": 125.61,
+      "end": 129.51,
+      "words": [
+        {
+          "word": "supplier.",
+          "start": 125.61,
+          "end": 125.95
+        },
+        {
+          "word": "Typically,",
+          "start": 126.57,
+          "end": 126.83
+        },
+        {
+          "word": "we",
+          "start": 126.99,
+          "end": 127.13
+        },
+        {
+          "word": "work",
+          "start": 127.13,
+          "end": 127.39
+        },
+        {
+          "word": "with",
+          "start": 127.39,
+          "end": 127.71
+        },
+        {
+          "word": "a",
+          "start": 127.71,
+          "end": 127.95
+        },
+        {
+          "word": "supplier",
+          "start": 127.95,
+          "end": 128.33
+        },
+        {
+          "word": "of",
+          "start": 128.33,
+          "end": 128.47
+        },
+        {
+          "word": "generators",
+          "start": 128.47,
+          "end": 128.83
+        },
+        {
+          "word": "from",
+          "start": 128.83,
+          "end": 129.17
+        },
+        {
+          "word": "France,",
+          "start": 129.17,
+          "end": 129.51
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "but this time around their capacity and also their pricing did not match",
+      "start": 129.65,
+      "end": 133.45,
+      "words": [
+        {
+          "word": "but",
+          "start": 129.65,
+          "end": 129.79
+        },
+        {
+          "word": "this",
+          "start": 129.79,
+          "end": 129.95
+        },
+        {
+          "word": "time",
+          "start": 129.95,
+          "end": 130.15
+        },
+        {
+          "word": "around",
+          "start": 130.15,
+          "end": 130.41
+        },
+        {
+          "word": "their",
+          "start": 130.41,
+          "end": 131.17
+        },
+        {
+          "word": "capacity",
+          "start": 131.17,
+          "end": 131.73
+        },
+        {
+          "word": "and",
+          "start": 131.73,
+          "end": 131.97
+        },
+        {
+          "word": "also",
+          "start": 131.97,
+          "end": 132.23
+        },
+        {
+          "word": "their",
+          "start": 132.23,
+          "end": 132.41
+        },
+        {
+          "word": "pricing",
+          "start": 132.41,
+          "end": 132.71
+        },
+        {
+          "word": "did",
+          "start": 132.71,
+          "end": 132.95
+        },
+        {
+          "word": "not",
+          "start": 132.95,
+          "end": 133.11
+        },
+        {
+          "word": "match",
+          "start": 133.11,
+          "end": 133.45
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "our budget and what we were looking for. So what I ended up doing is I ended",
+      "start": 133.45,
+      "end": 137.33,
+      "words": [
+        {
+          "word": "our",
+          "start": 133.45,
+          "end": 133.63
+        },
+        {
+          "word": "budget",
+          "start": 133.63,
+          "end": 133.91
+        },
+        {
+          "word": "and",
+          "start": 133.91,
+          "end": 134.11
+        },
+        {
+          "word": "what",
+          "start": 134.11,
+          "end": 134.23
+        },
+        {
+          "word": "we",
+          "start": 134.23,
+          "end": 134.37
+        },
+        {
+          "word": "were",
+          "start": 134.37,
+          "end": 134.49
+        },
+        {
+          "word": "looking",
+          "start": 134.49,
+          "end": 134.65
+        },
+        {
+          "word": "for.",
+          "start": 134.65,
+          "end": 134.95
+        },
+        {
+          "word": "So",
+          "start": 135.47,
+          "end": 135.63
+        },
+        {
+          "word": "what",
+          "start": 135.63,
+          "end": 136.23
+        },
+        {
+          "word": "I",
+          "start": 136.23,
+          "end": 136.39
+        },
+        {
+          "word": "ended",
+          "start": 136.39,
+          "end": 136.55
+        },
+        {
+          "word": "up",
+          "start": 136.55,
+          "end": 136.71
+        },
+        {
+          "word": "doing",
+          "start": 136.71,
+          "end": 136.91
+        },
+        {
+          "word": "is",
+          "start": 136.91,
+          "end": 137.11
+        },
+        {
+          "word": "I",
+          "start": 137.11,
+          "end": 137.21
+        },
+        {
+          "word": "ended",
+          "start": 137.21,
+          "end": 137.33
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "up creating a large list of all the different suppliers that are out",
+      "start": 137.33,
+      "end": 140.03,
+      "words": [
+        {
+          "word": "up",
+          "start": 137.33,
+          "end": 137.45
+        },
+        {
+          "word": "creating",
+          "start": 137.45,
+          "end": 137.67
+        },
+        {
+          "word": "a",
+          "start": 137.67,
+          "end": 137.89
+        },
+        {
+          "word": "large",
+          "start": 137.89,
+          "end": 138.13
+        },
+        {
+          "word": "list",
+          "start": 138.13,
+          "end": 138.45
+        },
+        {
+          "word": "of",
+          "start": 138.45,
+          "end": 138.67
+        },
+        {
+          "word": "all",
+          "start": 138.67,
+          "end": 138.89
+        },
+        {
+          "word": "the",
+          "start": 138.89,
+          "end": 139.03
+        },
+        {
+          "word": "different",
+          "start": 139.03,
+          "end": 139.27
+        },
+        {
+          "word": "suppliers",
+          "start": 139.27,
+          "end": 139.59
+        },
+        {
+          "word": "that",
+          "start": 139.59,
+          "end": 139.83
+        },
+        {
+          "word": "are",
+          "start": 139.83,
+          "end": 139.91
+        },
+        {
+          "word": "out",
+          "start": 139.91,
+          "end": 140.03
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "there. And then I found a supplier in South Korea that I negotiated",
+      "start": 140.03,
+      "end": 143.23,
+      "words": [
+        {
+          "word": "there.",
+          "start": 140.03,
+          "end": 140.27
+        },
+        {
+          "word": "And",
+          "start": 140.57,
+          "end": 140.77
+        },
+        {
+          "word": "then",
+          "start": 140.77,
+          "end": 140.85
+        },
+        {
+          "word": "I",
+          "start": 140.85,
+          "end": 140.97
+        },
+        {
+          "word": "found",
+          "start": 140.97,
+          "end": 141.23
+        },
+        {
+          "word": "a",
+          "start": 141.23,
+          "end": 141.41
+        },
+        {
+          "word": "supplier",
+          "start": 141.41,
+          "end": 141.75
+        },
+        {
+          "word": "in",
+          "start": 141.75,
+          "end": 141.97
+        },
+        {
+          "word": "South",
+          "start": 141.97,
+          "end": 142.17
+        },
+        {
+          "word": "Korea",
+          "start": 142.17,
+          "end": 142.47
+        },
+        {
+          "word": "that",
+          "start": 142.47,
+          "end": 142.69
+        },
+        {
+          "word": "I",
+          "start": 142.69,
+          "end": 142.79
+        },
+        {
+          "word": "negotiated",
+          "start": 142.79,
+          "end": 143.23
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "with and also was able to bring them in and implement all of the new",
+      "start": 143.23,
+      "end": 146.79,
+      "words": [
+        {
+          "word": "with",
+          "start": 143.23,
+          "end": 143.71
+        },
+        {
+          "word": "and",
+          "start": 143.71,
+          "end": 144.13
+        },
+        {
+          "word": "also",
+          "start": 144.13,
+          "end": 144.33
+        },
+        {
+          "word": "was",
+          "start": 144.33,
+          "end": 144.47
+        },
+        {
+          "word": "able",
+          "start": 144.47,
+          "end": 144.69
+        },
+        {
+          "word": "to",
+          "start": 144.69,
+          "end": 144.89
+        },
+        {
+          "word": "bring",
+          "start": 144.89,
+          "end": 145.09
+        },
+        {
+          "word": "them",
+          "start": 145.09,
+          "end": 145.35
+        },
+        {
+          "word": "in",
+          "start": 145.35,
+          "end": 145.51
+        },
+        {
+          "word": "and",
+          "start": 145.51,
+          "end": 145.73
+        },
+        {
+          "word": "implement",
+          "start": 145.73,
+          "end": 146.09
+        },
+        {
+          "word": "all",
+          "start": 146.09,
+          "end": 146.41
+        },
+        {
+          "word": "of",
+          "start": 146.41,
+          "end": 146.53
+        },
+        {
+          "word": "the",
+          "start": 146.53,
+          "end": 146.65
+        },
+        {
+          "word": "new",
+          "start": 146.65,
+          "end": 146.79
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "generator technology. So that was able to save us a total cost of 10%",
+      "start": 146.79,
+      "end": 151.21,
+      "words": [
+        {
+          "word": "generator",
+          "start": 146.79,
+          "end": 147.09
+        },
+        {
+          "word": "technology.",
+          "start": 147.09,
+          "end": 147.83
+        },
+        {
+          "word": "So",
+          "start": 148.47,
+          "end": 148.61
+        },
+        {
+          "word": "that",
+          "start": 148.61,
+          "end": 148.85
+        },
+        {
+          "word": "was",
+          "start": 148.85,
+          "end": 148.97
+        },
+        {
+          "word": "able",
+          "start": 148.97,
+          "end": 149.17
+        },
+        {
+          "word": "to",
+          "start": 149.17,
+          "end": 149.31
+        },
+        {
+          "word": "save",
+          "start": 149.31,
+          "end": 149.49
+        },
+        {
+          "word": "us",
+          "start": 149.49,
+          "end": 149.69
+        },
+        {
+          "word": "a",
+          "start": 149.69,
+          "end": 149.89
+        },
+        {
+          "word": "total",
+          "start": 149.89,
+          "end": 150.13
+        },
+        {
+          "word": "cost",
+          "start": 150.13,
+          "end": 150.45
+        },
+        {
+          "word": "of",
+          "start": 150.45,
+          "end": 150.73
+        },
+        {
+          "word": "10",
+          "start": 150.73,
+          "end": 150.93
+        },
+        {
+          "word": "%",
+          "start": 150.93,
+          "end": 151.21
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "from the total project and it was a huge success at the end of it.",
+      "start": 151.21,
+      "end": 154.91,
+      "words": [
+        {
+          "word": "from",
+          "start": 151.21,
+          "end": 151.43
+        },
+        {
+          "word": "the",
+          "start": 151.43,
+          "end": 151.55
+        },
+        {
+          "word": "total",
+          "start": 151.55,
+          "end": 151.75
+        },
+        {
+          "word": "project",
+          "start": 151.75,
+          "end": 152.19
+        },
+        {
+          "word": "and",
+          "start": 152.19,
+          "end": 152.73
+        },
+        {
+          "word": "it",
+          "start": 152.73,
+          "end": 152.87
+        },
+        {
+          "word": "was",
+          "start": 152.87,
+          "end": 153.07
+        },
+        {
+          "word": "a",
+          "start": 153.07,
+          "end": 153.35
+        },
+        {
+          "word": "huge",
+          "start": 153.35,
+          "end": 153.55
+        },
+        {
+          "word": "success",
+          "start": 153.55,
+          "end": 154.05
+        },
+        {
+          "word": "at",
+          "start": 154.05,
+          "end": 154.47
+        },
+        {
+          "word": "the",
+          "start": 154.47,
+          "end": 154.59
+        },
+        {
+          "word": "end",
+          "start": 154.59,
+          "end": 154.67
+        },
+        {
+          "word": "of",
+          "start": 154.67,
+          "end": 154.77
+        },
+        {
+          "word": "it.",
+          "start": 154.77,
+          "end": 154.91
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Awesome. Thank you for sharing that. So next, could you tell me about",
+      "start": 155.35,
+      "end": 159.19,
+      "words": [
+        {
+          "word": "Awesome.",
+          "start": 155.35,
+          "end": 155.65
+        },
+        {
+          "word": "Thank",
+          "start": 155.89,
+          "end": 156.13
+        },
+        {
+          "word": "you",
+          "start": 156.13,
+          "end": 156.23
+        },
+        {
+          "word": "for",
+          "start": 156.23,
+          "end": 156.41
+        },
+        {
+          "word": "sharing",
+          "start": 156.41,
+          "end": 156.65
+        },
+        {
+          "word": "that.",
+          "start": 156.65,
+          "end": 156.91
+        },
+        {
+          "word": "So",
+          "start": 157.61,
+          "end": 157.73
+        },
+        {
+          "word": "next,",
+          "start": 157.73,
+          "end": 157.97
+        },
+        {
+          "word": "could",
+          "start": 158.21,
+          "end": 158.29
+        },
+        {
+          "word": "you",
+          "start": 158.29,
+          "end": 158.45
+        },
+        {
+          "word": "tell",
+          "start": 158.45,
+          "end": 158.67
+        },
+        {
+          "word": "me",
+          "start": 158.67,
+          "end": 158.85
+        },
+        {
+          "word": "about",
+          "start": 158.85,
+          "end": 159.19
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "like one or two of your key strengths? So I would say the",
+      "start": 159.19,
+      "end": 163.4,
+      "words": [
+        {
+          "word": "like",
+          "start": 159.19,
+          "end": 159.61
+        },
+        {
+          "word": "one",
+          "start": 159.61,
+          "end": 159.93
+        },
+        {
+          "word": "or",
+          "start": 159.93,
+          "end": 160.07
+        },
+        {
+          "word": "two",
+          "start": 160.07,
+          "end": 160.35
+        },
+        {
+          "word": "of",
+          "start": 160.35,
+          "end": 160.69
+        },
+        {
+          "word": "your",
+          "start": 160.69,
+          "end": 160.85
+        },
+        {
+          "word": "key",
+          "start": 160.85,
+          "end": 161.11
+        },
+        {
+          "word": "strengths?",
+          "start": 161.11,
+          "end": 161.49
+        },
+        {
+          "word": "So",
+          "start": 162.56,
+          "end": 162.8
+        },
+        {
+          "word": "I",
+          "start": 162.8,
+          "end": 163.04
+        },
+        {
+          "word": "would",
+          "start": 163.04,
+          "end": 163.14
+        },
+        {
+          "word": "say",
+          "start": 163.14,
+          "end": 163.28
+        },
+        {
+          "word": "the",
+          "start": 163.28,
+          "end": 163.4
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "biggest two would probably be my ability to persuade people and",
+      "start": 163.4,
+      "end": 166.88,
+      "words": [
+        {
+          "word": "biggest",
+          "start": 163.4,
+          "end": 163.6
+        },
+        {
+          "word": "two",
+          "start": 163.6,
+          "end": 163.86
+        },
+        {
+          "word": "would",
+          "start": 163.86,
+          "end": 164.02
+        },
+        {
+          "word": "probably",
+          "start": 164.02,
+          "end": 164.38
+        },
+        {
+          "word": "be",
+          "start": 164.38,
+          "end": 164.7
+        },
+        {
+          "word": "my",
+          "start": 164.7,
+          "end": 164.94
+        },
+        {
+          "word": "ability",
+          "start": 164.94,
+          "end": 165.28
+        },
+        {
+          "word": "to",
+          "start": 165.28,
+          "end": 165.72
+        },
+        {
+          "word": "persuade",
+          "start": 165.72,
+          "end": 166.08
+        },
+        {
+          "word": "people",
+          "start": 166.08,
+          "end": 166.46
+        },
+        {
+          "word": "and",
+          "start": 166.46,
+          "end": 166.88
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "then the second would be leadership. I would say those are the biggest",
+      "start": 166.88,
+      "end": 169.2,
+      "words": [
+        {
+          "word": "then",
+          "start": 166.88,
+          "end": 166.98
+        },
+        {
+          "word": "the",
+          "start": 166.98,
+          "end": 167.14
+        },
+        {
+          "word": "second",
+          "start": 167.14,
+          "end": 167.36
+        },
+        {
+          "word": "would",
+          "start": 167.36,
+          "end": 167.58
+        },
+        {
+          "word": "be",
+          "start": 167.58,
+          "end": 167.76
+        },
+        {
+          "word": "leadership.",
+          "start": 167.76,
+          "end": 168.06
+        },
+        {
+          "word": "I",
+          "start": 168.36,
+          "end": 168.42
+        },
+        {
+          "word": "would",
+          "start": 168.42,
+          "end": 168.5
+        },
+        {
+          "word": "say",
+          "start": 168.5,
+          "end": 168.62
+        },
+        {
+          "word": "those",
+          "start": 168.62,
+          "end": 168.78
+        },
+        {
+          "word": "are",
+          "start": 168.78,
+          "end": 168.92
+        },
+        {
+          "word": "the",
+          "start": 168.92,
+          "end": 169.02
+        },
+        {
+          "word": "biggest",
+          "start": 169.02,
+          "end": 169.2
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "two. Okay, so could you dive a little bit more into that first one,",
+      "start": 169.2,
+      "end": 172.56,
+      "words": [
+        {
+          "word": "two.",
+          "start": 169.2,
+          "end": 169.42
+        },
+        {
+          "word": "Okay,",
+          "start": 169.72,
+          "end": 170.1
+        },
+        {
+          "word": "so",
+          "start": 170.16,
+          "end": 170.56
+        },
+        {
+          "word": "could",
+          "start": 170.56,
+          "end": 170.84
+        },
+        {
+          "word": "you",
+          "start": 170.84,
+          "end": 170.98
+        },
+        {
+          "word": "dive",
+          "start": 170.98,
+          "end": 171.2
+        },
+        {
+          "word": "a",
+          "start": 171.2,
+          "end": 171.38
+        },
+        {
+          "word": "little",
+          "start": 171.38,
+          "end": 171.46
+        },
+        {
+          "word": "bit",
+          "start": 171.46,
+          "end": 171.58
+        },
+        {
+          "word": "more",
+          "start": 171.58,
+          "end": 171.76
+        },
+        {
+          "word": "into",
+          "start": 171.76,
+          "end": 171.92
+        },
+        {
+          "word": "that",
+          "start": 171.92,
+          "end": 172.06
+        },
+        {
+          "word": "first",
+          "start": 172.06,
+          "end": 172.34
+        },
+        {
+          "word": "one,",
+          "start": 172.34,
+          "end": 172.56
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "your ability to persuade people? Maybe tell me about a time you",
+      "start": 172.64,
+      "end": 175.7,
+      "words": [
+        {
+          "word": "your",
+          "start": 172.64,
+          "end": 172.74
+        },
+        {
+          "word": "ability",
+          "start": 172.74,
+          "end": 173.02
+        },
+        {
+          "word": "to",
+          "start": 173.02,
+          "end": 173.3
+        },
+        {
+          "word": "persuade",
+          "start": 173.3,
+          "end": 173.58
+        },
+        {
+          "word": "people?",
+          "start": 173.58,
+          "end": 174.0
+        },
+        {
+          "word": "Maybe",
+          "start": 174.38,
+          "end": 174.68
+        },
+        {
+          "word": "tell",
+          "start": 174.68,
+          "end": 174.9
+        },
+        {
+          "word": "me",
+          "start": 174.9,
+          "end": 175.02
+        },
+        {
+          "word": "about",
+          "start": 175.02,
+          "end": 175.16
+        },
+        {
+          "word": "a",
+          "start": 175.16,
+          "end": 175.28
+        },
+        {
+          "word": "time",
+          "start": 175.28,
+          "end": 175.52
+        },
+        {
+          "word": "you",
+          "start": 175.52,
+          "end": 175.7
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "were able to convince someone to change their mind.",
+      "start": 175.7,
+      "end": 178.3,
+      "words": [
+        {
+          "word": "were",
+          "start": 175.7,
+          "end": 175.8
+        },
+        {
+          "word": "able",
+          "start": 175.8,
+          "end": 175.96
+        },
+        {
+          "word": "to",
+          "start": 175.96,
+          "end": 176.28
+        },
+        {
+          "word": "convince",
+          "start": 176.28,
+          "end": 176.78
+        },
+        {
+          "word": "someone",
+          "start": 176.78,
+          "end": 177.24
+        },
+        {
+          "word": "to",
+          "start": 177.24,
+          "end": 177.6
+        },
+        {
+          "word": "change",
+          "start": 177.6,
+          "end": 177.92
+        },
+        {
+          "word": "their",
+          "start": 177.92,
+          "end": 178.1
+        },
+        {
+          "word": "mind.",
+          "start": 178.1,
+          "end": 178.3
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Yeah, so what I can think of is when I was working at Amazon, one",
+      "start": 178.94,
+      "end": 182.92,
+      "words": [
+        {
+          "word": "Yeah,",
+          "start": 178.94,
+          "end": 179.26
+        },
+        {
+          "word": "so",
+          "start": 179.5,
+          "end": 179.86
+        },
+        {
+          "word": "what",
+          "start": 179.86,
+          "end": 180.46
+        },
+        {
+          "word": "I",
+          "start": 180.46,
+          "end": 180.58
+        },
+        {
+          "word": "can",
+          "start": 180.58,
+          "end": 180.7
+        },
+        {
+          "word": "think",
+          "start": 180.7,
+          "end": 180.86
+        },
+        {
+          "word": "of",
+          "start": 180.86,
+          "end": 181.06
+        },
+        {
+          "word": "is",
+          "start": 181.06,
+          "end": 181.3
+        },
+        {
+          "word": "when",
+          "start": 181.3,
+          "end": 181.48
+        },
+        {
+          "word": "I",
+          "start": 181.48,
+          "end": 181.58
+        },
+        {
+          "word": "was",
+          "start": 181.58,
+          "end": 181.68
+        },
+        {
+          "word": "working",
+          "start": 181.68,
+          "end": 181.9
+        },
+        {
+          "word": "at",
+          "start": 181.9,
+          "end": 182.08
+        },
+        {
+          "word": "Amazon,",
+          "start": 182.08,
+          "end": 182.42
+        },
+        {
+          "word": "one",
+          "start": 182.8,
+          "end": 182.92
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "text": "of the big projects that we're trying to launch is the first",
+      "start": 182.92,
+      "end": 185.32,
+      "words": [
+        {
+          "word": "of",
+          "start": 182.92,
+          "end": 183.02
+        },
+        {
+          "word": "the",
+          "start": 183.02,
+          "end": 183.08
+        },
+        {
+          "word": "big",
+          "start": 183.08,
+          "end": 183.22
+        },
+        {
+          "word": "projects",
+          "start": 183.22,
+          "end": 183.56
+        },
+        {
+          "word": "that",
+          "start": 183.56,
+          "end": 183.72
+        },
+        {
+          "word": "we're",
+          "start": 183.72,
+          "end": 183.86
+        },
+        {
+          "word": "trying",
+          "start": 183.86,
+          "end": 184.08
+        },
+        {
+          "word": "to",
+          "start": 184.08,
+          "end": 184.28
+        },
+        {
+          "word": "launch",
+          "start": 184.28,
+          "end": 184.58
+        },
+        {
+          "word": "is",
+          "start": 184.58,
+          "end": 184.86
+        },
+        {
+          "word": "the",
+          "start": 184.86,
+          "end": 185.06
+        },
+        {
+          "word": "first",
+          "start": 185.06,
+          "end": 185.32
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "new robotic facility. But it came out of time when COVID had",
+      "start": 185.32,
+      "end": 188.74,
+      "words": [
+        {
+          "word": "new",
+          "start": 185.32,
+          "end": 185.54
+        },
+        {
+          "word": "robotic",
+          "start": 185.54,
+          "end": 185.86
+        },
+        {
+          "word": "facility.",
+          "start": 185.86,
+          "end": 186.34
+        },
+        {
+          "word": "But",
+          "start": 186.86,
+          "end": 187.1
+        },
+        {
+          "word": "it",
+          "start": 187.1,
+          "end": 187.3
+        },
+        {
+          "word": "came",
+          "start": 187.3,
+          "end": 187.48
+        },
+        {
+          "word": "out",
+          "start": 187.48,
+          "end": 187.62
+        },
+        {
+          "word": "of",
+          "start": 187.62,
+          "end": 187.68
+        },
+        {
+          "word": "time",
+          "start": 187.68,
+          "end": 187.92
+        },
+        {
+          "word": "when",
+          "start": 187.92,
+          "end": 188.18
+        },
+        {
+          "word": "COVID",
+          "start": 188.18,
+          "end": 188.5
+        },
+        {
+          "word": "had",
+          "start": 188.5,
+          "end": 188.74
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "just hit and I was unable to essentially source a lot of the",
+      "start": 188.74,
+      "end": 192.26,
+      "words": [
+        {
+          "word": "just",
+          "start": 188.74,
+          "end": 188.92
+        },
+        {
+          "word": "hit",
+          "start": 188.92,
+          "end": 189.2
+        },
+        {
+          "word": "and",
+          "start": 189.2,
+          "end": 189.74
+        },
+        {
+          "word": "I",
+          "start": 189.74,
+          "end": 189.94
+        },
+        {
+          "word": "was",
+          "start": 189.94,
+          "end": 190.1
+        },
+        {
+          "word": "unable",
+          "start": 190.1,
+          "end": 190.62
+        },
+        {
+          "word": "to",
+          "start": 190.62,
+          "end": 190.84
+        },
+        {
+          "word": "essentially",
+          "start": 190.84,
+          "end": 191.06
+        },
+        {
+          "word": "source",
+          "start": 191.06,
+          "end": 191.58
+        },
+        {
+          "word": "a",
+          "start": 191.58,
+          "end": 191.82
+        },
+        {
+          "word": "lot",
+          "start": 191.82,
+          "end": 191.94
+        },
+        {
+          "word": "of",
+          "start": 191.94,
+          "end": 192.06
+        },
+        {
+          "word": "the",
+          "start": 192.06,
+          "end": 192.26
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "material that we typically get from our Japanese supplier. So",
+      "start": 192.26,
+      "end": 195.9,
+      "words": [
+        {
+          "word": "material",
+          "start": 192.26,
+          "end": 192.74
+        },
+        {
+          "word": "that",
+          "start": 192.74,
+          "end": 192.92
+        },
+        {
+          "word": "we",
+          "start": 192.92,
+          "end": 193.04
+        },
+        {
+          "word": "typically",
+          "start": 193.04,
+          "end": 193.32
+        },
+        {
+          "word": "get",
+          "start": 193.32,
+          "end": 193.68
+        },
+        {
+          "word": "from",
+          "start": 193.68,
+          "end": 193.94
+        },
+        {
+          "word": "our",
+          "start": 193.94,
+          "end": 194.26
+        },
+        {
+          "word": "Japanese",
+          "start": 194.26,
+          "end": 194.66
+        },
+        {
+          "word": "supplier.",
+          "start": 194.66,
+          "end": 195.08
+        },
+        {
+          "word": "So",
+          "start": 195.72,
+          "end": 195.9
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "the vice president of supply chain at the time, his",
+      "start": 195.9,
+      "end": 198.56,
+      "words": [
+        {
+          "word": "the",
+          "start": 195.9,
+          "end": 196.12
+        },
+        {
+          "word": "vice",
+          "start": 196.12,
+          "end": 196.42
+        },
+        {
+          "word": "president",
+          "start": 196.42,
+          "end": 196.76
+        },
+        {
+          "word": "of",
+          "start": 196.76,
+          "end": 196.88
+        },
+        {
+          "word": "supply",
+          "start": 196.88,
+          "end": 197.14
+        },
+        {
+          "word": "chain",
+          "start": 197.14,
+          "end": 197.38
+        },
+        {
+          "word": "at",
+          "start": 197.38,
+          "end": 197.54
+        },
+        {
+          "word": "the",
+          "start": 197.54,
+          "end": 197.64
+        },
+        {
+          "word": "time,",
+          "start": 197.64,
+          "end": 198.02
+        },
+        {
+          "word": "his",
+          "start": 198.18,
+          "end": 198.56
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "executive decision was to push the launch and push it out for",
+      "start": 198.56,
+      "end": 201.66,
+      "words": [
+        {
+          "word": "executive",
+          "start": 198.56,
+          "end": 198.94
+        },
+        {
+          "word": "decision",
+          "start": 198.94,
+          "end": 199.4
+        },
+        {
+          "word": "was",
+          "start": 199.4,
+          "end": 199.64
+        },
+        {
+          "word": "to",
+          "start": 199.64,
+          "end": 199.86
+        },
+        {
+          "word": "push",
+          "start": 199.86,
+          "end": 200.2
+        },
+        {
+          "word": "the",
+          "start": 200.2,
+          "end": 200.38
+        },
+        {
+          "word": "launch",
+          "start": 200.38,
+          "end": 200.74
+        },
+        {
+          "word": "and",
+          "start": 200.74,
+          "end": 201.0
+        },
+        {
+          "word": "push",
+          "start": 201.0,
+          "end": 201.22
+        },
+        {
+          "word": "it",
+          "start": 201.22,
+          "end": 201.34
+        },
+        {
+          "word": "out",
+          "start": 201.34,
+          "end": 201.48
+        },
+        {
+          "word": "for",
+          "start": 201.48,
+          "end": 201.66
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "a few months. Instead, what I decided to do is try to see if",
+      "start": 201.66,
+      "end": 206.0,
+      "words": [
+        {
+          "word": "a",
+          "start": 201.66,
+          "end": 201.78
+        },
+        {
+          "word": "few",
+          "start": 201.78,
+          "end": 201.92
+        },
+        {
+          "word": "months.",
+          "start": 201.92,
+          "end": 202.2
+        },
+        {
+          "word": "Instead,",
+          "start": 202.8,
+          "end": 203.16
+        },
+        {
+          "word": "what",
+          "start": 203.3,
+          "end": 203.42
+        },
+        {
+          "word": "I",
+          "start": 203.42,
+          "end": 203.56
+        },
+        {
+          "word": "decided",
+          "start": 203.56,
+          "end": 203.9
+        },
+        {
+          "word": "to",
+          "start": 203.9,
+          "end": 204.14
+        },
+        {
+          "word": "do",
+          "start": 204.14,
+          "end": 204.3
+        },
+        {
+          "word": "is",
+          "start": 204.3,
+          "end": 204.76
+        },
+        {
+          "word": "try",
+          "start": 204.76,
+          "end": 205.58
+        },
+        {
+          "word": "to",
+          "start": 205.58,
+          "end": 205.74
+        },
+        {
+          "word": "see",
+          "start": 205.74,
+          "end": 205.9
+        },
+        {
+          "word": "if",
+          "start": 205.9,
+          "end": 206.0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "there's a way to still keep the launch at the same time. And I",
+      "start": 206.0,
+      "end": 208.64,
+      "words": [
+        {
+          "word": "there's",
+          "start": 206.0,
+          "end": 206.2
+        },
+        {
+          "word": "a",
+          "start": 206.2,
+          "end": 206.32
+        },
+        {
+          "word": "way",
+          "start": 206.32,
+          "end": 206.48
+        },
+        {
+          "word": "to",
+          "start": 206.48,
+          "end": 206.66
+        },
+        {
+          "word": "still",
+          "start": 206.66,
+          "end": 206.96
+        },
+        {
+          "word": "keep",
+          "start": 206.96,
+          "end": 207.16
+        },
+        {
+          "word": "the",
+          "start": 207.16,
+          "end": 207.32
+        },
+        {
+          "word": "launch",
+          "start": 207.32,
+          "end": 207.52
+        },
+        {
+          "word": "at",
+          "start": 207.52,
+          "end": 207.62
+        },
+        {
+          "word": "the",
+          "start": 207.62,
+          "end": 207.74
+        },
+        {
+          "word": "same",
+          "start": 207.74,
+          "end": 207.94
+        },
+        {
+          "word": "time.",
+          "start": 207.94,
+          "end": 208.22
+        },
+        {
+          "word": "And",
+          "start": 208.38,
+          "end": 208.54
+        },
+        {
+          "word": "I",
+          "start": 208.54,
+          "end": 208.64
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "looked at some of our existing facilities already, and try to",
+      "start": 208.64,
+      "end": 211.62,
+      "words": [
+        {
+          "word": "looked",
+          "start": 208.64,
+          "end": 208.8
+        },
+        {
+          "word": "at",
+          "start": 208.8,
+          "end": 208.98
+        },
+        {
+          "word": "some",
+          "start": 208.98,
+          "end": 209.14
+        },
+        {
+          "word": "of",
+          "start": 209.14,
+          "end": 209.26
+        },
+        {
+          "word": "our",
+          "start": 209.26,
+          "end": 209.36
+        },
+        {
+          "word": "existing",
+          "start": 209.36,
+          "end": 209.86
+        },
+        {
+          "word": "facilities",
+          "start": 209.86,
+          "end": 210.42
+        },
+        {
+          "word": "already,",
+          "start": 210.42,
+          "end": 210.84
+        },
+        {
+          "word": "and",
+          "start": 211.04,
+          "end": 211.34
+        },
+        {
+          "word": "try",
+          "start": 211.34,
+          "end": 211.52
+        },
+        {
+          "word": "to",
+          "start": 211.52,
+          "end": 211.62
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "text": "source some of the unused material from there, so that we",
+      "start": 211.62,
+      "end": 214.48,
+      "words": [
+        {
+          "word": "source",
+          "start": 211.62,
+          "end": 211.86
+        },
+        {
+          "word": "some",
+          "start": 211.86,
+          "end": 212.1
+        },
+        {
+          "word": "of",
+          "start": 212.1,
+          "end": 212.2
+        },
+        {
+          "word": "the",
+          "start": 212.2,
+          "end": 212.32
+        },
+        {
+          "word": "unused",
+          "start": 212.32,
+          "end": 212.66
+        },
+        {
+          "word": "material",
+          "start": 212.66,
+          "end": 213.24
+        },
+        {
+          "word": "from",
+          "start": 213.24,
+          "end": 213.5
+        },
+        {
+          "word": "there,",
+          "start": 213.5,
+          "end": 213.74
+        },
+        {
+          "word": "so",
+          "start": 213.8,
+          "end": 214.2
+        },
+        {
+          "word": "that",
+          "start": 214.2,
+          "end": 214.34
+        },
+        {
+          "word": "we",
+          "start": 214.34,
+          "end": 214.48
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "text": "don't delay the launch. So initially, the VP of supply chain",
+      "start": 214.48,
+      "end": 217.58,
+      "words": [
+        {
+          "word": "don't",
+          "start": 214.48,
+          "end": 214.7
+        },
+        {
+          "word": "delay",
+          "start": 214.7,
+          "end": 214.92
+        },
+        {
+          "word": "the",
+          "start": 214.92,
+          "end": 215.06
+        },
+        {
+          "word": "launch.",
+          "start": 215.06,
+          "end": 215.3
+        },
+        {
+          "word": "So",
+          "start": 215.76,
+          "end": 215.84
+        },
+        {
+          "word": "initially,",
+          "start": 215.84,
+          "end": 216.12
+        },
+        {
+          "word": "the",
+          "start": 216.44,
+          "end": 216.64
+        },
+        {
+          "word": "VP",
+          "start": 216.64,
+          "end": 216.84
+        },
+        {
+          "word": "of",
+          "start": 216.84,
+          "end": 217.1
+        },
+        {
+          "word": "supply",
+          "start": 217.1,
+          "end": 217.38
+        },
+        {
+          "word": "chain",
+          "start": 217.38,
+          "end": 217.58
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "text": "wanted to delay the launch, but through the analysis,",
+      "start": 217.58,
+      "end": 219.66,
+      "words": [
+        {
+          "word": "wanted",
+          "start": 217.58,
+          "end": 217.88
+        },
+        {
+          "word": "to",
+          "start": 217.88,
+          "end": 218.08
+        },
+        {
+          "word": "delay",
+          "start": 218.08,
+          "end": 218.32
+        },
+        {
+          "word": "the",
+          "start": 218.32,
+          "end": 218.44
+        },
+        {
+          "word": "launch,",
+          "start": 218.44,
+          "end": 218.72
+        },
+        {
+          "word": "but",
+          "start": 218.78,
+          "end": 218.9
+        },
+        {
+          "word": "through",
+          "start": 218.9,
+          "end": 219.12
+        },
+        {
+          "word": "the",
+          "start": 219.12,
+          "end": 219.26
+        },
+        {
+          "word": "analysis,",
+          "start": 219.26,
+          "end": 219.66
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "text": "through explaining to him that we could source it from the",
+      "start": 220.12,
+      "end": 222.2,
+      "words": [
+        {
+          "word": "through",
+          "start": 220.12,
+          "end": 220.34
+        },
+        {
+          "word": "explaining",
+          "start": 220.34,
+          "end": 220.76
+        },
+        {
+          "word": "to",
+          "start": 220.76,
+          "end": 220.98
+        },
+        {
+          "word": "him",
+          "start": 220.98,
+          "end": 221.1
+        },
+        {
+          "word": "that",
+          "start": 221.1,
+          "end": 221.24
+        },
+        {
+          "word": "we",
+          "start": 221.24,
+          "end": 221.36
+        },
+        {
+          "word": "could",
+          "start": 221.36,
+          "end": 221.52
+        },
+        {
+          "word": "source",
+          "start": 221.52,
+          "end": 221.8
+        },
+        {
+          "word": "it",
+          "start": 221.8,
+          "end": 221.92
+        },
+        {
+          "word": "from",
+          "start": 221.92,
+          "end": 222.06
+        },
+        {
+          "word": "the",
+          "start": 222.06,
+          "end": 222.2
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "text": "other facilities, I was able to convince him to not delay",
+      "start": 222.2,
+      "end": 225.0,
+      "words": [
+        {
+          "word": "other",
+          "start": 222.2,
+          "end": 222.36
+        },
+        {
+          "word": "facilities,",
+          "start": 222.36,
+          "end": 222.82
+        },
+        {
+          "word": "I",
+          "start": 223.24,
+          "end": 223.36
+        },
+        {
+          "word": "was",
+          "start": 223.36,
+          "end": 223.46
+        },
+        {
+          "word": "able",
+          "start": 223.46,
+          "end": 223.64
+        },
+        {
+          "word": "to",
+          "start": 223.64,
+          "end": 223.78
+        },
+        {
+          "word": "convince",
+          "start": 223.78,
+          "end": 224.16
+        },
+        {
+          "word": "him",
+          "start": 224.16,
+          "end": 224.4
+        },
+        {
+          "word": "to",
+          "start": 224.4,
+          "end": 224.56
+        },
+        {
+          "word": "not",
+          "start": 224.56,
+          "end": 224.74
+        },
+        {
+          "word": "delay",
+          "start": 224.74,
+          "end": 225.0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "text": "the launch, and instead change the strategy to still be",
+      "start": 225.0,
+      "end": 227.8,
+      "words": [
+        {
+          "word": "the",
+          "start": 225.0,
+          "end": 225.16
+        },
+        {
+          "word": "launch,",
+          "start": 225.16,
+          "end": 225.44
+        },
+        {
+          "word": "and",
+          "start": 225.64,
+          "end": 225.86
+        },
+        {
+          "word": "instead",
+          "start": 225.86,
+          "end": 226.08
+        },
+        {
+          "word": "change",
+          "start": 226.08,
+          "end": 226.48
+        },
+        {
+          "word": "the",
+          "start": 226.48,
+          "end": 226.68
+        },
+        {
+          "word": "strategy",
+          "start": 226.68,
+          "end": 227.18
+        },
+        {
+          "word": "to",
+          "start": 227.18,
+          "end": 227.38
+        },
+        {
+          "word": "still",
+          "start": 227.38,
+          "end": 227.64
+        },
+        {
+          "word": "be",
+          "start": 227.64,
+          "end": 227.8
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "text": "able to get the facility right out on time.",
+      "start": 227.8,
+      "end": 229.78,
+      "words": [
+        {
+          "word": "able",
+          "start": 227.8,
+          "end": 228.0
+        },
+        {
+          "word": "to",
+          "start": 228.0,
+          "end": 228.14
+        },
+        {
+          "word": "get",
+          "start": 228.14,
+          "end": 228.28
+        },
+        {
+          "word": "the",
+          "start": 228.28,
+          "end": 228.4
+        },
+        {
+          "word": "facility",
+          "start": 228.4,
+          "end": 228.86
+        },
+        {
+          "word": "right",
+          "start": 228.86,
+          "end": 229.18
+        },
+        {
+          "word": "out",
+          "start": 229.18,
+          "end": 229.38
+        },
+        {
+          "word": "on",
+          "start": 229.38,
+          "end": 229.52
+        },
+        {
+          "word": "time.",
+          "start": 229.52,
+          "end": 229.78
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "text": "Okay, great. So now we'll dive into that second strength you",
+      "start": 230.08,
+      "end": 233.88,
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 230.08,
+          "end": 230.42
+        },
+        {
+          "word": "great.",
+          "start": 230.8,
+          "end": 231.18
+        },
+        {
+          "word": "So",
+          "start": 231.78,
+          "end": 231.94
+        },
+        {
+          "word": "now",
+          "start": 231.94,
+          "end": 232.08
+        },
+        {
+          "word": "we'll",
+          "start": 232.08,
+          "end": 232.2
+        },
+        {
+          "word": "dive",
+          "start": 232.2,
+          "end": 232.34
+        },
+        {
+          "word": "into",
+          "start": 232.34,
+          "end": 232.58
+        },
+        {
+          "word": "that",
+          "start": 232.58,
+          "end": 232.78
+        },
+        {
+          "word": "second",
+          "start": 232.78,
+          "end": 233.2
+        },
+        {
+          "word": "strength",
+          "start": 233.2,
+          "end": 233.74
+        },
+        {
+          "word": "you",
+          "start": 233.74,
+          "end": 233.88
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "text": "had mentioned. Could you tell me about a time that you",
+      "start": 233.88,
+      "end": 236.44,
+      "words": [
+        {
+          "word": "had",
+          "start": 233.88,
+          "end": 234.04
+        },
+        {
+          "word": "mentioned.",
+          "start": 234.04,
+          "end": 234.42
+        },
+        {
+          "word": "Could",
+          "start": 234.78,
+          "end": 234.86
+        },
+        {
+          "word": "you",
+          "start": 234.86,
+          "end": 234.98
+        },
+        {
+          "word": "tell",
+          "start": 234.98,
+          "end": 235.16
+        },
+        {
+          "word": "me",
+          "start": 235.16,
+          "end": 235.3
+        },
+        {
+          "word": "about",
+          "start": 235.3,
+          "end": 235.46
+        },
+        {
+          "word": "a",
+          "start": 235.46,
+          "end": 235.58
+        },
+        {
+          "word": "time",
+          "start": 235.58,
+          "end": 235.86
+        },
+        {
+          "word": "that",
+          "start": 235.86,
+          "end": 236.12
+        },
+        {
+          "word": "you",
+          "start": 236.12,
+          "end": 236.44
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "text": "demonstrated strong leadership skills?",
+      "start": 236.44,
+      "end": 238.26,
+      "words": [
+        {
+          "word": "demonstrated",
+          "start": 236.44,
+          "end": 236.86
+        },
+        {
+          "word": "strong",
+          "start": 236.86,
+          "end": 237.4
+        },
+        {
+          "word": "leadership",
+          "start": 237.4,
+          "end": 237.84
+        },
+        {
+          "word": "skills?",
+          "start": 237.84,
+          "end": 238.26
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "text": "Yeah. The one that I can think of is when I was working at the",
+      "start": 238.92,
+      "end": 242.72,
+      "words": [
+        {
+          "word": "Yeah.",
+          "start": 238.92,
+          "end": 239.1
+        },
+        {
+          "word": "The",
+          "start": 239.9,
+          "end": 240.34
+        },
+        {
+          "word": "one",
+          "start": 240.34,
+          "end": 240.88
+        },
+        {
+          "word": "that",
+          "start": 240.88,
+          "end": 241.02
+        },
+        {
+          "word": "I",
+          "start": 241.02,
+          "end": 241.1
+        },
+        {
+          "word": "can",
+          "start": 241.1,
+          "end": 241.22
+        },
+        {
+          "word": "think",
+          "start": 241.22,
+          "end": 241.42
+        },
+        {
+          "word": "of",
+          "start": 241.42,
+          "end": 241.66
+        },
+        {
+          "word": "is",
+          "start": 241.66,
+          "end": 241.88
+        },
+        {
+          "word": "when",
+          "start": 241.88,
+          "end": 242.0
+        },
+        {
+          "word": "I",
+          "start": 242.0,
+          "end": 242.12
+        },
+        {
+          "word": "was",
+          "start": 242.12,
+          "end": 242.2
+        },
+        {
+          "word": "working",
+          "start": 242.2,
+          "end": 242.44
+        },
+        {
+          "word": "at",
+          "start": 242.44,
+          "end": 242.64
+        },
+        {
+          "word": "the",
+          "start": 242.64,
+          "end": 242.72
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "text": "Boston Consulting Group, there I was leading a big real",
+      "start": 242.72,
+      "end": 245.74,
+      "words": [
+        {
+          "word": "Boston",
+          "start": 242.72,
+          "end": 242.94
+        },
+        {
+          "word": "Consulting",
+          "start": 242.94,
+          "end": 243.44
+        },
+        {
+          "word": "Group,",
+          "start": 243.44,
+          "end": 243.64
+        },
+        {
+          "word": "there",
+          "start": 244.12,
+          "end": 244.34
+        },
+        {
+          "word": "I",
+          "start": 244.34,
+          "end": 244.52
+        },
+        {
+          "word": "was",
+          "start": 244.52,
+          "end": 244.66
+        },
+        {
+          "word": "leading",
+          "start": 244.66,
+          "end": 244.9
+        },
+        {
+          "word": "a",
+          "start": 244.9,
+          "end": 245.24
+        },
+        {
+          "word": "big",
+          "start": 245.24,
+          "end": 245.48
+        },
+        {
+          "word": "real",
+          "start": 245.48,
+          "end": 245.74
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "text": "estate occupancy project, where I wanted to essentially",
+      "start": 245.74,
+      "end": 248.62,
+      "words": [
+        {
+          "word": "estate",
+          "start": 245.74,
+          "end": 246.0
+        },
+        {
+          "word": "occupancy",
+          "start": 246.0,
+          "end": 246.64
+        },
+        {
+          "word": "project,",
+          "start": 246.64,
+          "end": 247.1
+        },
+        {
+          "word": "where",
+          "start": 247.1,
+          "end": 247.7
+        },
+        {
+          "word": "I",
+          "start": 247.7,
+          "end": 247.98
+        },
+        {
+          "word": "wanted",
+          "start": 247.98,
+          "end": 248.18
+        },
+        {
+          "word": "to",
+          "start": 248.18,
+          "end": 248.38
+        },
+        {
+          "word": "essentially",
+          "start": 248.38,
+          "end": 248.62
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "text": "showcase what the attendance of each office looked like. What I",
+      "start": 248.62,
+      "end": 252.04,
+      "words": [
+        {
+          "word": "showcase",
+          "start": 248.62,
+          "end": 249.08
+        },
+        {
+          "word": "what",
+          "start": 249.08,
+          "end": 249.48
+        },
+        {
+          "word": "the",
+          "start": 249.48,
+          "end": 249.62
+        },
+        {
+          "word": "attendance",
+          "start": 249.62,
+          "end": 249.96
+        },
+        {
+          "word": "of",
+          "start": 249.96,
+          "end": 250.22
+        },
+        {
+          "word": "each",
+          "start": 250.22,
+          "end": 250.4
+        },
+        {
+          "word": "office",
+          "start": 250.4,
+          "end": 250.68
+        },
+        {
+          "word": "looked",
+          "start": 250.68,
+          "end": 250.94
+        },
+        {
+          "word": "like.",
+          "start": 250.94,
+          "end": 251.16
+        },
+        {
+          "word": "What",
+          "start": 251.74,
+          "end": 251.92
+        },
+        {
+          "word": "I",
+          "start": 251.92,
+          "end": 252.04
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "text": "had to do was then automate the process for a lot of the",
+      "start": 252.04,
+      "end": 254.36,
+      "words": [
+        {
+          "word": "had",
+          "start": 252.04,
+          "end": 252.18
+        },
+        {
+          "word": "to",
+          "start": 252.18,
+          "end": 252.3
+        },
+        {
+          "word": "do",
+          "start": 252.3,
+          "end": 252.44
+        },
+        {
+          "word": "was",
+          "start": 252.44,
+          "end": 252.62
+        },
+        {
+          "word": "then",
+          "start": 252.62,
+          "end": 252.78
+        },
+        {
+          "word": "automate",
+          "start": 252.78,
+          "end": 253.18
+        },
+        {
+          "word": "the",
+          "start": 253.18,
+          "end": 253.42
+        },
+        {
+          "word": "process",
+          "start": 253.42,
+          "end": 253.74
+        },
+        {
+          "word": "for",
+          "start": 253.74,
+          "end": 253.96
+        },
+        {
+          "word": "a",
+          "start": 253.96,
+          "end": 254.08
+        },
+        {
+          "word": "lot",
+          "start": 254.08,
+          "end": 254.18
+        },
+        {
+          "word": "of",
+          "start": 254.18,
+          "end": 254.28
+        },
+        {
+          "word": "the",
+          "start": 254.28,
+          "end": 254.36
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "text": "partners so that they have like a dashboard that they can",
+      "start": 254.36,
+      "end": 256.42,
+      "words": [
+        {
+          "word": "partners",
+          "start": 254.36,
+          "end": 254.64
+        },
+        {
+          "word": "so",
+          "start": 254.64,
+          "end": 254.86
+        },
+        {
+          "word": "that",
+          "start": 254.86,
+          "end": 255.02
+        },
+        {
+          "word": "they",
+          "start": 255.02,
+          "end": 255.14
+        },
+        {
+          "word": "have",
+          "start": 255.14,
+          "end": 255.34
+        },
+        {
+          "word": "like",
+          "start": 255.34,
+          "end": 255.46
+        },
+        {
+          "word": "a",
+          "start": 255.46,
+          "end": 255.6
+        },
+        {
+          "word": "dashboard",
+          "start": 255.6,
+          "end": 255.86
+        },
+        {
+          "word": "that",
+          "start": 255.86,
+          "end": 256.14
+        },
+        {
+          "word": "they",
+          "start": 256.14,
+          "end": 256.28
+        },
+        {
+          "word": "can",
+          "start": 256.28,
+          "end": 256.42
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "text": "like manipulate and change and look at the data. So I had to",
+      "start": 256.42,
+      "end": 259.46,
+      "words": [
+        {
+          "word": "like",
+          "start": 256.42,
+          "end": 256.58
+        },
+        {
+          "word": "manipulate",
+          "start": 256.58,
+          "end": 256.88
+        },
+        {
+          "word": "and",
+          "start": 256.88,
+          "end": 257.28
+        },
+        {
+          "word": "change",
+          "start": 257.28,
+          "end": 257.52
+        },
+        {
+          "word": "and",
+          "start": 257.52,
+          "end": 257.72
+        },
+        {
+          "word": "look",
+          "start": 257.72,
+          "end": 257.86
+        },
+        {
+          "word": "at",
+          "start": 257.86,
+          "end": 257.98
+        },
+        {
+          "word": "the",
+          "start": 257.98,
+          "end": 258.08
+        },
+        {
+          "word": "data.",
+          "start": 258.08,
+          "end": 258.28
+        },
+        {
+          "word": "So",
+          "start": 258.88,
+          "end": 259.06
+        },
+        {
+          "word": "I",
+          "start": 259.06,
+          "end": 259.24
+        },
+        {
+          "word": "had",
+          "start": 259.24,
+          "end": 259.34
+        },
+        {
+          "word": "to",
+          "start": 259.34,
+          "end": 259.46
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "text": "work with a large team of 15 different developers, software",
+      "start": 259.46,
+      "end": 262.2,
+      "words": [
+        {
+          "word": "work",
+          "start": 259.46,
+          "end": 259.58
+        },
+        {
+          "word": "with",
+          "start": 259.58,
+          "end": 259.74
+        },
+        {
+          "word": "a",
+          "start": 259.74,
+          "end": 259.84
+        },
+        {
+          "word": "large",
+          "start": 259.84,
+          "end": 260.08
+        },
+        {
+          "word": "team",
+          "start": 260.08,
+          "end": 260.36
+        },
+        {
+          "word": "of",
+          "start": 260.36,
+          "end": 260.56
+        },
+        {
+          "word": "15",
+          "start": 260.56,
+          "end": 260.88
+        },
+        {
+          "word": "different",
+          "start": 260.88,
+          "end": 261.18
+        },
+        {
+          "word": "developers,",
+          "start": 261.18,
+          "end": 261.68
+        },
+        {
+          "word": "software",
+          "start": 261.88,
+          "end": 262.2
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "text": "engineers, and data engineers. So I worked with them to",
+      "start": 262.2,
+      "end": 265.4,
+      "words": [
+        {
+          "word": "engineers,",
+          "start": 262.2,
+          "end": 262.64
+        },
+        {
+          "word": "and",
+          "start": 262.84,
+          "end": 262.96
+        },
+        {
+          "word": "data",
+          "start": 262.96,
+          "end": 263.16
+        },
+        {
+          "word": "engineers.",
+          "start": 263.16,
+          "end": 263.54
+        },
+        {
+          "word": "So",
+          "start": 264.1,
+          "end": 264.38
+        },
+        {
+          "word": "I",
+          "start": 264.38,
+          "end": 264.7
+        },
+        {
+          "word": "worked",
+          "start": 264.7,
+          "end": 264.94
+        },
+        {
+          "word": "with",
+          "start": 264.94,
+          "end": 265.12
+        },
+        {
+          "word": "them",
+          "start": 265.12,
+          "end": 265.26
+        },
+        {
+          "word": "to",
+          "start": 265.26,
+          "end": 265.4
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "text": "essentially gather the data, clean the data and process it",
+      "start": 265.4,
+      "end": 268.9,
+      "words": [
+        {
+          "word": "essentially",
+          "start": 265.4,
+          "end": 265.66
+        },
+        {
+          "word": "gather",
+          "start": 265.66,
+          "end": 266.1
+        },
+        {
+          "word": "the",
+          "start": 266.1,
+          "end": 266.34
+        },
+        {
+          "word": "data,",
+          "start": 266.34,
+          "end": 266.58
+        },
+        {
+          "word": "clean",
+          "start": 267.2,
+          "end": 267.46
+        },
+        {
+          "word": "the",
+          "start": 267.46,
+          "end": 267.66
+        },
+        {
+          "word": "data",
+          "start": 267.66,
+          "end": 267.9
+        },
+        {
+          "word": "and",
+          "start": 267.9,
+          "end": 268.24
+        },
+        {
+          "word": "process",
+          "start": 268.24,
+          "end": 268.64
+        },
+        {
+          "word": "it",
+          "start": 268.64,
+          "end": 268.9
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "text": "and put it and visualize it through Tableau. So that was a",
+      "start": 268.9,
+      "end": 271.44,
+      "words": [
+        {
+          "word": "and",
+          "start": 268.9,
+          "end": 269.08
+        },
+        {
+          "word": "put",
+          "start": 269.08,
+          "end": 269.28
+        },
+        {
+          "word": "it",
+          "start": 269.28,
+          "end": 269.4
+        },
+        {
+          "word": "and",
+          "start": 269.4,
+          "end": 269.5
+        },
+        {
+          "word": "visualize",
+          "start": 269.5,
+          "end": 269.82
+        },
+        {
+          "word": "it",
+          "start": 269.82,
+          "end": 270.1
+        },
+        {
+          "word": "through",
+          "start": 270.1,
+          "end": 270.26
+        },
+        {
+          "word": "Tableau.",
+          "start": 270.26,
+          "end": 270.68
+        },
+        {
+          "word": "So",
+          "start": 270.94,
+          "end": 271.1
+        },
+        {
+          "word": "that",
+          "start": 271.1,
+          "end": 271.24
+        },
+        {
+          "word": "was",
+          "start": 271.24,
+          "end": 271.34
+        },
+        {
+          "word": "a",
+          "start": 271.34,
+          "end": 271.44
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "text": "great opportunity where I was essentially working with",
+      "start": 271.44,
+      "end": 273.44,
+      "words": [
+        {
+          "word": "great",
+          "start": 271.44,
+          "end": 271.56
+        },
+        {
+          "word": "opportunity",
+          "start": 271.56,
+          "end": 272.06
+        },
+        {
+          "word": "where",
+          "start": 272.06,
+          "end": 272.4
+        },
+        {
+          "word": "I",
+          "start": 272.4,
+          "end": 272.52
+        },
+        {
+          "word": "was",
+          "start": 272.52,
+          "end": 272.62
+        },
+        {
+          "word": "essentially",
+          "start": 272.62,
+          "end": 272.9
+        },
+        {
+          "word": "working",
+          "start": 272.9,
+          "end": 273.22
+        },
+        {
+          "word": "with",
+          "start": 273.22,
+          "end": 273.44
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "text": "different teams, putting game plans, putting timelines for",
+      "start": 273.44,
+      "end": 276.3,
+      "words": [
+        {
+          "word": "different",
+          "start": 273.44,
+          "end": 273.68
+        },
+        {
+          "word": "teams,",
+          "start": 273.68,
+          "end": 274.02
+        },
+        {
+          "word": "putting",
+          "start": 274.46,
+          "end": 274.62
+        },
+        {
+          "word": "game",
+          "start": 274.62,
+          "end": 274.9
+        },
+        {
+          "word": "plans,",
+          "start": 274.9,
+          "end": 275.22
+        },
+        {
+          "word": "putting",
+          "start": 275.38,
+          "end": 275.52
+        },
+        {
+          "word": "timelines",
+          "start": 275.52,
+          "end": 275.94
+        },
+        {
+          "word": "for",
+          "start": 275.94,
+          "end": 276.3
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "text": "them. And as I mentioned, at the end of it, it was a",
+      "start": 276.3,
+      "end": 278.68,
+      "words": [
+        {
+          "word": "them.",
+          "start": 276.3,
+          "end": 276.52
+        },
+        {
+          "word": "And",
+          "start": 276.9,
+          "end": 277.2
+        },
+        {
+          "word": "as",
+          "start": 277.2,
+          "end": 277.58
+        },
+        {
+          "word": "I",
+          "start": 277.58,
+          "end": 277.66
+        },
+        {
+          "word": "mentioned,",
+          "start": 277.66,
+          "end": 277.84
+        },
+        {
+          "word": "at",
+          "start": 277.98,
+          "end": 278.02
+        },
+        {
+          "word": "the",
+          "start": 278.02,
+          "end": 278.12
+        },
+        {
+          "word": "end",
+          "start": 278.12,
+          "end": 278.2
+        },
+        {
+          "word": "of",
+          "start": 278.2,
+          "end": 278.3
+        },
+        {
+          "word": "it,",
+          "start": 278.3,
+          "end": 278.4
+        },
+        {
+          "word": "it",
+          "start": 278.42,
+          "end": 278.48
+        },
+        {
+          "word": "was",
+          "start": 278.48,
+          "end": 278.58
+        },
+        {
+          "word": "a",
+          "start": 278.58,
+          "end": 278.68
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "text": "very strong project, and the partners were very happy",
+      "start": 278.68,
+      "end": 280.6,
+      "words": [
+        {
+          "word": "very",
+          "start": 278.68,
+          "end": 278.82
+        },
+        {
+          "word": "strong",
+          "start": 278.82,
+          "end": 279.08
+        },
+        {
+          "word": "project,",
+          "start": 279.08,
+          "end": 279.44
+        },
+        {
+          "word": "and",
+          "start": 279.44,
+          "end": 279.6
+        },
+        {
+          "word": "the",
+          "start": 279.6,
+          "end": 279.68
+        },
+        {
+          "word": "partners",
+          "start": 279.68,
+          "end": 279.9
+        },
+        {
+          "word": "were",
+          "start": 279.9,
+          "end": 280.14
+        },
+        {
+          "word": "very",
+          "start": 280.14,
+          "end": 280.34
+        },
+        {
+          "word": "happy",
+          "start": 280.34,
+          "end": 280.6
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "text": "with the dashboard. And it was a good like managerial",
+      "start": 280.6,
+      "end": 283.2,
+      "words": [
+        {
+          "word": "with",
+          "start": 280.6,
+          "end": 280.76
+        },
+        {
+          "word": "the",
+          "start": 280.76,
+          "end": 280.86
+        },
+        {
+          "word": "dashboard.",
+          "start": 280.86,
+          "end": 281.14
+        },
+        {
+          "word": "And",
+          "start": 281.52,
+          "end": 281.76
+        },
+        {
+          "word": "it",
+          "start": 281.76,
+          "end": 281.82
+        },
+        {
+          "word": "was",
+          "start": 281.82,
+          "end": 281.92
+        },
+        {
+          "word": "a",
+          "start": 281.92,
+          "end": 282.02
+        },
+        {
+          "word": "good",
+          "start": 282.02,
+          "end": 282.14
+        },
+        {
+          "word": "like",
+          "start": 282.14,
+          "end": 282.6
+        },
+        {
+          "word": "managerial",
+          "start": 282.6,
+          "end": 283.2
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "text": "experience for me at the time as well.",
+      "start": 283.2,
+      "end": 284.58,
+      "words": [
+        {
+          "word": "experience",
+          "start": 283.2,
+          "end": 283.44
+        },
+        {
+          "word": "for",
+          "start": 283.44,
+          "end": 283.8
+        },
+        {
+          "word": "me",
+          "start": 283.8,
+          "end": 283.92
+        },
+        {
+          "word": "at",
+          "start": 283.92,
+          "end": 284.0
+        },
+        {
+          "word": "the",
+          "start": 284.0,
+          "end": 284.1
+        },
+        {
+          "word": "time",
+          "start": 284.1,
+          "end": 284.32
+        },
+        {
+          "word": "as",
+          "start": 284.32,
+          "end": 284.42
+        },
+        {
+          "word": "well.",
+          "start": 284.42,
+          "end": 284.58
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "text": "Awesome. That sounds like a very worthwhile experience. So now",
+      "start": 284.58,
+      "end": 288.14,
+      "words": [
+        {
+          "word": "Awesome.",
+          "start": 284.58,
+          "end": 285.36
+        },
+        {
+          "word": "That",
+          "start": 285.6,
+          "end": 285.68
+        },
+        {
+          "word": "sounds",
+          "start": 285.68,
+          "end": 285.84
+        },
+        {
+          "word": "like",
+          "start": 285.84,
+          "end": 286.04
+        },
+        {
+          "word": "a",
+          "start": 286.04,
+          "end": 286.16
+        },
+        {
+          "word": "very",
+          "start": 286.16,
+          "end": 286.32
+        },
+        {
+          "word": "worthwhile",
+          "start": 286.32,
+          "end": 286.66
+        },
+        {
+          "word": "experience.",
+          "start": 286.66,
+          "end": 287.34
+        },
+        {
+          "word": "So",
+          "start": 287.96,
+          "end": 288.04
+        },
+        {
+          "word": "now",
+          "start": 288.04,
+          "end": 288.14
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "text": "that we've talked a little bit about your strengths, maybe you",
+      "start": 288.14,
+      "end": 291.2,
+      "words": [
+        {
+          "word": "that",
+          "start": 288.14,
+          "end": 288.26
+        },
+        {
+          "word": "we've",
+          "start": 288.26,
+          "end": 288.44
+        },
+        {
+          "word": "talked",
+          "start": 288.44,
+          "end": 288.66
+        },
+        {
+          "word": "a",
+          "start": 288.66,
+          "end": 289.02
+        },
+        {
+          "word": "little",
+          "start": 289.02,
+          "end": 289.14
+        },
+        {
+          "word": "bit",
+          "start": 289.14,
+          "end": 289.38
+        },
+        {
+          "word": "about",
+          "start": 289.38,
+          "end": 289.7
+        },
+        {
+          "word": "your",
+          "start": 289.7,
+          "end": 289.88
+        },
+        {
+          "word": "strengths,",
+          "start": 289.88,
+          "end": 290.44
+        },
+        {
+          "word": "maybe",
+          "start": 290.58,
+          "end": 290.86
+        },
+        {
+          "word": "you",
+          "start": 290.86,
+          "end": 291.2
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "text": "could tell me about a weakness that you face in the",
+      "start": 291.2,
+      "end": 293.4,
+      "words": [
+        {
+          "word": "could",
+          "start": 291.2,
+          "end": 291.28
+        },
+        {
+          "word": "tell",
+          "start": 291.28,
+          "end": 291.48
+        },
+        {
+          "word": "me",
+          "start": 291.48,
+          "end": 291.64
+        },
+        {
+          "word": "about",
+          "start": 291.64,
+          "end": 291.94
+        },
+        {
+          "word": "a",
+          "start": 291.94,
+          "end": 292.24
+        },
+        {
+          "word": "weakness",
+          "start": 292.24,
+          "end": 292.48
+        },
+        {
+          "word": "that",
+          "start": 292.48,
+          "end": 292.8
+        },
+        {
+          "word": "you",
+          "start": 292.8,
+          "end": 292.9
+        },
+        {
+          "word": "face",
+          "start": 292.9,
+          "end": 293.12
+        },
+        {
+          "word": "in",
+          "start": 293.12,
+          "end": 293.3
+        },
+        {
+          "word": "the",
+          "start": 293.3,
+          "end": 293.4
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "text": "workforce.",
+      "start": 293.4,
+      "end": 293.66,
+      "words": [
+        {
+          "word": "workforce.",
+          "start": 293.4,
+          "end": 293.66
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "text": "Yeah, I'd say the biggest one is probably my ability to",
+      "start": 294.96,
+      "end": 298.16,
+      "words": [
+        {
+          "word": "Yeah,",
+          "start": 294.96,
+          "end": 295.4
+        },
+        {
+          "word": "I'd",
+          "start": 295.4,
+          "end": 295.84
+        },
+        {
+          "word": "say",
+          "start": 295.84,
+          "end": 295.96
+        },
+        {
+          "word": "the",
+          "start": 295.96,
+          "end": 296.1
+        },
+        {
+          "word": "biggest",
+          "start": 296.1,
+          "end": 296.28
+        },
+        {
+          "word": "one",
+          "start": 296.28,
+          "end": 296.58
+        },
+        {
+          "word": "is",
+          "start": 296.58,
+          "end": 296.7
+        },
+        {
+          "word": "probably",
+          "start": 296.7,
+          "end": 297.18
+        },
+        {
+          "word": "my",
+          "start": 297.18,
+          "end": 297.52
+        },
+        {
+          "word": "ability",
+          "start": 297.52,
+          "end": 297.88
+        },
+        {
+          "word": "to",
+          "start": 297.88,
+          "end": 298.16
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "text": "prioritize when there's a lot of conflicting and",
+      "start": 298.16,
+      "end": 300.4,
+      "words": [
+        {
+          "word": "prioritize",
+          "start": 298.16,
+          "end": 298.7
+        },
+        {
+          "word": "when",
+          "start": 298.7,
+          "end": 299.04
+        },
+        {
+          "word": "there's",
+          "start": 299.04,
+          "end": 299.28
+        },
+        {
+          "word": "a",
+          "start": 299.28,
+          "end": 299.38
+        },
+        {
+          "word": "lot",
+          "start": 299.38,
+          "end": 299.52
+        },
+        {
+          "word": "of",
+          "start": 299.52,
+          "end": 299.64
+        },
+        {
+          "word": "conflicting",
+          "start": 299.64,
+          "end": 300.16
+        },
+        {
+          "word": "and",
+          "start": 300.16,
+          "end": 300.4
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "text": "competing priorities. The big one in that case would be",
+      "start": 300.4,
+      "end": 304.46,
+      "words": [
+        {
+          "word": "competing",
+          "start": 300.4,
+          "end": 300.76
+        },
+        {
+          "word": "priorities.",
+          "start": 300.76,
+          "end": 301.32
+        },
+        {
+          "word": "The",
+          "start": 302.14,
+          "end": 302.58
+        },
+        {
+          "word": "big",
+          "start": 302.58,
+          "end": 302.78
+        },
+        {
+          "word": "one",
+          "start": 302.78,
+          "end": 303.06
+        },
+        {
+          "word": "in",
+          "start": 303.06,
+          "end": 303.68
+        },
+        {
+          "word": "that",
+          "start": 303.68,
+          "end": 303.86
+        },
+        {
+          "word": "case",
+          "start": 303.86,
+          "end": 304.14
+        },
+        {
+          "word": "would",
+          "start": 304.14,
+          "end": 304.32
+        },
+        {
+          "word": "be",
+          "start": 304.32,
+          "end": 304.46
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "text": "when say there's three or four different projects and all",
+      "start": 304.46,
+      "end": 306.52,
+      "words": [
+        {
+          "word": "when",
+          "start": 304.46,
+          "end": 304.6
+        },
+        {
+          "word": "say",
+          "start": 304.6,
+          "end": 304.78
+        },
+        {
+          "word": "there's",
+          "start": 304.78,
+          "end": 305.02
+        },
+        {
+          "word": "three",
+          "start": 305.02,
+          "end": 305.22
+        },
+        {
+          "word": "or",
+          "start": 305.22,
+          "end": 305.32
+        },
+        {
+          "word": "four",
+          "start": 305.32,
+          "end": 305.5
+        },
+        {
+          "word": "different",
+          "start": 305.5,
+          "end": 305.7
+        },
+        {
+          "word": "projects",
+          "start": 305.7,
+          "end": 306.08
+        },
+        {
+          "word": "and",
+          "start": 306.08,
+          "end": 306.3
+        },
+        {
+          "word": "all",
+          "start": 306.3,
+          "end": 306.52
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "text": "of them are high urgency or high priority. Sometimes as",
+      "start": 306.52,
+      "end": 309.12,
+      "words": [
+        {
+          "word": "of",
+          "start": 306.52,
+          "end": 306.62
+        },
+        {
+          "word": "them",
+          "start": 306.62,
+          "end": 306.72
+        },
+        {
+          "word": "are",
+          "start": 306.72,
+          "end": 306.84
+        },
+        {
+          "word": "high",
+          "start": 306.84,
+          "end": 307.04
+        },
+        {
+          "word": "urgency",
+          "start": 307.04,
+          "end": 307.38
+        },
+        {
+          "word": "or",
+          "start": 307.38,
+          "end": 307.56
+        },
+        {
+          "word": "high",
+          "start": 307.56,
+          "end": 307.72
+        },
+        {
+          "word": "priority.",
+          "start": 307.72,
+          "end": 308.1
+        },
+        {
+          "word": "Sometimes",
+          "start": 308.46,
+          "end": 308.9
+        },
+        {
+          "word": "as",
+          "start": 308.9,
+          "end": 309.12
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "text": "someone who's still very junior in their career, I",
+      "start": 309.12,
+      "end": 311.36,
+      "words": [
+        {
+          "word": "someone",
+          "start": 309.12,
+          "end": 309.32
+        },
+        {
+          "word": "who's",
+          "start": 309.32,
+          "end": 309.54
+        },
+        {
+          "word": "still",
+          "start": 309.54,
+          "end": 309.7
+        },
+        {
+          "word": "very",
+          "start": 309.7,
+          "end": 309.9
+        },
+        {
+          "word": "junior",
+          "start": 309.9,
+          "end": 310.22
+        },
+        {
+          "word": "in",
+          "start": 310.22,
+          "end": 310.46
+        },
+        {
+          "word": "their",
+          "start": 310.46,
+          "end": 310.58
+        },
+        {
+          "word": "career,",
+          "start": 310.58,
+          "end": 310.9
+        },
+        {
+          "word": "I",
+          "start": 310.9,
+          "end": 311.36
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "text": "still don't have that business sense on which one I",
+      "start": 311.36,
+      "end": 313.3,
+      "words": [
+        {
+          "word": "still",
+          "start": 311.36,
+          "end": 311.52
+        },
+        {
+          "word": "don't",
+          "start": 311.52,
+          "end": 311.68
+        },
+        {
+          "word": "have",
+          "start": 311.68,
+          "end": 311.86
+        },
+        {
+          "word": "that",
+          "start": 311.86,
+          "end": 312.02
+        },
+        {
+          "word": "business",
+          "start": 312.02,
+          "end": 312.28
+        },
+        {
+          "word": "sense",
+          "start": 312.28,
+          "end": 312.64
+        },
+        {
+          "word": "on",
+          "start": 312.64,
+          "end": 312.84
+        },
+        {
+          "word": "which",
+          "start": 312.84,
+          "end": 313.02
+        },
+        {
+          "word": "one",
+          "start": 313.02,
+          "end": 313.18
+        },
+        {
+          "word": "I",
+          "start": 313.18,
+          "end": 313.3
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "text": "should tackle first. But I've been trying to improve on",
+      "start": 313.3,
+      "end": 315.7,
+      "words": [
+        {
+          "word": "should",
+          "start": 313.3,
+          "end": 313.48
+        },
+        {
+          "word": "tackle",
+          "start": 313.48,
+          "end": 313.8
+        },
+        {
+          "word": "first.",
+          "start": 313.8,
+          "end": 314.08
+        },
+        {
+          "word": "But",
+          "start": 314.52,
+          "end": 314.62
+        },
+        {
+          "word": "I've",
+          "start": 314.62,
+          "end": 314.72
+        },
+        {
+          "word": "been",
+          "start": 314.72,
+          "end": 314.84
+        },
+        {
+          "word": "trying",
+          "start": 314.84,
+          "end": 315.04
+        },
+        {
+          "word": "to",
+          "start": 315.04,
+          "end": 315.2
+        },
+        {
+          "word": "improve",
+          "start": 315.2,
+          "end": 315.48
+        },
+        {
+          "word": "on",
+          "start": 315.48,
+          "end": 315.7
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "text": "it and work on it. So what I do now is I typically just",
+      "start": 315.7,
+      "end": 318.32,
+      "words": [
+        {
+          "word": "it",
+          "start": 315.7,
+          "end": 315.82
+        },
+        {
+          "word": "and",
+          "start": 315.82,
+          "end": 315.94
+        },
+        {
+          "word": "work",
+          "start": 315.94,
+          "end": 316.14
+        },
+        {
+          "word": "on",
+          "start": 316.14,
+          "end": 316.34
+        },
+        {
+          "word": "it.",
+          "start": 316.34,
+          "end": 316.48
+        },
+        {
+          "word": "So",
+          "start": 316.7,
+          "end": 316.76
+        },
+        {
+          "word": "what",
+          "start": 316.76,
+          "end": 317.02
+        },
+        {
+          "word": "I",
+          "start": 317.02,
+          "end": 317.12
+        },
+        {
+          "word": "do",
+          "start": 317.12,
+          "end": 317.3
+        },
+        {
+          "word": "now",
+          "start": 317.3,
+          "end": 317.5
+        },
+        {
+          "word": "is",
+          "start": 317.5,
+          "end": 317.66
+        },
+        {
+          "word": "I",
+          "start": 317.66,
+          "end": 317.76
+        },
+        {
+          "word": "typically",
+          "start": 317.76,
+          "end": 318.02
+        },
+        {
+          "word": "just",
+          "start": 318.02,
+          "end": 318.32
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "text": "chat with my manager and try to understand where the",
+      "start": 318.32,
+      "end": 320.92,
+      "words": [
+        {
+          "word": "chat",
+          "start": 318.32,
+          "end": 318.84
+        },
+        {
+          "word": "with",
+          "start": 318.84,
+          "end": 319.0
+        },
+        {
+          "word": "my",
+          "start": 319.0,
+          "end": 319.16
+        },
+        {
+          "word": "manager",
+          "start": 319.16,
+          "end": 319.54
+        },
+        {
+          "word": "and",
+          "start": 319.54,
+          "end": 319.86
+        },
+        {
+          "word": "try",
+          "start": 319.86,
+          "end": 320.1
+        },
+        {
+          "word": "to",
+          "start": 320.1,
+          "end": 320.22
+        },
+        {
+          "word": "understand",
+          "start": 320.22,
+          "end": 320.54
+        },
+        {
+          "word": "where",
+          "start": 320.54,
+          "end": 320.78
+        },
+        {
+          "word": "the",
+          "start": 320.78,
+          "end": 320.92
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "text": "business focus should be. And sometimes even just",
+      "start": 320.92,
+      "end": 323.18,
+      "words": [
+        {
+          "word": "business",
+          "start": 320.92,
+          "end": 321.18
+        },
+        {
+          "word": "focus",
+          "start": 321.18,
+          "end": 321.52
+        },
+        {
+          "word": "should",
+          "start": 321.52,
+          "end": 321.82
+        },
+        {
+          "word": "be.",
+          "start": 321.82,
+          "end": 322.06
+        },
+        {
+          "word": "And",
+          "start": 322.4,
+          "end": 322.48
+        },
+        {
+          "word": "sometimes",
+          "start": 322.48,
+          "end": 322.72
+        },
+        {
+          "word": "even",
+          "start": 322.72,
+          "end": 323.0
+        },
+        {
+          "word": "just",
+          "start": 323.0,
+          "end": 323.18
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "text": "directly ask on how I should prioritize some of the",
+      "start": 323.18,
+      "end": 325.66,
+      "words": [
+        {
+          "word": "directly",
+          "start": 323.18,
+          "end": 323.52
+        },
+        {
+          "word": "ask",
+          "start": 323.52,
+          "end": 324.06
+        },
+        {
+          "word": "on",
+          "start": 324.06,
+          "end": 324.3
+        },
+        {
+          "word": "how",
+          "start": 324.3,
+          "end": 324.56
+        },
+        {
+          "word": "I",
+          "start": 324.56,
+          "end": 324.7
+        },
+        {
+          "word": "should",
+          "start": 324.7,
+          "end": 324.82
+        },
+        {
+          "word": "prioritize",
+          "start": 324.82,
+          "end": 325.3
+        },
+        {
+          "word": "some",
+          "start": 325.3,
+          "end": 325.52
+        },
+        {
+          "word": "of",
+          "start": 325.52,
+          "end": 325.62
+        },
+        {
+          "word": "the",
+          "start": 325.62,
+          "end": 325.66
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "text": "work. So I have been improving on that a little",
+      "start": 325.66,
+      "end": 328.2,
+      "words": [
+        {
+          "word": "work.",
+          "start": 325.66,
+          "end": 325.88
+        },
+        {
+          "word": "So",
+          "start": 326.4,
+          "end": 326.74
+        },
+        {
+          "word": "I",
+          "start": 326.74,
+          "end": 326.94
+        },
+        {
+          "word": "have",
+          "start": 326.94,
+          "end": 327.08
+        },
+        {
+          "word": "been",
+          "start": 327.08,
+          "end": 327.22
+        },
+        {
+          "word": "improving",
+          "start": 327.22,
+          "end": 327.52
+        },
+        {
+          "word": "on",
+          "start": 327.52,
+          "end": 327.78
+        },
+        {
+          "word": "that",
+          "start": 327.78,
+          "end": 327.94
+        },
+        {
+          "word": "a",
+          "start": 327.94,
+          "end": 328.1
+        },
+        {
+          "word": "little",
+          "start": 328.1,
+          "end": 328.2
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "text": "bit. And I think with some seniority, I'll hopefully",
+      "start": 328.2,
+      "end": 330.08,
+      "words": [
+        {
+          "word": "bit.",
+          "start": 328.2,
+          "end": 328.42
+        },
+        {
+          "word": "And",
+          "start": 328.54,
+          "end": 328.6
+        },
+        {
+          "word": "I",
+          "start": 328.6,
+          "end": 328.7
+        },
+        {
+          "word": "think",
+          "start": 328.7,
+          "end": 328.84
+        },
+        {
+          "word": "with",
+          "start": 328.84,
+          "end": 329.0
+        },
+        {
+          "word": "some",
+          "start": 329.0,
+          "end": 329.18
+        },
+        {
+          "word": "seniority,",
+          "start": 329.18,
+          "end": 329.66
+        },
+        {
+          "word": "I'll",
+          "start": 329.72,
+          "end": 329.76
+        },
+        {
+          "word": "hopefully",
+          "start": 329.76,
+          "end": 330.08
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "text": "be able to get there and understand what I should",
+      "start": 330.08,
+      "end": 332.46,
+      "words": [
+        {
+          "word": "be",
+          "start": 330.08,
+          "end": 330.28
+        },
+        {
+          "word": "able",
+          "start": 330.28,
+          "end": 330.42
+        },
+        {
+          "word": "to",
+          "start": 330.42,
+          "end": 330.56
+        },
+        {
+          "word": "get",
+          "start": 330.56,
+          "end": 330.7
+        },
+        {
+          "word": "there",
+          "start": 330.7,
+          "end": 330.98
+        },
+        {
+          "word": "and",
+          "start": 330.98,
+          "end": 331.4
+        },
+        {
+          "word": "understand",
+          "start": 331.4,
+          "end": 331.78
+        },
+        {
+          "word": "what",
+          "start": 331.78,
+          "end": 332.16
+        },
+        {
+          "word": "I",
+          "start": 332.16,
+          "end": 332.34
+        },
+        {
+          "word": "should",
+          "start": 332.34,
+          "end": 332.46
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "text": "start with first.",
+      "start": 332.46,
+      "end": 333.06,
+      "words": [
+        {
+          "word": "start",
+          "start": 332.46,
+          "end": 332.7
+        },
+        {
+          "word": "with",
+          "start": 332.7,
+          "end": 332.88
+        },
+        {
+          "word": "first.",
+          "start": 332.88,
+          "end": 333.06
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "text": "Okay, definitely makes sense. So those are all the",
+      "start": 333.7,
+      "end": 336.22,
+      "words": [
+        {
+          "word": "Okay,",
+          "start": 333.7,
+          "end": 334.1
+        },
+        {
+          "word": "definitely",
+          "start": 334.1,
+          "end": 334.5
+        },
+        {
+          "word": "makes",
+          "start": 334.5,
+          "end": 334.76
+        },
+        {
+          "word": "sense.",
+          "start": 334.76,
+          "end": 335.04
+        },
+        {
+          "word": "So",
+          "start": 335.48,
+          "end": 335.68
+        },
+        {
+          "word": "those",
+          "start": 335.68,
+          "end": 335.84
+        },
+        {
+          "word": "are",
+          "start": 335.84,
+          "end": 335.98
+        },
+        {
+          "word": "all",
+          "start": 335.98,
+          "end": 336.12
+        },
+        {
+          "word": "the",
+          "start": 336.12,
+          "end": 336.22
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "text": "questions that I had for you today. Before we end, do",
+      "start": 336.22,
+      "end": 339.0,
+      "words": [
+        {
+          "word": "questions",
+          "start": 336.22,
+          "end": 336.42
+        },
+        {
+          "word": "that",
+          "start": 336.42,
+          "end": 336.72
+        },
+        {
+          "word": "I",
+          "start": 336.72,
+          "end": 336.82
+        },
+        {
+          "word": "had",
+          "start": 336.82,
+          "end": 336.98
+        },
+        {
+          "word": "for",
+          "start": 336.98,
+          "end": 337.16
+        },
+        {
+          "word": "you",
+          "start": 337.16,
+          "end": 337.28
+        },
+        {
+          "word": "today.",
+          "start": 337.28,
+          "end": 337.66
+        },
+        {
+          "word": "Before",
+          "start": 337.84,
+          "end": 338.12
+        },
+        {
+          "word": "we",
+          "start": 338.12,
+          "end": 338.38
+        },
+        {
+          "word": "end,",
+          "start": 338.38,
+          "end": 338.68
+        },
+        {
+          "word": "do",
+          "start": 338.88,
+          "end": 339.0
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "text": "you have any questions for me?",
+      "start": 339.0,
+      "end": 340.28,
+      "words": [
+        {
+          "word": "you",
+          "start": 339.0,
+          "end": 339.12
+        },
+        {
+          "word": "have",
+          "start": 339.12,
+          "end": 339.26
+        },
+        {
+          "word": "any",
+          "start": 339.26,
+          "end": 339.38
+        },
+        {
+          "word": "questions",
+          "start": 339.38,
+          "end": 339.68
+        },
+        {
+          "word": "for",
+          "start": 339.68,
+          "end": 340.12
+        },
+        {
+          "word": "me?",
+          "start": 340.12,
+          "end": 340.28
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "text": "Yeah, I think I have two big questions. I think the",
+      "start": 340.8,
+      "end": 344.24,
+      "words": [
+        {
+          "word": "Yeah,",
+          "start": 340.8,
+          "end": 341.24
+        },
+        {
+          "word": "I",
+          "start": 341.4,
+          "end": 341.54
+        },
+        {
+          "word": "think",
+          "start": 341.54,
+          "end": 341.66
+        },
+        {
+          "word": "I",
+          "start": 341.66,
+          "end": 341.8
+        },
+        {
+          "word": "have",
+          "start": 341.8,
+          "end": 342.02
+        },
+        {
+          "word": "two",
+          "start": 342.02,
+          "end": 342.4
+        },
+        {
+          "word": "big",
+          "start": 342.4,
+          "end": 342.7
+        },
+        {
+          "word": "questions.",
+          "start": 342.7,
+          "end": 343.28
+        },
+        {
+          "word": "I",
+          "start": 343.7,
+          "end": 343.96
+        },
+        {
+          "word": "think",
+          "start": 343.96,
+          "end": 344.08
+        },
+        {
+          "word": "the",
+          "start": 344.08,
+          "end": 344.24
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "text": "first one is, as you know, there's a lot of big push",
+      "start": 344.24,
+      "end": 347.32,
+      "words": [
+        {
+          "word": "first",
+          "start": 344.24,
+          "end": 344.42
+        },
+        {
+          "word": "one",
+          "start": 344.42,
+          "end": 344.68
+        },
+        {
+          "word": "is,",
+          "start": 344.68,
+          "end": 344.96
+        },
+        {
+          "word": "as",
+          "start": 345.44,
+          "end": 345.54
+        },
+        {
+          "word": "you",
+          "start": 345.54,
+          "end": 345.68
+        },
+        {
+          "word": "know,",
+          "start": 345.68,
+          "end": 345.84
+        },
+        {
+          "word": "there's",
+          "start": 345.96,
+          "end": 346.24
+        },
+        {
+          "word": "a",
+          "start": 346.24,
+          "end": 346.36
+        },
+        {
+          "word": "lot",
+          "start": 346.36,
+          "end": 346.48
+        },
+        {
+          "word": "of",
+          "start": 346.48,
+          "end": 346.62
+        },
+        {
+          "word": "big",
+          "start": 346.62,
+          "end": 346.86
+        },
+        {
+          "word": "push",
+          "start": 346.86,
+          "end": 347.32
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "text": "for like the remote workforce right now. And as a",
+      "start": 347.32,
+      "end": 350.18,
+      "words": [
+        {
+          "word": "for",
+          "start": 347.32,
+          "end": 347.56
+        },
+        {
+          "word": "like",
+          "start": 347.56,
+          "end": 347.72
+        },
+        {
+          "word": "the",
+          "start": 347.72,
+          "end": 347.9
+        },
+        {
+          "word": "remote",
+          "start": 347.9,
+          "end": 348.16
+        },
+        {
+          "word": "workforce",
+          "start": 348.16,
+          "end": 348.68
+        },
+        {
+          "word": "right",
+          "start": 348.68,
+          "end": 349.04
+        },
+        {
+          "word": "now.",
+          "start": 349.04,
+          "end": 349.28
+        },
+        {
+          "word": "And",
+          "start": 349.48,
+          "end": 349.76
+        },
+        {
+          "word": "as",
+          "start": 349.76,
+          "end": 350.08
+        },
+        {
+          "word": "a",
+          "start": 350.08,
+          "end": 350.18
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "text": "consulting company, there's a lot of work working",
+      "start": 350.18,
+      "end": 352.26,
+      "words": [
+        {
+          "word": "consulting",
+          "start": 350.18,
+          "end": 350.5
+        },
+        {
+          "word": "company,",
+          "start": 350.5,
+          "end": 350.96
+        },
+        {
+          "word": "there's",
+          "start": 351.02,
+          "end": 351.24
+        },
+        {
+          "word": "a",
+          "start": 351.24,
+          "end": 351.34
+        },
+        {
+          "word": "lot",
+          "start": 351.34,
+          "end": 351.46
+        },
+        {
+          "word": "of",
+          "start": 351.46,
+          "end": 351.58
+        },
+        {
+          "word": "work",
+          "start": 351.58,
+          "end": 351.82
+        },
+        {
+          "word": "working",
+          "start": 351.82,
+          "end": 352.26
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "text": "directly with clients or coming in in person to",
+      "start": 352.26,
+      "end": 354.24,
+      "words": [
+        {
+          "word": "directly",
+          "start": 352.26,
+          "end": 352.5
+        },
+        {
+          "word": "with",
+          "start": 352.5,
+          "end": 352.72
+        },
+        {
+          "word": "clients",
+          "start": 352.72,
+          "end": 353.06
+        },
+        {
+          "word": "or",
+          "start": 353.06,
+          "end": 353.18
+        },
+        {
+          "word": "coming",
+          "start": 353.18,
+          "end": 353.42
+        },
+        {
+          "word": "in",
+          "start": 353.42,
+          "end": 353.58
+        },
+        {
+          "word": "in",
+          "start": 353.58,
+          "end": 353.72
+        },
+        {
+          "word": "person",
+          "start": 353.72,
+          "end": 354.02
+        },
+        {
+          "word": "to",
+          "start": 354.02,
+          "end": 354.24
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "text": "visit the clients. Do you think that the consulting",
+      "start": 354.24,
+      "end": 356.26,
+      "words": [
+        {
+          "word": "visit",
+          "start": 354.24,
+          "end": 354.46
+        },
+        {
+          "word": "the",
+          "start": 354.46,
+          "end": 354.64
+        },
+        {
+          "word": "clients.",
+          "start": 354.64,
+          "end": 354.94
+        },
+        {
+          "word": "Do",
+          "start": 355.22,
+          "end": 355.46
+        },
+        {
+          "word": "you",
+          "start": 355.46,
+          "end": 355.58
+        },
+        {
+          "word": "think",
+          "start": 355.58,
+          "end": 355.68
+        },
+        {
+          "word": "that",
+          "start": 355.68,
+          "end": 355.84
+        },
+        {
+          "word": "the",
+          "start": 355.84,
+          "end": 355.92
+        },
+        {
+          "word": "consulting",
+          "start": 355.92,
+          "end": 356.26
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "text": "business model would necessarily change now that",
+      "start": 356.26,
+      "end": 358.9,
+      "words": [
+        {
+          "word": "business",
+          "start": 356.26,
+          "end": 356.62
+        },
+        {
+          "word": "model",
+          "start": 356.62,
+          "end": 357.08
+        },
+        {
+          "word": "would",
+          "start": 357.08,
+          "end": 357.28
+        },
+        {
+          "word": "necessarily",
+          "start": 357.28,
+          "end": 357.6
+        },
+        {
+          "word": "change",
+          "start": 357.6,
+          "end": 358.24
+        },
+        {
+          "word": "now",
+          "start": 358.24,
+          "end": 358.74
+        },
+        {
+          "word": "that",
+          "start": 358.74,
+          "end": 358.9
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "text": "we are in a remote environment? I think that's a",
+      "start": 358.9,
+      "end": 361.74,
+      "words": [
+        {
+          "word": "we",
+          "start": 358.9,
+          "end": 359.08
+        },
+        {
+          "word": "are",
+          "start": 359.08,
+          "end": 359.32
+        },
+        {
+          "word": "in",
+          "start": 359.32,
+          "end": 359.6
+        },
+        {
+          "word": "a",
+          "start": 359.6,
+          "end": 359.78
+        },
+        {
+          "word": "remote",
+          "start": 359.78,
+          "end": 360.14
+        },
+        {
+          "word": "environment?",
+          "start": 360.14,
+          "end": 360.62
+        },
+        {
+          "word": "I",
+          "start": 361.08,
+          "end": 361.28
+        },
+        {
+          "word": "think",
+          "start": 361.28,
+          "end": 361.4
+        },
+        {
+          "word": "that's",
+          "start": 361.4,
+          "end": 361.66
+        },
+        {
+          "word": "a",
+          "start": 361.66,
+          "end": 361.74
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "text": "big one. And then the second question that I",
+      "start": 361.74,
+      "end": 363.8,
+      "words": [
+        {
+          "word": "big",
+          "start": 361.74,
+          "end": 361.86
+        },
+        {
+          "word": "one.",
+          "start": 361.86,
+          "end": 362.06
+        },
+        {
+          "word": "And",
+          "start": 362.5,
+          "end": 362.82
+        },
+        {
+          "word": "then",
+          "start": 362.82,
+          "end": 362.9
+        },
+        {
+          "word": "the",
+          "start": 362.9,
+          "end": 363.02
+        },
+        {
+          "word": "second",
+          "start": 363.02,
+          "end": 363.22
+        },
+        {
+          "word": "question",
+          "start": 363.22,
+          "end": 363.52
+        },
+        {
+          "word": "that",
+          "start": 363.52,
+          "end": 363.7
+        },
+        {
+          "word": "I",
+          "start": 363.7,
+          "end": 363.8
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "text": "had for you is, what are kind of the big",
+      "start": 363.8,
+      "end": 365.72,
+      "words": [
+        {
+          "word": "had",
+          "start": 363.8,
+          "end": 363.94
+        },
+        {
+          "word": "for",
+          "start": 363.94,
+          "end": 364.1
+        },
+        {
+          "word": "you",
+          "start": 364.1,
+          "end": 364.24
+        },
+        {
+          "word": "is,",
+          "start": 364.24,
+          "end": 364.46
+        },
+        {
+          "word": "what",
+          "start": 364.82,
+          "end": 364.98
+        },
+        {
+          "word": "are",
+          "start": 364.98,
+          "end": 365.1
+        },
+        {
+          "word": "kind",
+          "start": 365.1,
+          "end": 365.34
+        },
+        {
+          "word": "of",
+          "start": 365.34,
+          "end": 365.42
+        },
+        {
+          "word": "the",
+          "start": 365.42,
+          "end": 365.56
+        },
+        {
+          "word": "big",
+          "start": 365.56,
+          "end": 365.72
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "text": "goals of your consulting company by say 2025? What",
+      "start": 365.72,
+      "end": 368.86,
+      "words": [
+        {
+          "word": "goals",
+          "start": 365.72,
+          "end": 365.98
+        },
+        {
+          "word": "of",
+          "start": 365.98,
+          "end": 366.14
+        },
+        {
+          "word": "your",
+          "start": 366.14,
+          "end": 366.24
+        },
+        {
+          "word": "consulting",
+          "start": 366.24,
+          "end": 366.68
+        },
+        {
+          "word": "company",
+          "start": 366.68,
+          "end": 367.16
+        },
+        {
+          "word": "by",
+          "start": 367.16,
+          "end": 367.32
+        },
+        {
+          "word": "say",
+          "start": 367.32,
+          "end": 367.48
+        },
+        {
+          "word": "2025?",
+          "start": 367.48,
+          "end": 368.04
+        },
+        {
+          "word": "What",
+          "start": 368.6,
+          "end": 368.86
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "text": "are the big milestones that you guys are hoping to",
+      "start": 368.86,
+      "end": 370.74,
+      "words": [
+        {
+          "word": "are",
+          "start": 368.86,
+          "end": 368.94
+        },
+        {
+          "word": "the",
+          "start": 368.94,
+          "end": 369.04
+        },
+        {
+          "word": "big",
+          "start": 369.04,
+          "end": 369.18
+        },
+        {
+          "word": "milestones",
+          "start": 369.18,
+          "end": 369.58
+        },
+        {
+          "word": "that",
+          "start": 369.58,
+          "end": 369.88
+        },
+        {
+          "word": "you",
+          "start": 369.88,
+          "end": 369.98
+        },
+        {
+          "word": "guys",
+          "start": 369.98,
+          "end": 370.22
+        },
+        {
+          "word": "are",
+          "start": 370.22,
+          "end": 370.32
+        },
+        {
+          "word": "hoping",
+          "start": 370.32,
+          "end": 370.54
+        },
+        {
+          "word": "to",
+          "start": 370.54,
+          "end": 370.74
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "text": "achieve? And is say international expansion, one",
+      "start": 370.74,
+      "end": 373.08,
+      "words": [
+        {
+          "word": "achieve?",
+          "start": 370.74,
+          "end": 371.04
+        },
+        {
+          "word": "And",
+          "start": 371.5,
+          "end": 371.52
+        },
+        {
+          "word": "is",
+          "start": 371.52,
+          "end": 371.68
+        },
+        {
+          "word": "say",
+          "start": 371.68,
+          "end": 371.82
+        },
+        {
+          "word": "international",
+          "start": 371.82,
+          "end": 372.26
+        },
+        {
+          "word": "expansion,",
+          "start": 372.26,
+          "end": 372.8
+        },
+        {
+          "word": "one",
+          "start": 372.98,
+          "end": 373.08
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "text": "of those big milestones that you're looking at?",
+      "start": 373.08,
+      "end": 374.74,
+      "words": [
+        {
+          "word": "of",
+          "start": 373.08,
+          "end": 373.18
+        },
+        {
+          "word": "those",
+          "start": 373.18,
+          "end": 373.32
+        },
+        {
+          "word": "big",
+          "start": 373.32,
+          "end": 373.5
+        },
+        {
+          "word": "milestones",
+          "start": 373.5,
+          "end": 373.88
+        },
+        {
+          "word": "that",
+          "start": 373.88,
+          "end": 374.14
+        },
+        {
+          "word": "you're",
+          "start": 374.14,
+          "end": 374.32
+        },
+        {
+          "word": "looking",
+          "start": 374.32,
+          "end": 374.48
+        },
+        {
+          "word": "at?",
+          "start": 374.48,
+          "end": 374.74
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "text": "Great. So I think Zia did an amazing job with that",
+      "start": 377.3,
+      "end": 380.0,
+      "words": [
+        {
+          "word": "Great.",
+          "start": 377.3,
+          "end": 377.76
+        },
+        {
+          "word": "So",
+          "start": 377.98,
+          "end": 378.02
+        },
+        {
+          "word": "I",
+          "start": 378.02,
+          "end": 378.14
+        },
+        {
+          "word": "think",
+          "start": 378.14,
+          "end": 378.34
+        },
+        {
+          "word": "Zia",
+          "start": 378.34,
+          "end": 378.64
+        },
+        {
+          "word": "did",
+          "start": 378.64,
+          "end": 378.86
+        },
+        {
+          "word": "an",
+          "start": 378.86,
+          "end": 379.0
+        },
+        {
+          "word": "amazing",
+          "start": 379.0,
+          "end": 379.32
+        },
+        {
+          "word": "job",
+          "start": 379.32,
+          "end": 379.68
+        },
+        {
+          "word": "with",
+          "start": 379.68,
+          "end": 379.88
+        },
+        {
+          "word": "that",
+          "start": 379.88,
+          "end": 380.0
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "text": "interview. There are four main things that I think",
+      "start": 380.0,
+      "end": 382.48,
+      "words": [
+        {
+          "word": "interview.",
+          "start": 380.0,
+          "end": 380.38
+        },
+        {
+          "word": "There",
+          "start": 380.86,
+          "end": 381.02
+        },
+        {
+          "word": "are",
+          "start": 381.02,
+          "end": 381.16
+        },
+        {
+          "word": "four",
+          "start": 381.16,
+          "end": 381.36
+        },
+        {
+          "word": "main",
+          "start": 381.36,
+          "end": 381.62
+        },
+        {
+          "word": "things",
+          "start": 381.62,
+          "end": 381.98
+        },
+        {
+          "word": "that",
+          "start": 381.98,
+          "end": 382.22
+        },
+        {
+          "word": "I",
+          "start": 382.22,
+          "end": 382.32
+        },
+        {
+          "word": "think",
+          "start": 382.32,
+          "end": 382.48
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "text": "he did really well. First, he was very poised and",
+      "start": 382.48,
+      "end": 385.76,
+      "words": [
+        {
+          "word": "he",
+          "start": 382.48,
+          "end": 382.62
+        },
+        {
+          "word": "did",
+          "start": 382.62,
+          "end": 382.78
+        },
+        {
+          "word": "really",
+          "start": 382.78,
+          "end": 383.04
+        },
+        {
+          "word": "well.",
+          "start": 383.04,
+          "end": 383.34
+        },
+        {
+          "word": "First,",
+          "start": 383.9,
+          "end": 384.22
+        },
+        {
+          "word": "he",
+          "start": 384.64,
+          "end": 384.72
+        },
+        {
+          "word": "was",
+          "start": 384.72,
+          "end": 384.88
+        },
+        {
+          "word": "very",
+          "start": 384.88,
+          "end": 385.08
+        },
+        {
+          "word": "poised",
+          "start": 385.08,
+          "end": 385.58
+        },
+        {
+          "word": "and",
+          "start": 385.58,
+          "end": 385.76
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "text": "confident throughout the entire interview. We",
+      "start": 385.76,
+      "end": 388.46,
+      "words": [
+        {
+          "word": "confident",
+          "start": 385.76,
+          "end": 386.22
+        },
+        {
+          "word": "throughout",
+          "start": 386.22,
+          "end": 386.62
+        },
+        {
+          "word": "the",
+          "start": 386.62,
+          "end": 386.86
+        },
+        {
+          "word": "entire",
+          "start": 386.86,
+          "end": 387.22
+        },
+        {
+          "word": "interview.",
+          "start": 387.22,
+          "end": 387.7
+        },
+        {
+          "word": "We",
+          "start": 388.24,
+          "end": 388.46
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "text": "were going back and forth and I was asking him a",
+      "start": 388.46,
+      "end": 390.54,
+      "words": [
+        {
+          "word": "were",
+          "start": 388.46,
+          "end": 388.56
+        },
+        {
+          "word": "going",
+          "start": 388.56,
+          "end": 388.74
+        },
+        {
+          "word": "back",
+          "start": 388.74,
+          "end": 389.02
+        },
+        {
+          "word": "and",
+          "start": 389.02,
+          "end": 389.2
+        },
+        {
+          "word": "forth",
+          "start": 389.2,
+          "end": 389.46
+        },
+        {
+          "word": "and",
+          "start": 389.46,
+          "end": 389.72
+        },
+        {
+          "word": "I",
+          "start": 389.72,
+          "end": 389.82
+        },
+        {
+          "word": "was",
+          "start": 389.82,
+          "end": 389.94
+        },
+        {
+          "word": "asking",
+          "start": 389.94,
+          "end": 390.2
+        },
+        {
+          "word": "him",
+          "start": 390.2,
+          "end": 390.42
+        },
+        {
+          "word": "a",
+          "start": 390.42,
+          "end": 390.54
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "text": "lot of questions, but he came back very prepared",
+      "start": 390.54,
+      "end": 393.14,
+      "words": [
+        {
+          "word": "lot",
+          "start": 390.54,
+          "end": 390.68
+        },
+        {
+          "word": "of",
+          "start": 390.68,
+          "end": 390.76
+        },
+        {
+          "word": "questions,",
+          "start": 390.76,
+          "end": 391.2
+        },
+        {
+          "word": "but",
+          "start": 391.2,
+          "end": 391.82
+        },
+        {
+          "word": "he",
+          "start": 391.82,
+          "end": 391.96
+        },
+        {
+          "word": "came",
+          "start": 391.96,
+          "end": 392.22
+        },
+        {
+          "word": "back",
+          "start": 392.22,
+          "end": 392.46
+        },
+        {
+          "word": "very",
+          "start": 392.46,
+          "end": 392.78
+        },
+        {
+          "word": "prepared",
+          "start": 392.78,
+          "end": 393.14
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "text": "for each question. Second, he used the star",
+      "start": 393.14,
+      "end": 396.1,
+      "words": [
+        {
+          "word": "for",
+          "start": 393.14,
+          "end": 393.42
+        },
+        {
+          "word": "each",
+          "start": 393.42,
+          "end": 393.64
+        },
+        {
+          "word": "question.",
+          "start": 393.64,
+          "end": 394.06
+        },
+        {
+          "word": "Second,",
+          "start": 394.66,
+          "end": 395.12
+        },
+        {
+          "word": "he",
+          "start": 395.48,
+          "end": 395.58
+        },
+        {
+          "word": "used",
+          "start": 395.58,
+          "end": 395.78
+        },
+        {
+          "word": "the",
+          "start": 395.78,
+          "end": 395.92
+        },
+        {
+          "word": "star",
+          "start": 395.92,
+          "end": 396.1
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "text": "method very well. I could really understand the",
+      "start": 396.1,
+      "end": 398.98,
+      "words": [
+        {
+          "word": "method",
+          "start": 396.1,
+          "end": 396.46
+        },
+        {
+          "word": "very",
+          "start": 396.46,
+          "end": 396.84
+        },
+        {
+          "word": "well.",
+          "start": 396.84,
+          "end": 397.16
+        },
+        {
+          "word": "I",
+          "start": 397.6,
+          "end": 397.78
+        },
+        {
+          "word": "could",
+          "start": 397.78,
+          "end": 397.92
+        },
+        {
+          "word": "really",
+          "start": 397.92,
+          "end": 398.18
+        },
+        {
+          "word": "understand",
+          "start": 398.18,
+          "end": 398.7
+        },
+        {
+          "word": "the",
+          "start": 398.7,
+          "end": 398.98
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "text": "situation, task, action and result. And he",
+      "start": 398.98,
+      "end": 402.54,
+      "words": [
+        {
+          "word": "situation,",
+          "start": 398.98,
+          "end": 399.6
+        },
+        {
+          "word": "task,",
+          "start": 400.12,
+          "end": 400.36
+        },
+        {
+          "word": "action",
+          "start": 400.72,
+          "end": 401.06
+        },
+        {
+          "word": "and",
+          "start": 401.06,
+          "end": 401.38
+        },
+        {
+          "word": "result.",
+          "start": 401.38,
+          "end": 401.74
+        },
+        {
+          "word": "And",
+          "start": 402.32,
+          "end": 402.38
+        },
+        {
+          "word": "he",
+          "start": 402.38,
+          "end": 402.54
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "text": "introduced each story in a way that made me",
+      "start": 402.54,
+      "end": 404.78,
+      "words": [
+        {
+          "word": "introduced",
+          "start": 402.54,
+          "end": 403.0
+        },
+        {
+          "word": "each",
+          "start": 403.0,
+          "end": 403.32
+        },
+        {
+          "word": "story",
+          "start": 403.32,
+          "end": 403.64
+        },
+        {
+          "word": "in",
+          "start": 403.64,
+          "end": 403.84
+        },
+        {
+          "word": "a",
+          "start": 403.84,
+          "end": 403.94
+        },
+        {
+          "word": "way",
+          "start": 403.94,
+          "end": 404.2
+        },
+        {
+          "word": "that",
+          "start": 404.2,
+          "end": 404.48
+        },
+        {
+          "word": "made",
+          "start": 404.48,
+          "end": 404.64
+        },
+        {
+          "word": "me",
+          "start": 404.64,
+          "end": 404.78
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "text": "understand what he was saying. Third, he was very",
+      "start": 404.78,
+      "end": 408.1,
+      "words": [
+        {
+          "word": "understand",
+          "start": 404.78,
+          "end": 405.18
+        },
+        {
+          "word": "what",
+          "start": 405.18,
+          "end": 405.46
+        },
+        {
+          "word": "he",
+          "start": 405.46,
+          "end": 405.6
+        },
+        {
+          "word": "was",
+          "start": 405.6,
+          "end": 405.72
+        },
+        {
+          "word": "saying.",
+          "start": 405.72,
+          "end": 405.98
+        },
+        {
+          "word": "Third,",
+          "start": 406.72,
+          "end": 407.02
+        },
+        {
+          "word": "he",
+          "start": 407.5,
+          "end": 407.7
+        },
+        {
+          "word": "was",
+          "start": 407.7,
+          "end": 407.86
+        },
+        {
+          "word": "very",
+          "start": 407.86,
+          "end": 408.1
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "text": "concise in each of his stories. And lastly, he",
+      "start": 408.1,
+      "end": 411.68,
+      "words": [
+        {
+          "word": "concise",
+          "start": 408.1,
+          "end": 408.58
+        },
+        {
+          "word": "in",
+          "start": 408.58,
+          "end": 409.0
+        },
+        {
+          "word": "each",
+          "start": 409.0,
+          "end": 409.2
+        },
+        {
+          "word": "of",
+          "start": 409.2,
+          "end": 409.3
+        },
+        {
+          "word": "his",
+          "start": 409.3,
+          "end": 409.44
+        },
+        {
+          "word": "stories.",
+          "start": 409.44,
+          "end": 409.8
+        },
+        {
+          "word": "And",
+          "start": 410.54,
+          "end": 410.64
+        },
+        {
+          "word": "lastly,",
+          "start": 410.64,
+          "end": 411.04
+        },
+        {
+          "word": "he",
+          "start": 411.6,
+          "end": 411.68
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "text": "ended with some very thoughtful questions that",
+      "start": 411.68,
+      "end": 414.0,
+      "words": [
+        {
+          "word": "ended",
+          "start": 411.68,
+          "end": 411.94
+        },
+        {
+          "word": "with",
+          "start": 411.94,
+          "end": 412.2
+        },
+        {
+          "word": "some",
+          "start": 412.2,
+          "end": 412.42
+        },
+        {
+          "word": "very",
+          "start": 412.42,
+          "end": 412.7
+        },
+        {
+          "word": "thoughtful",
+          "start": 412.7,
+          "end": 413.06
+        },
+        {
+          "word": "questions",
+          "start": 413.06,
+          "end": 413.6
+        },
+        {
+          "word": "that",
+          "start": 413.6,
+          "end": 414.0
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "text": "made it seem like he really cared about the",
+      "start": 414.0,
+      "end": 415.74,
+      "words": [
+        {
+          "word": "made",
+          "start": 414.0,
+          "end": 414.16
+        },
+        {
+          "word": "it",
+          "start": 414.16,
+          "end": 414.28
+        },
+        {
+          "word": "seem",
+          "start": 414.28,
+          "end": 414.46
+        },
+        {
+          "word": "like",
+          "start": 414.46,
+          "end": 414.66
+        },
+        {
+          "word": "he",
+          "start": 414.66,
+          "end": 414.8
+        },
+        {
+          "word": "really",
+          "start": 414.8,
+          "end": 415.02
+        },
+        {
+          "word": "cared",
+          "start": 415.02,
+          "end": 415.32
+        },
+        {
+          "word": "about",
+          "start": 415.32,
+          "end": 415.54
+        },
+        {
+          "word": "the",
+          "start": 415.54,
+          "end": 415.74
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "text": "company and the position. Overall, Zia did a",
+      "start": 415.74,
+      "end": 418.54,
+      "words": [
+        {
+          "word": "company",
+          "start": 415.74,
+          "end": 416.14
+        },
+        {
+          "word": "and",
+          "start": 416.14,
+          "end": 416.38
+        },
+        {
+          "word": "the",
+          "start": 416.38,
+          "end": 416.48
+        },
+        {
+          "word": "position.",
+          "start": 416.48,
+          "end": 416.86
+        },
+        {
+          "word": "Overall,",
+          "start": 417.44,
+          "end": 417.84
+        },
+        {
+          "word": "Zia",
+          "start": 418.1,
+          "end": 418.26
+        },
+        {
+          "word": "did",
+          "start": 418.26,
+          "end": 418.44
+        },
+        {
+          "word": "a",
+          "start": 418.44,
+          "end": 418.54
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "text": "great job and I would accelerate him to the",
+      "start": 418.54,
+      "end": 420.34,
+      "words": [
+        {
+          "word": "great",
+          "start": 418.54,
+          "end": 418.68
+        },
+        {
+          "word": "job",
+          "start": 418.68,
+          "end": 419.02
+        },
+        {
+          "word": "and",
+          "start": 419.02,
+          "end": 419.24
+        },
+        {
+          "word": "I",
+          "start": 419.24,
+          "end": 419.36
+        },
+        {
+          "word": "would",
+          "start": 419.36,
+          "end": 419.46
+        },
+        {
+          "word": "accelerate",
+          "start": 419.46,
+          "end": 419.8
+        },
+        {
+          "word": "him",
+          "start": 419.8,
+          "end": 420.12
+        },
+        {
+          "word": "to",
+          "start": 420.12,
+          "end": 420.26
+        },
+        {
+          "word": "the",
+          "start": 420.26,
+          "end": 420.34
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "text": "next round.",
+      "start": 420.34,
+      "end": 420.82,
+      "words": [
+        {
+          "word": "next",
+          "start": 420.34,
+          "end": 420.54
+        },
+        {
+          "word": "round.",
+          "start": 420.54,
+          "end": 420.82
+        }
+      ]
+    }
+  ]
+}

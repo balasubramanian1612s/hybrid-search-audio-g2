@@ -1,0 +1,20 @@
+Setups
+
+Docker + postgres
+
+docker run -d --name hybrid-audio-search -e POSTGRES_PASSWORD=postgres -p 5434:5432 -v hybrid-audio-search:/var/lib/postgresql/data --restart unless-stopped pgvector/pgvector:pg17
+docker exec -it hybrid-audio-search psql -U postgres -c "CREATE EXTENSION IF NOT EXISTS vector;"
+
+Audio
+
+ffmpeg -i raw_audio/y_combinator.mp3 -ss 0 -t 600 -ac 1 -ar 16000 audio/y_combinator.wav
+
+Hugging face
+
+pip install -U "huggingface_hub[cli]"
+hf auth login
+
+How to run search
+
+.venv/bin/python pipeline/search.py "your query" --mode all -k 5
+--mode also accepts keyword, vector or hybrid

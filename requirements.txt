@@ -1,7 +1,9 @@
 faster-whisper
 pyannote.audio>=4.0
 sentence-transformers
-"psycopg[binary]" pgvector
+huggingface_hub>=1.5,<2.0
+psycopg[binary]
+pgvector
 python-dotenv
 pytest
 numpy

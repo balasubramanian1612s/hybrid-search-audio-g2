@@ -1,0 +1,110 @@
+{
+  "file": "nasa_interview.wav",
+  "turns": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.031,
+      "end": 17.497
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 18.357,
+      "end": 23.285
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 23.285,
+      "end": 34.76
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 35.519,
+      "end": 73.96
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 74.18,
+      "end": 79.225
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 80.305,
+      "end": 137.225
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 137.545,
+      "end": 138.187
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 138.203,
+      "end": 149.341
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 150.725,
+      "end": 198.025
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 198.346,
+      "end": 219.878
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 220.823,
+      "end": 269.17
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 269.221,
+      "end": 283.649
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 285.185,
+      "end": 349.546
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 349.833,
+      "end": 355.638
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 356.633,
+      "end": 413.992
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 414.177,
+      "end": 434.613
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 435.642,
+      "end": 490.57
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 490.705,
+      "end": 497.506
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 498.113,
+      "end": 564.382
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 564.382,
+      "end": 567.942
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 568.955,
+      "end": 599.971
+    }
+  ]
+}

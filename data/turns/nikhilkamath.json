@@ -1,0 +1,8185 @@
+{
+  "file": "nikhilkamath.wav",
+  "turns": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.0,
+      "end": 37.88,
+      "text": "Chamath, to my audience, which are largely entrepreneurs and people who want to start a business in India, I think something that you have accomplished along the many things that you have done in life, from starting at Facebook, which is now Metta, to running funds, managing money. The thing I find most interesting, because I'm in that profession, is the investing bit. You seem to have gotten so many calls right over the tenure of your career. Give us some lessons from that which are non -obvious.",
+      "n_words": 88,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "Chamath,",
+          "start": 0.0,
+          "end": 0.6
+        },
+        {
+          "word": "to",
+          "start": 0.66,
+          "end": 0.8
+        },
+        {
+          "word": "my",
+          "start": 0.8,
+          "end": 1.08
+        },
+        {
+          "word": "audience,",
+          "start": 1.08,
+          "end": 1.58
+        },
+        {
+          "word": "which",
+          "start": 2.24,
+          "end": 2.44
+        },
+        {
+          "word": "are",
+          "start": 2.44,
+          "end": 2.68
+        },
+        {
+          "word": "largely",
+          "start": 2.68,
+          "end": 3.26
+        },
+        {
+          "word": "entrepreneurs",
+          "start": 3.26,
+          "end": 4.04
+        },
+        {
+          "word": "and",
+          "start": 4.04,
+          "end": 4.74
+        },
+        {
+          "word": "people",
+          "start": 4.74,
+          "end": 5.14
+        },
+        {
+          "word": "who",
+          "start": 5.14,
+          "end": 5.32
+        },
+        {
+          "word": "want",
+          "start": 5.32,
+          "end": 5.46
+        },
+        {
+          "word": "to",
+          "start": 5.46,
+          "end": 5.58
+        },
+        {
+          "word": "start",
+          "start": 5.58,
+          "end": 5.78
+        },
+        {
+          "word": "a",
+          "start": 5.78,
+          "end": 5.98
+        },
+        {
+          "word": "business",
+          "start": 5.98,
+          "end": 6.16
+        },
+        {
+          "word": "in",
+          "start": 6.16,
+          "end": 6.42
+        },
+        {
+          "word": "India,",
+          "start": 6.42,
+          "end": 6.72
+        },
+        {
+          "word": "I",
+          "start": 7.38,
+          "end": 7.86
+        },
+        {
+          "word": "think",
+          "start": 7.86,
+          "end": 8.0
+        },
+        {
+          "word": "something",
+          "start": 8.0,
+          "end": 8.28
+        },
+        {
+          "word": "that",
+          "start": 8.28,
+          "end": 8.7
+        },
+        {
+          "word": "you",
+          "start": 8.7,
+          "end": 9.66
+        },
+        {
+          "word": "have",
+          "start": 9.66,
+          "end": 9.86
+        },
+        {
+          "word": "accomplished",
+          "start": 9.86,
+          "end": 10.42
+        },
+        {
+          "word": "along",
+          "start": 10.42,
+          "end": 10.8
+        },
+        {
+          "word": "the",
+          "start": 10.8,
+          "end": 11.1
+        },
+        {
+          "word": "many",
+          "start": 11.1,
+          "end": 11.38
+        },
+        {
+          "word": "things",
+          "start": 11.38,
+          "end": 11.66
+        },
+        {
+          "word": "that",
+          "start": 11.66,
+          "end": 11.88
+        },
+        {
+          "word": "you",
+          "start": 11.88,
+          "end": 12.0
+        },
+        {
+          "word": "have",
+          "start": 12.0,
+          "end": 12.08
+        },
+        {
+          "word": "done",
+          "start": 12.08,
+          "end": 12.24
+        },
+        {
+          "word": "in",
+          "start": 12.24,
+          "end": 12.38
+        },
+        {
+          "word": "life,",
+          "start": 12.38,
+          "end": 12.64
+        },
+        {
+          "word": "from",
+          "start": 12.64,
+          "end": 13.16
+        },
+        {
+          "word": "starting",
+          "start": 13.16,
+          "end": 14.2
+        },
+        {
+          "word": "at",
+          "start": 14.2,
+          "end": 14.46
+        },
+        {
+          "word": "Facebook,",
+          "start": 14.46,
+          "end": 14.88
+        },
+        {
+          "word": "which",
+          "start": 15.16,
+          "end": 15.32
+        },
+        {
+          "word": "is",
+          "start": 15.32,
+          "end": 15.46
+        },
+        {
+          "word": "now",
+          "start": 15.46,
+          "end": 15.62
+        },
+        {
+          "word": "Metta,",
+          "start": 15.62,
+          "end": 16.08
+        },
+        {
+          "word": "to",
+          "start": 16.32,
+          "end": 16.46
+        },
+        {
+          "word": "running",
+          "start": 16.46,
+          "end": 17.54
+        },
+        {
+          "word": "funds,",
+          "start": 17.54,
+          "end": 18.06
+        },
+        {
+          "word": "managing",
+          "start": 18.38,
+          "end": 18.7
+        },
+        {
+          "word": "money.",
+          "start": 18.7,
+          "end": 19.08
+        },
+        {
+          "word": "The",
+          "start": 20.0,
+          "end": 20.16
+        },
+        {
+          "word": "thing",
+          "start": 20.16,
+          "end": 20.42
+        },
+        {
+          "word": "I",
+          "start": 20.42,
+          "end": 20.86
+        },
+        {
+          "word": "find",
+          "start": 20.86,
+          "end": 21.18
+        },
+        {
+          "word": "most",
+          "start": 21.18,
+          "end": 21.44
+        },
+        {
+          "word": "interesting,",
+          "start": 21.44,
+          "end": 22.1
+        },
+        {
+          "word": "because",
+          "start": 22.3,
+          "end": 22.5
+        },
+        {
+          "word": "I'm",
+          "start": 22.5,
+          "end": 22.78
+        },
+        {
+          "word": "in",
+          "start": 22.78,
+          "end": 22.86
+        },
+        {
+          "word": "that",
+          "start": 22.86,
+          "end": 23.02
+        },
+        {
+          "word": "profession,",
+          "start": 23.02,
+          "end": 23.48
+        },
+        {
+          "word": "is",
+          "start": 23.7,
+          "end": 23.82
+        },
+        {
+          "word": "the",
+          "start": 23.82,
+          "end": 23.94
+        },
+        {
+          "word": "investing",
+          "start": 23.94,
+          "end": 24.4
+        },
+        {
+          "word": "bit.",
+          "start": 24.4,
+          "end": 24.72
+        },
+        {
+          "word": "You",
+          "start": 25.12,
+          "end": 25.58
+        },
+        {
+          "word": "seem",
+          "start": 25.58,
+          "end": 25.8
+        },
+        {
+          "word": "to",
+          "start": 25.8,
+          "end": 25.96
+        },
+        {
+          "word": "have",
+          "start": 25.96,
+          "end": 26.16
+        },
+        {
+          "word": "gotten",
+          "start": 26.16,
+          "end": 26.64
+        },
+        {
+          "word": "so",
+          "start": 26.64,
+          "end": 27.6
+        },
+        {
+          "word": "many",
+          "start": 27.6,
+          "end": 27.9
+        },
+        {
+          "word": "calls",
+          "start": 27.9,
+          "end": 28.4
+        },
+        {
+          "word": "right",
+          "start": 28.4,
+          "end": 29.02
+        },
+        {
+          "word": "over",
+          "start": 29.02,
+          "end": 29.64
+        },
+        {
+          "word": "the",
+          "start": 29.64,
+          "end": 29.82
+        },
+        {
+          "word": "tenure",
+          "start": 29.82,
+          "end": 30.1
+        },
+        {
+          "word": "of",
+          "start": 30.1,
+          "end": 30.38
+        },
+        {
+          "word": "your",
+          "start": 30.38,
+          "end": 30.5
+        },
+        {
+          "word": "career.",
+          "start": 30.5,
+          "end": 30.98
+        },
+        {
+          "word": "Give",
+          "start": 32.72,
+          "end": 33.18
+        },
+        {
+          "word": "us",
+          "start": 33.18,
+          "end": 33.44
+        },
+        {
+          "word": "some",
+          "start": 33.44,
+          "end": 34.1
+        },
+        {
+          "word": "lessons",
+          "start": 34.1,
+          "end": 35.06
+        },
+        {
+          "word": "from",
+          "start": 35.06,
+          "end": 35.6
+        },
+        {
+          "word": "that",
+          "start": 35.6,
+          "end": 36.04
+        },
+        {
+          "word": "which",
+          "start": 36.04,
+          "end": 37.04
+        },
+        {
+          "word": "are",
+          "start": 37.04,
+          "end": 37.26
+        },
+        {
+          "word": "non",
+          "start": 37.26,
+          "end": 37.42
+        },
+        {
+          "word": "-obvious.",
+          "start": 37.42,
+          "end": 37.88
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 43.06,
+      "end": 52.92,
+      "text": "To be a very successful investor, you have to be extremely, extremely single -minded.",
+      "n_words": 14,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "To",
+          "start": 43.06,
+          "end": 43.48
+        },
+        {
+          "word": "be",
+          "start": 43.48,
+          "end": 43.62
+        },
+        {
+          "word": "a",
+          "start": 43.62,
+          "end": 43.8
+        },
+        {
+          "word": "very",
+          "start": 43.8,
+          "end": 44.12
+        },
+        {
+          "word": "successful",
+          "start": 44.12,
+          "end": 44.8
+        },
+        {
+          "word": "investor,",
+          "start": 44.8,
+          "end": 45.6
+        },
+        {
+          "word": "you",
+          "start": 47.04,
+          "end": 47.42
+        },
+        {
+          "word": "have",
+          "start": 47.42,
+          "end": 47.56
+        },
+        {
+          "word": "to",
+          "start": 47.56,
+          "end": 47.68
+        },
+        {
+          "word": "be",
+          "start": 47.68,
+          "end": 47.86
+        },
+        {
+          "word": "extremely,",
+          "start": 47.86,
+          "end": 49.14
+        },
+        {
+          "word": "extremely",
+          "start": 49.3,
+          "end": 50.42
+        },
+        {
+          "word": "single",
+          "start": 52.04,
+          "end": 52.5
+        },
+        {
+          "word": "-minded.",
+          "start": 52.5,
+          "end": 52.92
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 55.56,
+      "end": 60.83,
+      "text": "You need to come to your own conclusions.",
+      "n_words": 8,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "You",
+          "start": 55.56,
+          "end": 56.08
+        },
+        {
+          "word": "need",
+          "start": 56.08,
+          "end": 57.7
+        },
+        {
+          "word": "to",
+          "start": 58.02,
+          "end": 58.26
+        },
+        {
+          "word": "come",
+          "start": 58.26,
+          "end": 58.66
+        },
+        {
+          "word": "to",
+          "start": 58.66,
+          "end": 59.64
+        },
+        {
+          "word": "your",
+          "start": 59.77,
+          "end": 59.93
+        },
+        {
+          "word": "own",
+          "start": 59.93,
+          "end": 60.15
+        },
+        {
+          "word": "conclusions.",
+          "start": 60.15,
+          "end": 60.83
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 64.51,
+      "end": 67.69,
+      "text": "You cannot have others help you.",
+      "n_words": 6,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "You",
+          "start": 64.51,
+          "end": 64.93
+        },
+        {
+          "word": "cannot",
+          "start": 64.93,
+          "end": 65.41
+        },
+        {
+          "word": "have",
+          "start": 65.41,
+          "end": 66.51
+        },
+        {
+          "word": "others",
+          "start": 66.93,
+          "end": 67.21
+        },
+        {
+          "word": "help",
+          "start": 67.21,
+          "end": 67.51
+        },
+        {
+          "word": "you.",
+          "start": 67.51,
+          "end": 67.69
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 70.02,
+      "end": 91.09,
+      "text": "It is not a team sport. That is probably the single most important thing. Whenever I see teams of investors, I think these idiots are going to lose money or they're going to make a lot of noise and spend a lot of time and waste a bunch of people's money just returning the market beta. I don't find that interesting. That's not being a",
+      "n_words": 65,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "It",
+          "start": 70.02,
+          "end": 70.54
+        },
+        {
+          "word": "is",
+          "start": 70.54,
+          "end": 70.7
+        },
+        {
+          "word": "not",
+          "start": 70.7,
+          "end": 71.02
+        },
+        {
+          "word": "a",
+          "start": 71.02,
+          "end": 71.4
+        },
+        {
+          "word": "team",
+          "start": 71.4,
+          "end": 71.7
+        },
+        {
+          "word": "sport.",
+          "start": 71.7,
+          "end": 72.08
+        },
+        {
+          "word": "That",
+          "start": 72.91,
+          "end": 73.27
+        },
+        {
+          "word": "is",
+          "start": 73.27,
+          "end": 73.43
+        },
+        {
+          "word": "probably",
+          "start": 73.43,
+          "end": 73.77
+        },
+        {
+          "word": "the",
+          "start": 73.77,
+          "end": 73.95
+        },
+        {
+          "word": "single",
+          "start": 73.95,
+          "end": 74.21
+        },
+        {
+          "word": "most",
+          "start": 74.21,
+          "end": 74.43
+        },
+        {
+          "word": "important",
+          "start": 74.43,
+          "end": 74.75
+        },
+        {
+          "word": "thing.",
+          "start": 74.75,
+          "end": 74.95
+        },
+        {
+          "word": "Whenever",
+          "start": 75.03,
+          "end": 75.13
+        },
+        {
+          "word": "I",
+          "start": 75.13,
+          "end": 75.37
+        },
+        {
+          "word": "see",
+          "start": 75.37,
+          "end": 75.51
+        },
+        {
+          "word": "teams",
+          "start": 75.51,
+          "end": 75.87
+        },
+        {
+          "word": "of",
+          "start": 75.87,
+          "end": 76.03
+        },
+        {
+          "word": "investors,",
+          "start": 76.03,
+          "end": 76.45
+        },
+        {
+          "word": "I",
+          "start": 76.81,
+          "end": 77.41
+        },
+        {
+          "word": "think",
+          "start": 77.41,
+          "end": 77.63
+        },
+        {
+          "word": "these",
+          "start": 77.63,
+          "end": 78.31
+        },
+        {
+          "word": "idiots",
+          "start": 78.31,
+          "end": 78.61
+        },
+        {
+          "word": "are",
+          "start": 78.61,
+          "end": 78.77
+        },
+        {
+          "word": "going",
+          "start": 78.77,
+          "end": 78.89
+        },
+        {
+          "word": "to",
+          "start": 78.89,
+          "end": 78.95
+        },
+        {
+          "word": "lose",
+          "start": 78.95,
+          "end": 79.09
+        },
+        {
+          "word": "money",
+          "start": 79.09,
+          "end": 79.35
+        },
+        {
+          "word": "or",
+          "start": 79.35,
+          "end": 79.93
+        },
+        {
+          "word": "they're",
+          "start": 79.93,
+          "end": 80.73
+        },
+        {
+          "word": "going",
+          "start": 80.73,
+          "end": 80.91
+        },
+        {
+          "word": "to",
+          "start": 80.91,
+          "end": 81.15
+        },
+        {
+          "word": "make",
+          "start": 81.15,
+          "end": 81.53
+        },
+        {
+          "word": "a",
+          "start": 81.53,
+          "end": 81.69
+        },
+        {
+          "word": "lot",
+          "start": 81.69,
+          "end": 81.83
+        },
+        {
+          "word": "of",
+          "start": 81.83,
+          "end": 81.93
+        },
+        {
+          "word": "noise",
+          "start": 81.93,
+          "end": 82.25
+        },
+        {
+          "word": "and",
+          "start": 82.25,
+          "end": 82.71
+        },
+        {
+          "word": "spend",
+          "start": 82.71,
+          "end": 82.93
+        },
+        {
+          "word": "a",
+          "start": 82.93,
+          "end": 83.13
+        },
+        {
+          "word": "lot",
+          "start": 83.13,
+          "end": 83.23
+        },
+        {
+          "word": "of",
+          "start": 83.23,
+          "end": 83.35
+        },
+        {
+          "word": "time",
+          "start": 83.35,
+          "end": 83.71
+        },
+        {
+          "word": "and",
+          "start": 83.71,
+          "end": 84.53
+        },
+        {
+          "word": "waste",
+          "start": 84.53,
+          "end": 84.79
+        },
+        {
+          "word": "a",
+          "start": 84.79,
+          "end": 84.97
+        },
+        {
+          "word": "bunch",
+          "start": 84.97,
+          "end": 85.13
+        },
+        {
+          "word": "of",
+          "start": 85.13,
+          "end": 85.23
+        },
+        {
+          "word": "people's",
+          "start": 85.23,
+          "end": 85.59
+        },
+        {
+          "word": "money",
+          "start": 85.59,
+          "end": 85.79
+        },
+        {
+          "word": "just",
+          "start": 85.79,
+          "end": 86.09
+        },
+        {
+          "word": "returning",
+          "start": 86.09,
+          "end": 86.47
+        },
+        {
+          "word": "the",
+          "start": 86.47,
+          "end": 86.65
+        },
+        {
+          "word": "market",
+          "start": 86.65,
+          "end": 86.89
+        },
+        {
+          "word": "beta.",
+          "start": 86.89,
+          "end": 87.19
+        },
+        {
+          "word": "I",
+          "start": 89.01,
+          "end": 89.43
+        },
+        {
+          "word": "don't",
+          "start": 89.43,
+          "end": 89.53
+        },
+        {
+          "word": "find",
+          "start": 89.53,
+          "end": 89.69
+        },
+        {
+          "word": "that",
+          "start": 89.69,
+          "end": 89.85
+        },
+        {
+          "word": "interesting.",
+          "start": 89.85,
+          "end": 90.19
+        },
+        {
+          "word": "That's",
+          "start": 90.43,
+          "end": 90.67
+        },
+        {
+          "word": "not",
+          "start": 90.67,
+          "end": 90.79
+        },
+        {
+          "word": "being",
+          "start": 90.79,
+          "end": 90.95
+        },
+        {
+          "word": "a",
+          "start": 90.95,
+          "end": 91.09
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 91.09,
+      "end": 91.49,
+      "text": "good investor.",
+      "n_words": 2,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "good",
+          "start": 91.09,
+          "end": 91.17
+        },
+        {
+          "word": "investor.",
+          "start": 91.17,
+          "end": 91.49
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 93.23,
+      "end": 108.95,
+      "text": "You have to be really, really, really curious. People say that a lot. The sensation that I can put my finger on is when I feel like I'm embarrassed to tell somebody that I'm in this new thing.",
+      "n_words": 38,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "You",
+          "start": 93.23,
+          "end": 93.75
+        },
+        {
+          "word": "have",
+          "start": 93.75,
+          "end": 93.93
+        },
+        {
+          "word": "to",
+          "start": 93.93,
+          "end": 94.07
+        },
+        {
+          "word": "be",
+          "start": 94.07,
+          "end": 94.33
+        },
+        {
+          "word": "really,",
+          "start": 94.33,
+          "end": 95.35
+        },
+        {
+          "word": "really,",
+          "start": 95.47,
+          "end": 95.93
+        },
+        {
+          "word": "really",
+          "start": 95.93,
+          "end": 96.39
+        },
+        {
+          "word": "curious.",
+          "start": 96.39,
+          "end": 96.95
+        },
+        {
+          "word": "People",
+          "start": 98.22,
+          "end": 98.64
+        },
+        {
+          "word": "say",
+          "start": 98.64,
+          "end": 98.98
+        },
+        {
+          "word": "that",
+          "start": 98.98,
+          "end": 99.18
+        },
+        {
+          "word": "a",
+          "start": 99.18,
+          "end": 99.28
+        },
+        {
+          "word": "lot.",
+          "start": 99.28,
+          "end": 99.48
+        },
+        {
+          "word": "The",
+          "start": 100.11,
+          "end": 100.53
+        },
+        {
+          "word": "sensation",
+          "start": 100.53,
+          "end": 100.95
+        },
+        {
+          "word": "that",
+          "start": 100.95,
+          "end": 101.29
+        },
+        {
+          "word": "I",
+          "start": 101.29,
+          "end": 101.95
+        },
+        {
+          "word": "can",
+          "start": 101.95,
+          "end": 102.11
+        },
+        {
+          "word": "put",
+          "start": 102.11,
+          "end": 102.27
+        },
+        {
+          "word": "my",
+          "start": 102.27,
+          "end": 102.47
+        },
+        {
+          "word": "finger",
+          "start": 102.47,
+          "end": 102.73
+        },
+        {
+          "word": "on",
+          "start": 102.73,
+          "end": 102.99
+        },
+        {
+          "word": "is",
+          "start": 102.99,
+          "end": 103.19
+        },
+        {
+          "word": "when",
+          "start": 103.19,
+          "end": 103.41
+        },
+        {
+          "word": "I",
+          "start": 103.41,
+          "end": 103.73
+        },
+        {
+          "word": "feel",
+          "start": 103.73,
+          "end": 104.15
+        },
+        {
+          "word": "like",
+          "start": 104.15,
+          "end": 104.77
+        },
+        {
+          "word": "I'm",
+          "start": 104.77,
+          "end": 104.93
+        },
+        {
+          "word": "embarrassed",
+          "start": 104.93,
+          "end": 105.31
+        },
+        {
+          "word": "to",
+          "start": 105.31,
+          "end": 105.81
+        },
+        {
+          "word": "tell",
+          "start": 105.81,
+          "end": 106.23
+        },
+        {
+          "word": "somebody",
+          "start": 106.23,
+          "end": 106.69
+        },
+        {
+          "word": "that",
+          "start": 106.69,
+          "end": 107.45
+        },
+        {
+          "word": "I'm",
+          "start": 107.45,
+          "end": 107.67
+        },
+        {
+          "word": "in",
+          "start": 107.67,
+          "end": 108.29
+        },
+        {
+          "word": "this",
+          "start": 108.29,
+          "end": 108.51
+        },
+        {
+          "word": "new",
+          "start": 108.51,
+          "end": 108.71
+        },
+        {
+          "word": "thing.",
+          "start": 108.71,
+          "end": 108.95
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 112.34,
+      "end": 134.76,
+      "text": "I remember when I invested in an NBA team in 2011, the people around me were up in arms. My family office was up in arms. My best friends were up in arms. My wife at the time, up in arms. Why are you doing this? This makes no sense. And I said, here's what, and you know, it's almost as if what I've learned actually in my career is when people around you have that reaction. It's almost the best signal.",
+      "n_words": 82,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "I",
+          "start": 112.34,
+          "end": 112.76
+        },
+        {
+          "word": "remember",
+          "start": 112.76,
+          "end": 112.92
+        },
+        {
+          "word": "when",
+          "start": 112.92,
+          "end": 113.14
+        },
+        {
+          "word": "I",
+          "start": 113.14,
+          "end": 113.24
+        },
+        {
+          "word": "invested",
+          "start": 113.24,
+          "end": 113.58
+        },
+        {
+          "word": "in",
+          "start": 113.58,
+          "end": 113.82
+        },
+        {
+          "word": "an",
+          "start": 113.82,
+          "end": 113.94
+        },
+        {
+          "word": "NBA",
+          "start": 113.94,
+          "end": 114.26
+        },
+        {
+          "word": "team",
+          "start": 114.26,
+          "end": 114.68
+        },
+        {
+          "word": "in",
+          "start": 114.68,
+          "end": 114.84
+        },
+        {
+          "word": "2011,",
+          "start": 114.84,
+          "end": 115.84
+        },
+        {
+          "word": "the",
+          "start": 117.58,
+          "end": 117.9
+        },
+        {
+          "word": "people",
+          "start": 117.9,
+          "end": 118.12
+        },
+        {
+          "word": "around",
+          "start": 118.12,
+          "end": 118.38
+        },
+        {
+          "word": "me",
+          "start": 118.38,
+          "end": 118.54
+        },
+        {
+          "word": "were",
+          "start": 118.54,
+          "end": 118.66
+        },
+        {
+          "word": "up",
+          "start": 118.66,
+          "end": 118.98
+        },
+        {
+          "word": "in",
+          "start": 118.98,
+          "end": 119.08
+        },
+        {
+          "word": "arms.",
+          "start": 119.08,
+          "end": 119.32
+        },
+        {
+          "word": "My",
+          "start": 119.78,
+          "end": 119.86
+        },
+        {
+          "word": "family",
+          "start": 119.86,
+          "end": 120.1
+        },
+        {
+          "word": "office",
+          "start": 120.1,
+          "end": 120.42
+        },
+        {
+          "word": "was",
+          "start": 120.42,
+          "end": 120.6
+        },
+        {
+          "word": "up",
+          "start": 120.6,
+          "end": 120.76
+        },
+        {
+          "word": "in",
+          "start": 120.76,
+          "end": 120.86
+        },
+        {
+          "word": "arms.",
+          "start": 120.86,
+          "end": 121.0
+        },
+        {
+          "word": "My",
+          "start": 121.12,
+          "end": 121.18
+        },
+        {
+          "word": "best",
+          "start": 121.18,
+          "end": 121.34
+        },
+        {
+          "word": "friends",
+          "start": 121.34,
+          "end": 121.58
+        },
+        {
+          "word": "were",
+          "start": 121.58,
+          "end": 121.74
+        },
+        {
+          "word": "up",
+          "start": 121.74,
+          "end": 121.86
+        },
+        {
+          "word": "in",
+          "start": 121.86,
+          "end": 121.94
+        },
+        {
+          "word": "arms.",
+          "start": 121.94,
+          "end": 122.14
+        },
+        {
+          "word": "My",
+          "start": 122.96,
+          "end": 123.1
+        },
+        {
+          "word": "wife",
+          "start": 123.1,
+          "end": 123.32
+        },
+        {
+          "word": "at",
+          "start": 123.32,
+          "end": 123.44
+        },
+        {
+          "word": "the",
+          "start": 123.44,
+          "end": 123.52
+        },
+        {
+          "word": "time,",
+          "start": 123.52,
+          "end": 123.68
+        },
+        {
+          "word": "up",
+          "start": 123.82,
+          "end": 123.92
+        },
+        {
+          "word": "in",
+          "start": 123.92,
+          "end": 124.04
+        },
+        {
+          "word": "arms.",
+          "start": 124.04,
+          "end": 124.24
+        },
+        {
+          "word": "Why",
+          "start": 124.7,
+          "end": 124.88
+        },
+        {
+          "word": "are",
+          "start": 124.88,
+          "end": 124.98
+        },
+        {
+          "word": "you",
+          "start": 124.98,
+          "end": 125.08
+        },
+        {
+          "word": "doing",
+          "start": 125.08,
+          "end": 125.28
+        },
+        {
+          "word": "this?",
+          "start": 125.28,
+          "end": 125.52
+        },
+        {
+          "word": "This",
+          "start": 125.56,
+          "end": 125.68
+        },
+        {
+          "word": "makes",
+          "start": 125.68,
+          "end": 125.88
+        },
+        {
+          "word": "no",
+          "start": 125.88,
+          "end": 126.06
+        },
+        {
+          "word": "sense.",
+          "start": 126.06,
+          "end": 126.28
+        },
+        {
+          "word": "And",
+          "start": 126.28,
+          "end": 126.42
+        },
+        {
+          "word": "I",
+          "start": 126.42,
+          "end": 126.54
+        },
+        {
+          "word": "said,",
+          "start": 126.54,
+          "end": 126.7
+        },
+        {
+          "word": "here's",
+          "start": 126.98,
+          "end": 127.48
+        },
+        {
+          "word": "what,",
+          "start": 127.48,
+          "end": 127.64
+        },
+        {
+          "word": "and",
+          "start": 127.88,
+          "end": 127.88
+        },
+        {
+          "word": "you",
+          "start": 127.88,
+          "end": 128.26
+        },
+        {
+          "word": "know,",
+          "start": 128.26,
+          "end": 128.34
+        },
+        {
+          "word": "it's",
+          "start": 128.36,
+          "end": 128.48
+        },
+        {
+          "word": "almost",
+          "start": 128.48,
+          "end": 128.82
+        },
+        {
+          "word": "as",
+          "start": 128.82,
+          "end": 129.06
+        },
+        {
+          "word": "if",
+          "start": 129.06,
+          "end": 129.22
+        },
+        {
+          "word": "what",
+          "start": 129.22,
+          "end": 129.42
+        },
+        {
+          "word": "I've",
+          "start": 129.42,
+          "end": 129.58
+        },
+        {
+          "word": "learned",
+          "start": 129.58,
+          "end": 129.76
+        },
+        {
+          "word": "actually",
+          "start": 129.76,
+          "end": 130.08
+        },
+        {
+          "word": "in",
+          "start": 130.08,
+          "end": 130.22
+        },
+        {
+          "word": "my",
+          "start": 130.22,
+          "end": 130.32
+        },
+        {
+          "word": "career",
+          "start": 130.32,
+          "end": 130.52
+        },
+        {
+          "word": "is",
+          "start": 130.52,
+          "end": 130.64
+        },
+        {
+          "word": "when",
+          "start": 130.64,
+          "end": 130.74
+        },
+        {
+          "word": "people",
+          "start": 130.74,
+          "end": 131.04
+        },
+        {
+          "word": "around",
+          "start": 131.04,
+          "end": 131.38
+        },
+        {
+          "word": "you",
+          "start": 131.38,
+          "end": 131.72
+        },
+        {
+          "word": "have",
+          "start": 131.72,
+          "end": 132.84
+        },
+        {
+          "word": "that",
+          "start": 132.84,
+          "end": 133.02
+        },
+        {
+          "word": "reaction.",
+          "start": 133.02,
+          "end": 133.46
+        },
+        {
+          "word": "It's",
+          "start": 133.62,
+          "end": 133.76
+        },
+        {
+          "word": "almost",
+          "start": 133.76,
+          "end": 133.92
+        },
+        {
+          "word": "the",
+          "start": 133.92,
+          "end": 134.12
+        },
+        {
+          "word": "best",
+          "start": 134.12,
+          "end": 134.42
+        },
+        {
+          "word": "signal.",
+          "start": 134.42,
+          "end": 134.76
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 134.94,
+      "end": 136.08,
+      "text": "I agree with you a hundred percent.",
+      "n_words": 7,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "I",
+          "start": 134.94,
+          "end": 135.12
+        },
+        {
+          "word": "agree",
+          "start": 135.12,
+          "end": 135.3
+        },
+        {
+          "word": "with",
+          "start": 135.3,
+          "end": 135.5
+        },
+        {
+          "word": "you",
+          "start": 135.5,
+          "end": 135.6
+        },
+        {
+          "word": "a",
+          "start": 135.6,
+          "end": 135.72
+        },
+        {
+          "word": "hundred",
+          "start": 135.72,
+          "end": 135.82
+        },
+        {
+          "word": "percent.",
+          "start": 135.82,
+          "end": 136.08
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 137.12,
+      "end": 144.14,
+      "text": "And I had been reading a lot and I had been reading about how to actually be a tech investor.",
+      "n_words": 20,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "And",
+          "start": 137.12,
+          "end": 137.48
+        },
+        {
+          "word": "I",
+          "start": 137.48,
+          "end": 137.84
+        },
+        {
+          "word": "had",
+          "start": 137.84,
+          "end": 137.98
+        },
+        {
+          "word": "been",
+          "start": 137.98,
+          "end": 138.16
+        },
+        {
+          "word": "reading",
+          "start": 138.16,
+          "end": 138.5
+        },
+        {
+          "word": "a",
+          "start": 138.5,
+          "end": 138.74
+        },
+        {
+          "word": "lot",
+          "start": 138.74,
+          "end": 138.94
+        },
+        {
+          "word": "and",
+          "start": 139.38,
+          "end": 140.58
+        },
+        {
+          "word": "I",
+          "start": 140.58,
+          "end": 141.58
+        },
+        {
+          "word": "had",
+          "start": 141.68,
+          "end": 141.76
+        },
+        {
+          "word": "been",
+          "start": 141.76,
+          "end": 141.86
+        },
+        {
+          "word": "reading",
+          "start": 141.86,
+          "end": 142.08
+        },
+        {
+          "word": "about",
+          "start": 142.08,
+          "end": 142.36
+        },
+        {
+          "word": "how",
+          "start": 142.36,
+          "end": 142.78
+        },
+        {
+          "word": "to",
+          "start": 142.78,
+          "end": 142.9
+        },
+        {
+          "word": "actually",
+          "start": 142.9,
+          "end": 143.26
+        },
+        {
+          "word": "be",
+          "start": 143.26,
+          "end": 143.48
+        },
+        {
+          "word": "a",
+          "start": 143.48,
+          "end": 143.66
+        },
+        {
+          "word": "tech",
+          "start": 143.66,
+          "end": 143.78
+        },
+        {
+          "word": "investor.",
+          "start": 143.78,
+          "end": 144.14
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 144.54,
+      "end": 144.74,
+      "text": "And",
+      "n_words": 1,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "And",
+          "start": 144.54,
+          "end": 144.74
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 144.74,
+      "end": 164.16,
+      "text": "the conclusion that I came to was, wow, the approach that I want to do is so unconventional, the risk of ruin was very high. So then I was like, well, let me just find the most totally uncorrelated asset and Park, I don't know. I can't remember. It was like 25 or 40 million bucks or something. So that if I lose everything, I still have this little thing and I can take care of myself.",
+      "n_words": 77,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "the",
+          "start": 144.74,
+          "end": 145.18
+        },
+        {
+          "word": "conclusion",
+          "start": 145.18,
+          "end": 145.48
+        },
+        {
+          "word": "that",
+          "start": 145.48,
+          "end": 145.74
+        },
+        {
+          "word": "I",
+          "start": 145.74,
+          "end": 145.86
+        },
+        {
+          "word": "came",
+          "start": 145.86,
+          "end": 146.02
+        },
+        {
+          "word": "to",
+          "start": 146.02,
+          "end": 146.18
+        },
+        {
+          "word": "was,",
+          "start": 146.18,
+          "end": 146.34
+        },
+        {
+          "word": "wow,",
+          "start": 146.42,
+          "end": 146.52
+        },
+        {
+          "word": "the",
+          "start": 146.62,
+          "end": 146.7
+        },
+        {
+          "word": "approach",
+          "start": 146.7,
+          "end": 146.96
+        },
+        {
+          "word": "that",
+          "start": 146.96,
+          "end": 147.12
+        },
+        {
+          "word": "I",
+          "start": 147.12,
+          "end": 147.22
+        },
+        {
+          "word": "want",
+          "start": 147.22,
+          "end": 147.34
+        },
+        {
+          "word": "to",
+          "start": 147.34,
+          "end": 147.46
+        },
+        {
+          "word": "do",
+          "start": 147.46,
+          "end": 147.58
+        },
+        {
+          "word": "is",
+          "start": 147.58,
+          "end": 147.78
+        },
+        {
+          "word": "so",
+          "start": 147.78,
+          "end": 148.06
+        },
+        {
+          "word": "unconventional,",
+          "start": 148.06,
+          "end": 149.42
+        },
+        {
+          "word": "the",
+          "start": 150.72,
+          "end": 150.82
+        },
+        {
+          "word": "risk",
+          "start": 150.82,
+          "end": 151.76
+        },
+        {
+          "word": "of",
+          "start": 151.76,
+          "end": 151.92
+        },
+        {
+          "word": "ruin",
+          "start": 151.92,
+          "end": 152.1
+        },
+        {
+          "word": "was",
+          "start": 152.1,
+          "end": 152.32
+        },
+        {
+          "word": "very",
+          "start": 152.32,
+          "end": 152.54
+        },
+        {
+          "word": "high.",
+          "start": 152.54,
+          "end": 152.86
+        },
+        {
+          "word": "So",
+          "start": 153.24,
+          "end": 153.5
+        },
+        {
+          "word": "then",
+          "start": 153.5,
+          "end": 153.62
+        },
+        {
+          "word": "I",
+          "start": 153.62,
+          "end": 153.7
+        },
+        {
+          "word": "was",
+          "start": 153.7,
+          "end": 153.8
+        },
+        {
+          "word": "like,",
+          "start": 153.8,
+          "end": 153.92
+        },
+        {
+          "word": "well,",
+          "start": 153.96,
+          "end": 154.06
+        },
+        {
+          "word": "let",
+          "start": 154.08,
+          "end": 154.24
+        },
+        {
+          "word": "me",
+          "start": 154.24,
+          "end": 154.28
+        },
+        {
+          "word": "just",
+          "start": 154.28,
+          "end": 154.44
+        },
+        {
+          "word": "find",
+          "start": 154.44,
+          "end": 154.62
+        },
+        {
+          "word": "the",
+          "start": 154.62,
+          "end": 154.76
+        },
+        {
+          "word": "most",
+          "start": 154.76,
+          "end": 154.9
+        },
+        {
+          "word": "totally",
+          "start": 154.9,
+          "end": 155.2
+        },
+        {
+          "word": "uncorrelated",
+          "start": 155.2,
+          "end": 155.7
+        },
+        {
+          "word": "asset",
+          "start": 155.7,
+          "end": 156.12
+        },
+        {
+          "word": "and",
+          "start": 156.12,
+          "end": 157.06
+        },
+        {
+          "word": "Park,",
+          "start": 157.06,
+          "end": 157.34
+        },
+        {
+          "word": "I",
+          "start": 157.52,
+          "end": 157.62
+        },
+        {
+          "word": "don't",
+          "start": 157.62,
+          "end": 157.7
+        },
+        {
+          "word": "know.",
+          "start": 157.7,
+          "end": 157.76
+        },
+        {
+          "word": "I",
+          "start": 157.82,
+          "end": 157.84
+        },
+        {
+          "word": "can't",
+          "start": 157.84,
+          "end": 157.96
+        },
+        {
+          "word": "remember.",
+          "start": 157.96,
+          "end": 158.14
+        },
+        {
+          "word": "It",
+          "start": 158.24,
+          "end": 158.26
+        },
+        {
+          "word": "was",
+          "start": 158.26,
+          "end": 158.36
+        },
+        {
+          "word": "like",
+          "start": 158.36,
+          "end": 158.5
+        },
+        {
+          "word": "25",
+          "start": 158.5,
+          "end": 158.9
+        },
+        {
+          "word": "or",
+          "start": 158.9,
+          "end": 159.06
+        },
+        {
+          "word": "40",
+          "start": 159.06,
+          "end": 159.3
+        },
+        {
+          "word": "million",
+          "start": 159.3,
+          "end": 159.56
+        },
+        {
+          "word": "bucks",
+          "start": 159.56,
+          "end": 159.8
+        },
+        {
+          "word": "or",
+          "start": 159.8,
+          "end": 159.94
+        },
+        {
+          "word": "something.",
+          "start": 159.94,
+          "end": 160.22
+        },
+        {
+          "word": "So",
+          "start": 160.64,
+          "end": 161.0
+        },
+        {
+          "word": "that",
+          "start": 161.0,
+          "end": 161.14
+        },
+        {
+          "word": "if",
+          "start": 161.14,
+          "end": 161.24
+        },
+        {
+          "word": "I",
+          "start": 161.24,
+          "end": 161.34
+        },
+        {
+          "word": "lose",
+          "start": 161.34,
+          "end": 161.56
+        },
+        {
+          "word": "everything,",
+          "start": 161.56,
+          "end": 161.98
+        },
+        {
+          "word": "I",
+          "start": 162.06,
+          "end": 162.22
+        },
+        {
+          "word": "still",
+          "start": 162.22,
+          "end": 162.4
+        },
+        {
+          "word": "have",
+          "start": 162.4,
+          "end": 162.6
+        },
+        {
+          "word": "this",
+          "start": 162.6,
+          "end": 162.78
+        },
+        {
+          "word": "little",
+          "start": 162.78,
+          "end": 162.96
+        },
+        {
+          "word": "thing",
+          "start": 162.96,
+          "end": 163.16
+        },
+        {
+          "word": "and",
+          "start": 163.16,
+          "end": 163.24
+        },
+        {
+          "word": "I",
+          "start": 163.24,
+          "end": 163.34
+        },
+        {
+          "word": "can",
+          "start": 163.34,
+          "end": 163.44
+        },
+        {
+          "word": "take",
+          "start": 163.44,
+          "end": 163.62
+        },
+        {
+          "word": "care",
+          "start": 163.62,
+          "end": 163.8
+        },
+        {
+          "word": "of",
+          "start": 163.8,
+          "end": 163.9
+        },
+        {
+          "word": "myself.",
+          "start": 163.9,
+          "end": 164.16
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 166.82,
+      "end": 171.17,
+      "text": "And that ended up being the investment in the Warriors, which ended up doing financially quite well.",
+      "n_words": 17,
+      "n_low": 1,
+      "words": [
+        {
+          "word": "And",
+          "start": 166.82,
+          "end": 167.18
+        },
+        {
+          "word": "that",
+          "start": 167.21,
+          "end": 167.57
+        },
+        {
+          "word": "ended",
+          "start": 167.57,
+          "end": 167.83
+        },
+        {
+          "word": "up",
+          "start": 167.83,
+          "end": 168.03
+        },
+        {
+          "word": "being",
+          "start": 168.03,
+          "end": 168.29
+        },
+        {
+          "word": "the",
+          "start": 168.29,
+          "end": 168.61
+        },
+        {
+          "word": "investment",
+          "start": 168.61,
+          "end": 168.91
+        },
+        {
+          "word": "in",
+          "start": 168.91,
+          "end": 169.07
+        },
+        {
+          "word": "the",
+          "start": 169.07,
+          "end": 169.13
+        },
+        {
+          "word": "Warriors,",
+          "start": 169.13,
+          "end": 169.39
+        },
+        {
+          "word": "which",
+          "start": 169.53,
+          "end": 169.65
+        },
+        {
+          "word": "ended",
+          "start": 169.65,
+          "end": 169.81
+        },
+        {
+          "word": "up",
+          "start": 169.81,
+          "end": 169.97
+        },
+        {
+          "word": "doing",
+          "start": 169.97,
+          "end": 170.13
+        },
+        {
+          "word": "financially",
+          "start": 170.13,
+          "end": 170.65
+        },
+        {
+          "word": "quite",
+          "start": 170.65,
+          "end": 170.87
+        },
+        {
+          "word": "well.",
+          "start": 170.87,
+          "end": 171.17
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 173.65,
+      "end": 229.04,
+      "text": "But it repeated itself with Bitcoin in 2012. I did the same thing. People got, they were just so upset. And I remember, you know, I would appear every now and then on like CNBC and just the vitriol and the hatred. And I was like, so if you can wither the negative reactions of others, where is that coming from? It has nothing to do with you, right? People are living their own journey. But what is happening in that moment? What, what is happening is something you are saying is attacking a core foundational belief that they have and it is touching such a nerve that they are just reflexively reacting. That is an incredible signal because what it tells you is you're onto something, it could still be a huge zero, but you now can bucket it into that there is a, there is the potential for a massive asymmetric outcome. So when, when, when I'm investing,",
+      "n_words": 160,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "But",
+          "start": 173.65,
+          "end": 174.01
+        },
+        {
+          "word": "it",
+          "start": 174.01,
+          "end": 174.11
+        },
+        {
+          "word": "repeated",
+          "start": 174.11,
+          "end": 174.39
+        },
+        {
+          "word": "itself",
+          "start": 174.39,
+          "end": 174.67
+        },
+        {
+          "word": "with",
+          "start": 174.67,
+          "end": 174.85
+        },
+        {
+          "word": "Bitcoin",
+          "start": 174.85,
+          "end": 175.13
+        },
+        {
+          "word": "in",
+          "start": 175.13,
+          "end": 175.49
+        },
+        {
+          "word": "2012.",
+          "start": 175.49,
+          "end": 176.15
+        },
+        {
+          "word": "I",
+          "start": 176.73,
+          "end": 176.93
+        },
+        {
+          "word": "did",
+          "start": 176.93,
+          "end": 177.05
+        },
+        {
+          "word": "the",
+          "start": 177.05,
+          "end": 177.15
+        },
+        {
+          "word": "same",
+          "start": 177.15,
+          "end": 177.35
+        },
+        {
+          "word": "thing.",
+          "start": 177.35,
+          "end": 177.53
+        },
+        {
+          "word": "People",
+          "start": 177.75,
+          "end": 177.87
+        },
+        {
+          "word": "got,",
+          "start": 177.87,
+          "end": 178.05
+        },
+        {
+          "word": "they",
+          "start": 178.35,
+          "end": 178.81
+        },
+        {
+          "word": "were",
+          "start": 178.81,
+          "end": 178.97
+        },
+        {
+          "word": "just",
+          "start": 178.97,
+          "end": 179.33
+        },
+        {
+          "word": "so",
+          "start": 179.33,
+          "end": 179.85
+        },
+        {
+          "word": "upset.",
+          "start": 179.85,
+          "end": 180.15
+        },
+        {
+          "word": "And",
+          "start": 180.33,
+          "end": 180.39
+        },
+        {
+          "word": "I",
+          "start": 180.39,
+          "end": 180.49
+        },
+        {
+          "word": "remember,",
+          "start": 180.49,
+          "end": 180.75
+        },
+        {
+          "word": "you",
+          "start": 181.13,
+          "end": 181.43
+        },
+        {
+          "word": "know,",
+          "start": 181.43,
+          "end": 181.55
+        },
+        {
+          "word": "I",
+          "start": 181.69,
+          "end": 182.01
+        },
+        {
+          "word": "would",
+          "start": 182.01,
+          "end": 182.31
+        },
+        {
+          "word": "appear",
+          "start": 182.31,
+          "end": 182.59
+        },
+        {
+          "word": "every",
+          "start": 182.59,
+          "end": 182.83
+        },
+        {
+          "word": "now",
+          "start": 182.83,
+          "end": 182.99
+        },
+        {
+          "word": "and",
+          "start": 182.99,
+          "end": 183.11
+        },
+        {
+          "word": "then",
+          "start": 183.11,
+          "end": 183.23
+        },
+        {
+          "word": "on",
+          "start": 183.23,
+          "end": 183.37
+        },
+        {
+          "word": "like",
+          "start": 183.37,
+          "end": 183.53
+        },
+        {
+          "word": "CNBC",
+          "start": 183.53,
+          "end": 184.11
+        },
+        {
+          "word": "and",
+          "start": 184.11,
+          "end": 185.11
+        },
+        {
+          "word": "just",
+          "start": 185.11,
+          "end": 185.53
+        },
+        {
+          "word": "the",
+          "start": 185.53,
+          "end": 185.79
+        },
+        {
+          "word": "vitriol",
+          "start": 185.79,
+          "end": 186.53
+        },
+        {
+          "word": "and",
+          "start": 186.53,
+          "end": 186.69
+        },
+        {
+          "word": "the",
+          "start": 186.69,
+          "end": 186.85
+        },
+        {
+          "word": "hatred.",
+          "start": 186.85,
+          "end": 187.27
+        },
+        {
+          "word": "And",
+          "start": 189.02,
+          "end": 189.5
+        },
+        {
+          "word": "I",
+          "start": 189.5,
+          "end": 189.64
+        },
+        {
+          "word": "was",
+          "start": 189.64,
+          "end": 189.74
+        },
+        {
+          "word": "like,",
+          "start": 189.74,
+          "end": 189.94
+        },
+        {
+          "word": "so",
+          "start": 190.64,
+          "end": 191.04
+        },
+        {
+          "word": "if",
+          "start": 191.04,
+          "end": 191.6
+        },
+        {
+          "word": "you",
+          "start": 191.6,
+          "end": 191.76
+        },
+        {
+          "word": "can",
+          "start": 191.76,
+          "end": 191.94
+        },
+        {
+          "word": "wither",
+          "start": 191.94,
+          "end": 192.58
+        },
+        {
+          "word": "the",
+          "start": 192.58,
+          "end": 193.56
+        },
+        {
+          "word": "negative",
+          "start": 193.66,
+          "end": 194.2
+        },
+        {
+          "word": "reactions",
+          "start": 194.2,
+          "end": 194.86
+        },
+        {
+          "word": "of",
+          "start": 194.86,
+          "end": 195.14
+        },
+        {
+          "word": "others,",
+          "start": 195.14,
+          "end": 195.38
+        },
+        {
+          "word": "where",
+          "start": 195.52,
+          "end": 195.84
+        },
+        {
+          "word": "is",
+          "start": 195.84,
+          "end": 196.06
+        },
+        {
+          "word": "that",
+          "start": 196.06,
+          "end": 196.18
+        },
+        {
+          "word": "coming",
+          "start": 196.18,
+          "end": 196.44
+        },
+        {
+          "word": "from?",
+          "start": 196.44,
+          "end": 196.68
+        },
+        {
+          "word": "It",
+          "start": 196.84,
+          "end": 197.0
+        },
+        {
+          "word": "has",
+          "start": 197.0,
+          "end": 197.12
+        },
+        {
+          "word": "nothing",
+          "start": 197.12,
+          "end": 197.46
+        },
+        {
+          "word": "to",
+          "start": 197.46,
+          "end": 197.64
+        },
+        {
+          "word": "do",
+          "start": 197.64,
+          "end": 197.76
+        },
+        {
+          "word": "with",
+          "start": 197.76,
+          "end": 197.92
+        },
+        {
+          "word": "you,",
+          "start": 197.92,
+          "end": 198.08
+        },
+        {
+          "word": "right?",
+          "start": 198.62,
+          "end": 198.78
+        },
+        {
+          "word": "People",
+          "start": 198.9,
+          "end": 199.06
+        },
+        {
+          "word": "are",
+          "start": 199.06,
+          "end": 199.18
+        },
+        {
+          "word": "living",
+          "start": 199.18,
+          "end": 199.34
+        },
+        {
+          "word": "their",
+          "start": 199.34,
+          "end": 199.58
+        },
+        {
+          "word": "own",
+          "start": 199.58,
+          "end": 199.74
+        },
+        {
+          "word": "journey.",
+          "start": 199.74,
+          "end": 200.18
+        },
+        {
+          "word": "But",
+          "start": 200.7,
+          "end": 201.18
+        },
+        {
+          "word": "what",
+          "start": 201.18,
+          "end": 201.36
+        },
+        {
+          "word": "is",
+          "start": 201.36,
+          "end": 201.5
+        },
+        {
+          "word": "happening",
+          "start": 201.5,
+          "end": 201.9
+        },
+        {
+          "word": "in",
+          "start": 201.9,
+          "end": 202.12
+        },
+        {
+          "word": "that",
+          "start": 202.12,
+          "end": 202.26
+        },
+        {
+          "word": "moment?",
+          "start": 202.26,
+          "end": 202.5
+        },
+        {
+          "word": "What,",
+          "start": 202.84,
+          "end": 202.84
+        },
+        {
+          "word": "what",
+          "start": 202.88,
+          "end": 203.18
+        },
+        {
+          "word": "is",
+          "start": 203.18,
+          "end": 203.32
+        },
+        {
+          "word": "happening",
+          "start": 203.32,
+          "end": 203.66
+        },
+        {
+          "word": "is",
+          "start": 203.66,
+          "end": 204.06
+        },
+        {
+          "word": "something",
+          "start": 204.06,
+          "end": 204.94
+        },
+        {
+          "word": "you",
+          "start": 204.94,
+          "end": 205.24
+        },
+        {
+          "word": "are",
+          "start": 205.24,
+          "end": 205.34
+        },
+        {
+          "word": "saying",
+          "start": 205.34,
+          "end": 205.84
+        },
+        {
+          "word": "is",
+          "start": 205.84,
+          "end": 206.58
+        },
+        {
+          "word": "attacking",
+          "start": 206.58,
+          "end": 206.98
+        },
+        {
+          "word": "a",
+          "start": 206.98,
+          "end": 207.2
+        },
+        {
+          "word": "core",
+          "start": 207.2,
+          "end": 207.5
+        },
+        {
+          "word": "foundational",
+          "start": 207.5,
+          "end": 208.08
+        },
+        {
+          "word": "belief",
+          "start": 208.08,
+          "end": 208.52
+        },
+        {
+          "word": "that",
+          "start": 208.52,
+          "end": 208.74
+        },
+        {
+          "word": "they",
+          "start": 208.74,
+          "end": 208.92
+        },
+        {
+          "word": "have",
+          "start": 208.92,
+          "end": 209.32
+        },
+        {
+          "word": "and",
+          "start": 209.32,
+          "end": 210.06
+        },
+        {
+          "word": "it",
+          "start": 210.06,
+          "end": 210.16
+        },
+        {
+          "word": "is",
+          "start": 210.16,
+          "end": 210.3
+        },
+        {
+          "word": "touching",
+          "start": 210.3,
+          "end": 210.58
+        },
+        {
+          "word": "such",
+          "start": 210.58,
+          "end": 210.9
+        },
+        {
+          "word": "a",
+          "start": 210.9,
+          "end": 211.18
+        },
+        {
+          "word": "nerve",
+          "start": 211.18,
+          "end": 211.56
+        },
+        {
+          "word": "that",
+          "start": 211.56,
+          "end": 212.62
+        },
+        {
+          "word": "they",
+          "start": 212.84,
+          "end": 213.0
+        },
+        {
+          "word": "are",
+          "start": 213.0,
+          "end": 213.1
+        },
+        {
+          "word": "just",
+          "start": 213.1,
+          "end": 213.26
+        },
+        {
+          "word": "reflexively",
+          "start": 213.26,
+          "end": 214.18
+        },
+        {
+          "word": "reacting.",
+          "start": 214.18,
+          "end": 214.72
+        },
+        {
+          "word": "That",
+          "start": 215.4,
+          "end": 215.74
+        },
+        {
+          "word": "is",
+          "start": 215.74,
+          "end": 215.86
+        },
+        {
+          "word": "an",
+          "start": 215.86,
+          "end": 215.98
+        },
+        {
+          "word": "incredible",
+          "start": 215.98,
+          "end": 216.46
+        },
+        {
+          "word": "signal",
+          "start": 216.46,
+          "end": 217.02
+        },
+        {
+          "word": "because",
+          "start": 217.02,
+          "end": 217.96
+        },
+        {
+          "word": "what",
+          "start": 217.96,
+          "end": 218.16
+        },
+        {
+          "word": "it",
+          "start": 218.16,
+          "end": 218.26
+        },
+        {
+          "word": "tells",
+          "start": 218.26,
+          "end": 218.44
+        },
+        {
+          "word": "you",
+          "start": 218.44,
+          "end": 218.6
+        },
+        {
+          "word": "is",
+          "start": 218.6,
+          "end": 218.7
+        },
+        {
+          "word": "you're",
+          "start": 218.7,
+          "end": 218.84
+        },
+        {
+          "word": "onto",
+          "start": 218.84,
+          "end": 218.98
+        },
+        {
+          "word": "something,",
+          "start": 218.98,
+          "end": 219.26
+        },
+        {
+          "word": "it",
+          "start": 219.38,
+          "end": 219.46
+        },
+        {
+          "word": "could",
+          "start": 219.46,
+          "end": 219.58
+        },
+        {
+          "word": "still",
+          "start": 219.58,
+          "end": 219.78
+        },
+        {
+          "word": "be",
+          "start": 219.78,
+          "end": 219.96
+        },
+        {
+          "word": "a",
+          "start": 219.96,
+          "end": 220.06
+        },
+        {
+          "word": "huge",
+          "start": 220.06,
+          "end": 220.62
+        },
+        {
+          "word": "zero,",
+          "start": 220.62,
+          "end": 221.16
+        },
+        {
+          "word": "but",
+          "start": 221.84,
+          "end": 222.4
+        },
+        {
+          "word": "you",
+          "start": 222.4,
+          "end": 222.6
+        },
+        {
+          "word": "now",
+          "start": 222.6,
+          "end": 222.9
+        },
+        {
+          "word": "can",
+          "start": 222.9,
+          "end": 223.12
+        },
+        {
+          "word": "bucket",
+          "start": 223.12,
+          "end": 223.4
+        },
+        {
+          "word": "it",
+          "start": 223.4,
+          "end": 223.6
+        },
+        {
+          "word": "into",
+          "start": 223.6,
+          "end": 223.94
+        },
+        {
+          "word": "that",
+          "start": 223.94,
+          "end": 224.28
+        },
+        {
+          "word": "there",
+          "start": 224.28,
+          "end": 224.44
+        },
+        {
+          "word": "is",
+          "start": 224.44,
+          "end": 224.56
+        },
+        {
+          "word": "a,",
+          "start": 224.56,
+          "end": 224.66
+        },
+        {
+          "word": "there",
+          "start": 224.66,
+          "end": 224.94
+        },
+        {
+          "word": "is",
+          "start": 224.94,
+          "end": 225.04
+        },
+        {
+          "word": "the",
+          "start": 225.04,
+          "end": 225.14
+        },
+        {
+          "word": "potential",
+          "start": 225.14,
+          "end": 225.46
+        },
+        {
+          "word": "for",
+          "start": 225.46,
+          "end": 225.7
+        },
+        {
+          "word": "a",
+          "start": 225.7,
+          "end": 225.82
+        },
+        {
+          "word": "massive",
+          "start": 225.82,
+          "end": 226.18
+        },
+        {
+          "word": "asymmetric",
+          "start": 226.18,
+          "end": 226.72
+        },
+        {
+          "word": "outcome.",
+          "start": 226.72,
+          "end": 227.08
+        },
+        {
+          "word": "So",
+          "start": 227.26,
+          "end": 227.56
+        },
+        {
+          "word": "when,",
+          "start": 227.56,
+          "end": 227.82
+        },
+        {
+          "word": "when,",
+          "start": 227.86,
+          "end": 228.08
+        },
+        {
+          "word": "when",
+          "start": 228.2,
+          "end": 228.32
+        },
+        {
+          "word": "I'm",
+          "start": 228.32,
+          "end": 228.6
+        },
+        {
+          "word": "investing,",
+          "start": 228.6,
+          "end": 229.04
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 231.13,
+      "end": 311.77,
+      "text": "initially what I was thinking about was how do I put myself in a position once I've, so I spent like still two, three hours reading a day. Okay. It, I would develop views. I would write notes. I would think about it and then I would come up with these ideas and then I would just test them out and man, people would just, when, when people reacted like, oh, hum, I was like, okay, this is a nothing burger, not interesting. But when people had like this visceral reaction, I was like, I'm onto something. Doesn't mean I'm right, but it's something that triggers people and I would use that as a way to amplify and spend more time. Since then I've added one more thing to this, which is now I have a different way of investing for large quantum of money, like super large quantum hundreds of millions plus plus there. I actually want consensus because this should not be about any sort of existential risk or product risk of any kind. So when you're investing tens of millions of dollars, who cares? You can lose the money is not a big deal. When you're investing hundreds of millions or billions, you cannot afford to lose it risk of ruin goes up. So now I try to like context switch here. I want you to just be, I want you to just hate it. I want you to just be so gross. It's rat poison. Oh, really? Okay, great. I'm now I'm going to spend more time over here.",
+      "n_words": 263,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "initially",
+          "start": 231.13,
+          "end": 232.19
+        },
+        {
+          "word": "what",
+          "start": 232.19,
+          "end": 232.49
+        },
+        {
+          "word": "I",
+          "start": 232.49,
+          "end": 232.63
+        },
+        {
+          "word": "was",
+          "start": 232.63,
+          "end": 232.77
+        },
+        {
+          "word": "thinking",
+          "start": 232.77,
+          "end": 233.01
+        },
+        {
+          "word": "about",
+          "start": 233.01,
+          "end": 233.31
+        },
+        {
+          "word": "was",
+          "start": 233.31,
+          "end": 233.67
+        },
+        {
+          "word": "how",
+          "start": 233.67,
+          "end": 234.39
+        },
+        {
+          "word": "do",
+          "start": 234.39,
+          "end": 234.49
+        },
+        {
+          "word": "I",
+          "start": 234.49,
+          "end": 234.59
+        },
+        {
+          "word": "put",
+          "start": 234.59,
+          "end": 234.73
+        },
+        {
+          "word": "myself",
+          "start": 234.73,
+          "end": 235.09
+        },
+        {
+          "word": "in",
+          "start": 235.09,
+          "end": 235.27
+        },
+        {
+          "word": "a",
+          "start": 235.27,
+          "end": 235.37
+        },
+        {
+          "word": "position",
+          "start": 235.37,
+          "end": 235.71
+        },
+        {
+          "word": "once",
+          "start": 235.71,
+          "end": 236.33
+        },
+        {
+          "word": "I've,",
+          "start": 236.33,
+          "end": 236.91
+        },
+        {
+          "word": "so",
+          "start": 236.91,
+          "end": 237.21
+        },
+        {
+          "word": "I",
+          "start": 237.21,
+          "end": 237.39
+        },
+        {
+          "word": "spent",
+          "start": 237.39,
+          "end": 237.61
+        },
+        {
+          "word": "like",
+          "start": 237.61,
+          "end": 237.95
+        },
+        {
+          "word": "still",
+          "start": 237.95,
+          "end": 238.69
+        },
+        {
+          "word": "two,",
+          "start": 238.69,
+          "end": 238.99
+        },
+        {
+          "word": "three",
+          "start": 239.11,
+          "end": 239.35
+        },
+        {
+          "word": "hours",
+          "start": 239.35,
+          "end": 239.71
+        },
+        {
+          "word": "reading",
+          "start": 239.71,
+          "end": 240.41
+        },
+        {
+          "word": "a",
+          "start": 240.41,
+          "end": 240.73
+        },
+        {
+          "word": "day.",
+          "start": 240.73,
+          "end": 240.95
+        },
+        {
+          "word": "Okay.",
+          "start": 241.43,
+          "end": 241.79
+        },
+        {
+          "word": "It,",
+          "start": 243.28,
+          "end": 243.64
+        },
+        {
+          "word": "I",
+          "start": 243.76,
+          "end": 243.88
+        },
+        {
+          "word": "would",
+          "start": 243.88,
+          "end": 244.02
+        },
+        {
+          "word": "develop",
+          "start": 244.02,
+          "end": 244.34
+        },
+        {
+          "word": "views.",
+          "start": 244.34,
+          "end": 244.82
+        },
+        {
+          "word": "I",
+          "start": 245.02,
+          "end": 245.1
+        },
+        {
+          "word": "would",
+          "start": 245.1,
+          "end": 245.22
+        },
+        {
+          "word": "write",
+          "start": 245.22,
+          "end": 245.4
+        },
+        {
+          "word": "notes.",
+          "start": 245.4,
+          "end": 245.86
+        },
+        {
+          "word": "I",
+          "start": 245.94,
+          "end": 246.04
+        },
+        {
+          "word": "would",
+          "start": 246.04,
+          "end": 246.14
+        },
+        {
+          "word": "think",
+          "start": 246.14,
+          "end": 246.32
+        },
+        {
+          "word": "about",
+          "start": 246.32,
+          "end": 246.56
+        },
+        {
+          "word": "it",
+          "start": 246.56,
+          "end": 246.78
+        },
+        {
+          "word": "and",
+          "start": 246.78,
+          "end": 247.42
+        },
+        {
+          "word": "then",
+          "start": 247.42,
+          "end": 247.52
+        },
+        {
+          "word": "I",
+          "start": 247.52,
+          "end": 247.64
+        },
+        {
+          "word": "would",
+          "start": 247.64,
+          "end": 247.76
+        },
+        {
+          "word": "come",
+          "start": 247.76,
+          "end": 247.94
+        },
+        {
+          "word": "up",
+          "start": 247.94,
+          "end": 248.06
+        },
+        {
+          "word": "with",
+          "start": 248.06,
+          "end": 248.16
+        },
+        {
+          "word": "these",
+          "start": 248.16,
+          "end": 248.32
+        },
+        {
+          "word": "ideas",
+          "start": 248.32,
+          "end": 248.68
+        },
+        {
+          "word": "and",
+          "start": 248.68,
+          "end": 249.32
+        },
+        {
+          "word": "then",
+          "start": 249.32,
+          "end": 249.42
+        },
+        {
+          "word": "I",
+          "start": 249.42,
+          "end": 249.54
+        },
+        {
+          "word": "would",
+          "start": 249.54,
+          "end": 249.66
+        },
+        {
+          "word": "just",
+          "start": 249.66,
+          "end": 249.86
+        },
+        {
+          "word": "test",
+          "start": 249.86,
+          "end": 250.14
+        },
+        {
+          "word": "them",
+          "start": 250.14,
+          "end": 250.3
+        },
+        {
+          "word": "out",
+          "start": 250.3,
+          "end": 250.48
+        },
+        {
+          "word": "and",
+          "start": 250.96,
+          "end": 251.88
+        },
+        {
+          "word": "man,",
+          "start": 251.88,
+          "end": 252.06
+        },
+        {
+          "word": "people",
+          "start": 252.16,
+          "end": 252.4
+        },
+        {
+          "word": "would",
+          "start": 252.4,
+          "end": 252.58
+        },
+        {
+          "word": "just,",
+          "start": 252.58,
+          "end": 252.74
+        },
+        {
+          "word": "when,",
+          "start": 253.2,
+          "end": 253.24
+        },
+        {
+          "word": "when",
+          "start": 253.28,
+          "end": 253.42
+        },
+        {
+          "word": "people",
+          "start": 253.42,
+          "end": 253.7
+        },
+        {
+          "word": "reacted",
+          "start": 253.7,
+          "end": 254.08
+        },
+        {
+          "word": "like,",
+          "start": 254.08,
+          "end": 254.3
+        },
+        {
+          "word": "oh,",
+          "start": 254.36,
+          "end": 254.5
+        },
+        {
+          "word": "hum,",
+          "start": 254.62,
+          "end": 254.7
+        },
+        {
+          "word": "I",
+          "start": 254.8,
+          "end": 254.88
+        },
+        {
+          "word": "was",
+          "start": 254.88,
+          "end": 254.96
+        },
+        {
+          "word": "like,",
+          "start": 254.96,
+          "end": 255.1
+        },
+        {
+          "word": "okay,",
+          "start": 255.14,
+          "end": 255.28
+        },
+        {
+          "word": "this",
+          "start": 255.32,
+          "end": 255.42
+        },
+        {
+          "word": "is",
+          "start": 255.42,
+          "end": 255.54
+        },
+        {
+          "word": "a",
+          "start": 255.54,
+          "end": 255.62
+        },
+        {
+          "word": "nothing",
+          "start": 255.62,
+          "end": 255.78
+        },
+        {
+          "word": "burger,",
+          "start": 255.78,
+          "end": 256.02
+        },
+        {
+          "word": "not",
+          "start": 256.2,
+          "end": 256.36
+        },
+        {
+          "word": "interesting.",
+          "start": 256.36,
+          "end": 256.66
+        },
+        {
+          "word": "But",
+          "start": 256.86,
+          "end": 257.22
+        },
+        {
+          "word": "when",
+          "start": 257.22,
+          "end": 257.34
+        },
+        {
+          "word": "people",
+          "start": 257.34,
+          "end": 257.56
+        },
+        {
+          "word": "had",
+          "start": 257.56,
+          "end": 257.78
+        },
+        {
+          "word": "like",
+          "start": 257.78,
+          "end": 257.94
+        },
+        {
+          "word": "this",
+          "start": 257.94,
+          "end": 258.14
+        },
+        {
+          "word": "visceral",
+          "start": 258.14,
+          "end": 258.56
+        },
+        {
+          "word": "reaction,",
+          "start": 258.56,
+          "end": 258.98
+        },
+        {
+          "word": "I",
+          "start": 259.12,
+          "end": 259.2
+        },
+        {
+          "word": "was",
+          "start": 259.2,
+          "end": 259.3
+        },
+        {
+          "word": "like,",
+          "start": 259.3,
+          "end": 259.48
+        },
+        {
+          "word": "I'm",
+          "start": 259.58,
+          "end": 259.74
+        },
+        {
+          "word": "onto",
+          "start": 259.74,
+          "end": 259.94
+        },
+        {
+          "word": "something.",
+          "start": 259.94,
+          "end": 260.28
+        },
+        {
+          "word": "Doesn't",
+          "start": 260.8,
+          "end": 261.16
+        },
+        {
+          "word": "mean",
+          "start": 261.16,
+          "end": 261.32
+        },
+        {
+          "word": "I'm",
+          "start": 261.32,
+          "end": 261.48
+        },
+        {
+          "word": "right,",
+          "start": 261.48,
+          "end": 261.68
+        },
+        {
+          "word": "but",
+          "start": 261.82,
+          "end": 262.2
+        },
+        {
+          "word": "it's",
+          "start": 262.2,
+          "end": 262.36
+        },
+        {
+          "word": "something",
+          "start": 262.36,
+          "end": 262.54
+        },
+        {
+          "word": "that",
+          "start": 262.54,
+          "end": 262.74
+        },
+        {
+          "word": "triggers",
+          "start": 262.74,
+          "end": 263.08
+        },
+        {
+          "word": "people",
+          "start": 263.08,
+          "end": 263.52
+        },
+        {
+          "word": "and",
+          "start": 263.52,
+          "end": 264.44
+        },
+        {
+          "word": "I",
+          "start": 264.69,
+          "end": 264.79
+        },
+        {
+          "word": "would",
+          "start": 264.79,
+          "end": 264.93
+        },
+        {
+          "word": "use",
+          "start": 264.93,
+          "end": 265.17
+        },
+        {
+          "word": "that",
+          "start": 265.17,
+          "end": 265.35
+        },
+        {
+          "word": "as",
+          "start": 265.35,
+          "end": 265.45
+        },
+        {
+          "word": "a",
+          "start": 265.45,
+          "end": 265.53
+        },
+        {
+          "word": "way",
+          "start": 265.53,
+          "end": 265.61
+        },
+        {
+          "word": "to",
+          "start": 265.61,
+          "end": 265.71
+        },
+        {
+          "word": "amplify",
+          "start": 265.71,
+          "end": 266.09
+        },
+        {
+          "word": "and",
+          "start": 266.09,
+          "end": 266.33
+        },
+        {
+          "word": "spend",
+          "start": 266.33,
+          "end": 266.53
+        },
+        {
+          "word": "more",
+          "start": 266.53,
+          "end": 266.73
+        },
+        {
+          "word": "time.",
+          "start": 266.73,
+          "end": 267.07
+        },
+        {
+          "word": "Since",
+          "start": 268.15,
+          "end": 268.51
+        },
+        {
+          "word": "then",
+          "start": 268.51,
+          "end": 268.71
+        },
+        {
+          "word": "I've",
+          "start": 268.71,
+          "end": 268.93
+        },
+        {
+          "word": "added",
+          "start": 268.93,
+          "end": 269.11
+        },
+        {
+          "word": "one",
+          "start": 269.11,
+          "end": 269.39
+        },
+        {
+          "word": "more",
+          "start": 269.39,
+          "end": 269.63
+        },
+        {
+          "word": "thing",
+          "start": 269.63,
+          "end": 269.91
+        },
+        {
+          "word": "to",
+          "start": 269.91,
+          "end": 270.13
+        },
+        {
+          "word": "this,",
+          "start": 270.13,
+          "end": 270.33
+        },
+        {
+          "word": "which",
+          "start": 270.37,
+          "end": 270.57
+        },
+        {
+          "word": "is",
+          "start": 270.57,
+          "end": 270.81
+        },
+        {
+          "word": "now",
+          "start": 272.44,
+          "end": 272.88
+        },
+        {
+          "word": "I",
+          "start": 273.42,
+          "end": 273.86
+        },
+        {
+          "word": "have",
+          "start": 273.86,
+          "end": 274.0
+        },
+        {
+          "word": "a",
+          "start": 274.0,
+          "end": 274.1
+        },
+        {
+          "word": "different",
+          "start": 274.1,
+          "end": 274.3
+        },
+        {
+          "word": "way",
+          "start": 274.3,
+          "end": 274.5
+        },
+        {
+          "word": "of",
+          "start": 274.5,
+          "end": 274.6
+        },
+        {
+          "word": "investing",
+          "start": 274.6,
+          "end": 274.96
+        },
+        {
+          "word": "for",
+          "start": 274.96,
+          "end": 275.22
+        },
+        {
+          "word": "large",
+          "start": 275.22,
+          "end": 275.56
+        },
+        {
+          "word": "quantum",
+          "start": 275.56,
+          "end": 275.86
+        },
+        {
+          "word": "of",
+          "start": 275.86,
+          "end": 276.08
+        },
+        {
+          "word": "money,",
+          "start": 276.08,
+          "end": 276.3
+        },
+        {
+          "word": "like",
+          "start": 276.74,
+          "end": 276.9
+        },
+        {
+          "word": "super",
+          "start": 276.9,
+          "end": 277.16
+        },
+        {
+          "word": "large",
+          "start": 277.16,
+          "end": 277.4
+        },
+        {
+          "word": "quantum",
+          "start": 277.4,
+          "end": 277.68
+        },
+        {
+          "word": "hundreds",
+          "start": 277.68,
+          "end": 278.46
+        },
+        {
+          "word": "of",
+          "start": 278.46,
+          "end": 278.72
+        },
+        {
+          "word": "millions",
+          "start": 278.72,
+          "end": 278.98
+        },
+        {
+          "word": "plus",
+          "start": 278.98,
+          "end": 279.62
+        },
+        {
+          "word": "plus",
+          "start": 279.62,
+          "end": 279.88
+        },
+        {
+          "word": "there.",
+          "start": 279.88,
+          "end": 281.14
+        },
+        {
+          "word": "I",
+          "start": 281.3,
+          "end": 281.52
+        },
+        {
+          "word": "actually",
+          "start": 281.52,
+          "end": 281.82
+        },
+        {
+          "word": "want",
+          "start": 281.82,
+          "end": 282.08
+        },
+        {
+          "word": "consensus",
+          "start": 282.08,
+          "end": 282.64
+        },
+        {
+          "word": "because",
+          "start": 282.64,
+          "end": 284.26
+        },
+        {
+          "word": "this",
+          "start": 284.26,
+          "end": 284.54
+        },
+        {
+          "word": "should",
+          "start": 284.54,
+          "end": 284.74
+        },
+        {
+          "word": "not",
+          "start": 284.74,
+          "end": 284.94
+        },
+        {
+          "word": "be",
+          "start": 284.94,
+          "end": 285.14
+        },
+        {
+          "word": "about",
+          "start": 285.14,
+          "end": 285.42
+        },
+        {
+          "word": "any",
+          "start": 285.42,
+          "end": 285.76
+        },
+        {
+          "word": "sort",
+          "start": 285.76,
+          "end": 286.04
+        },
+        {
+          "word": "of",
+          "start": 286.04,
+          "end": 286.28
+        },
+        {
+          "word": "existential",
+          "start": 286.28,
+          "end": 286.98
+        },
+        {
+          "word": "risk",
+          "start": 286.98,
+          "end": 287.52
+        },
+        {
+          "word": "or",
+          "start": 287.52,
+          "end": 287.66
+        },
+        {
+          "word": "product",
+          "start": 287.66,
+          "end": 287.96
+        },
+        {
+          "word": "risk",
+          "start": 287.96,
+          "end": 288.2
+        },
+        {
+          "word": "of",
+          "start": 288.2,
+          "end": 288.36
+        },
+        {
+          "word": "any",
+          "start": 288.36,
+          "end": 288.5
+        },
+        {
+          "word": "kind.",
+          "start": 288.5,
+          "end": 288.74
+        },
+        {
+          "word": "So",
+          "start": 288.82,
+          "end": 289.08
+        },
+        {
+          "word": "when",
+          "start": 289.08,
+          "end": 289.22
+        },
+        {
+          "word": "you're",
+          "start": 289.22,
+          "end": 289.38
+        },
+        {
+          "word": "investing",
+          "start": 289.38,
+          "end": 289.72
+        },
+        {
+          "word": "tens",
+          "start": 289.72,
+          "end": 290.2
+        },
+        {
+          "word": "of",
+          "start": 290.2,
+          "end": 290.36
+        },
+        {
+          "word": "millions",
+          "start": 290.36,
+          "end": 290.58
+        },
+        {
+          "word": "of",
+          "start": 290.58,
+          "end": 290.76
+        },
+        {
+          "word": "dollars,",
+          "start": 290.76,
+          "end": 291.04
+        },
+        {
+          "word": "who",
+          "start": 291.22,
+          "end": 291.36
+        },
+        {
+          "word": "cares?",
+          "start": 291.36,
+          "end": 291.54
+        },
+        {
+          "word": "You",
+          "start": 291.9,
+          "end": 292.34
+        },
+        {
+          "word": "can",
+          "start": 292.34,
+          "end": 292.46
+        },
+        {
+          "word": "lose",
+          "start": 292.46,
+          "end": 292.6
+        },
+        {
+          "word": "the",
+          "start": 292.6,
+          "end": 292.72
+        },
+        {
+          "word": "money",
+          "start": 292.72,
+          "end": 292.86
+        },
+        {
+          "word": "is",
+          "start": 292.86,
+          "end": 293.0
+        },
+        {
+          "word": "not",
+          "start": 293.0,
+          "end": 293.12
+        },
+        {
+          "word": "a",
+          "start": 293.12,
+          "end": 293.18
+        },
+        {
+          "word": "big",
+          "start": 293.18,
+          "end": 293.28
+        },
+        {
+          "word": "deal.",
+          "start": 293.28,
+          "end": 293.44
+        },
+        {
+          "word": "When",
+          "start": 293.66,
+          "end": 294.1
+        },
+        {
+          "word": "you're",
+          "start": 294.1,
+          "end": 294.24
+        },
+        {
+          "word": "investing",
+          "start": 294.24,
+          "end": 294.48
+        },
+        {
+          "word": "hundreds",
+          "start": 294.48,
+          "end": 294.74
+        },
+        {
+          "word": "of",
+          "start": 294.74,
+          "end": 294.86
+        },
+        {
+          "word": "millions",
+          "start": 294.86,
+          "end": 295.04
+        },
+        {
+          "word": "or",
+          "start": 295.04,
+          "end": 295.16
+        },
+        {
+          "word": "billions,",
+          "start": 295.16,
+          "end": 295.34
+        },
+        {
+          "word": "you",
+          "start": 295.46,
+          "end": 295.5
+        },
+        {
+          "word": "cannot",
+          "start": 295.5,
+          "end": 295.76
+        },
+        {
+          "word": "afford",
+          "start": 295.76,
+          "end": 295.98
+        },
+        {
+          "word": "to",
+          "start": 295.98,
+          "end": 296.2
+        },
+        {
+          "word": "lose",
+          "start": 296.2,
+          "end": 296.34
+        },
+        {
+          "word": "it",
+          "start": 296.34,
+          "end": 296.48
+        },
+        {
+          "word": "risk",
+          "start": 296.48,
+          "end": 297.18
+        },
+        {
+          "word": "of",
+          "start": 297.18,
+          "end": 297.32
+        },
+        {
+          "word": "ruin",
+          "start": 297.32,
+          "end": 297.48
+        },
+        {
+          "word": "goes",
+          "start": 297.48,
+          "end": 297.68
+        },
+        {
+          "word": "up.",
+          "start": 297.68,
+          "end": 297.94
+        },
+        {
+          "word": "So",
+          "start": 298.28,
+          "end": 298.72
+        },
+        {
+          "word": "now",
+          "start": 298.72,
+          "end": 298.9
+        },
+        {
+          "word": "I",
+          "start": 298.9,
+          "end": 299.14
+        },
+        {
+          "word": "try",
+          "start": 299.14,
+          "end": 299.34
+        },
+        {
+          "word": "to",
+          "start": 299.34,
+          "end": 299.46
+        },
+        {
+          "word": "like",
+          "start": 299.46,
+          "end": 299.62
+        },
+        {
+          "word": "context",
+          "start": 299.62,
+          "end": 299.92
+        },
+        {
+          "word": "switch",
+          "start": 299.92,
+          "end": 300.26
+        },
+        {
+          "word": "here.",
+          "start": 300.26,
+          "end": 301.08
+        },
+        {
+          "word": "I",
+          "start": 301.08,
+          "end": 301.42
+        },
+        {
+          "word": "want",
+          "start": 301.42,
+          "end": 301.56
+        },
+        {
+          "word": "you",
+          "start": 301.56,
+          "end": 301.8
+        },
+        {
+          "word": "to",
+          "start": 301.8,
+          "end": 301.92
+        },
+        {
+          "word": "just",
+          "start": 301.92,
+          "end": 302.1
+        },
+        {
+          "word": "be,",
+          "start": 302.1,
+          "end": 302.26
+        },
+        {
+          "word": "I",
+          "start": 302.5,
+          "end": 303.12
+        },
+        {
+          "word": "want",
+          "start": 303.12,
+          "end": 303.26
+        },
+        {
+          "word": "you",
+          "start": 303.26,
+          "end": 303.38
+        },
+        {
+          "word": "to",
+          "start": 303.38,
+          "end": 303.48
+        },
+        {
+          "word": "just",
+          "start": 303.48,
+          "end": 303.62
+        },
+        {
+          "word": "hate",
+          "start": 303.62,
+          "end": 303.96
+        },
+        {
+          "word": "it.",
+          "start": 303.96,
+          "end": 304.12
+        },
+        {
+          "word": "I",
+          "start": 304.2,
+          "end": 304.24
+        },
+        {
+          "word": "want",
+          "start": 304.24,
+          "end": 304.36
+        },
+        {
+          "word": "you",
+          "start": 304.36,
+          "end": 304.5
+        },
+        {
+          "word": "to",
+          "start": 304.5,
+          "end": 304.58
+        },
+        {
+          "word": "just",
+          "start": 304.58,
+          "end": 304.78
+        },
+        {
+          "word": "be",
+          "start": 304.78,
+          "end": 304.94
+        },
+        {
+          "word": "so",
+          "start": 304.94,
+          "end": 305.84
+        },
+        {
+          "word": "gross.",
+          "start": 305.84,
+          "end": 306.66
+        },
+        {
+          "word": "It's",
+          "start": 306.92,
+          "end": 307.02
+        },
+        {
+          "word": "rat",
+          "start": 307.02,
+          "end": 307.24
+        },
+        {
+          "word": "poison.",
+          "start": 307.24,
+          "end": 307.58
+        },
+        {
+          "word": "Oh,",
+          "start": 307.96,
+          "end": 308.1
+        },
+        {
+          "word": "really?",
+          "start": 308.12,
+          "end": 308.32
+        },
+        {
+          "word": "Okay,",
+          "start": 308.44,
+          "end": 308.66
+        },
+        {
+          "word": "great.",
+          "start": 308.78,
+          "end": 309.0
+        },
+        {
+          "word": "I'm",
+          "start": 309.12,
+          "end": 309.22
+        },
+        {
+          "word": "now",
+          "start": 309.22,
+          "end": 309.38
+        },
+        {
+          "word": "I'm",
+          "start": 309.38,
+          "end": 309.5
+        },
+        {
+          "word": "going",
+          "start": 309.5,
+          "end": 309.52
+        },
+        {
+          "word": "to",
+          "start": 309.52,
+          "end": 309.58
+        },
+        {
+          "word": "spend",
+          "start": 309.58,
+          "end": 309.7
+        },
+        {
+          "word": "more",
+          "start": 309.7,
+          "end": 309.86
+        },
+        {
+          "word": "time",
+          "start": 309.86,
+          "end": 310.08
+        },
+        {
+          "word": "over",
+          "start": 310.53,
+          "end": 311.49
+        },
+        {
+          "word": "here.",
+          "start": 311.49,
+          "end": 311.77
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 312.61,
+      "end": 316.39,
+      "text": "Oh, that makes, yeah. Okay. That I understand which portfolio did better?",
+      "n_words": 12,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 312.61,
+          "end": 313.03
+        },
+        {
+          "word": "that",
+          "start": 313.07,
+          "end": 313.17
+        },
+        {
+          "word": "makes,",
+          "start": 313.17,
+          "end": 313.37
+        },
+        {
+          "word": "yeah.",
+          "start": 313.59,
+          "end": 313.73
+        },
+        {
+          "word": "Okay.",
+          "start": 313.89,
+          "end": 314.03
+        },
+        {
+          "word": "That",
+          "start": 314.17,
+          "end": 314.19
+        },
+        {
+          "word": "I",
+          "start": 314.19,
+          "end": 314.53
+        },
+        {
+          "word": "understand",
+          "start": 314.53,
+          "end": 314.79
+        },
+        {
+          "word": "which",
+          "start": 314.79,
+          "end": 315.31
+        },
+        {
+          "word": "portfolio",
+          "start": 315.31,
+          "end": 315.71
+        },
+        {
+          "word": "did",
+          "start": 315.71,
+          "end": 316.01
+        },
+        {
+          "word": "better?",
+          "start": 316.01,
+          "end": 316.39
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 318.03,
+      "end": 331.27,
+      "text": "Gross tonnage of dollars. This one sheer alpha this one. The non obvious thing is it's a you thing. Investing is all about you and you only. All this nonsense of like teams is nonsense. Teams,",
+      "n_words": 36,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "Gross",
+          "start": 318.03,
+          "end": 318.45
+        },
+        {
+          "word": "tonnage",
+          "start": 318.45,
+          "end": 318.81
+        },
+        {
+          "word": "of",
+          "start": 318.81,
+          "end": 318.91
+        },
+        {
+          "word": "dollars.",
+          "start": 318.91,
+          "end": 319.17
+        },
+        {
+          "word": "This",
+          "start": 319.41,
+          "end": 319.43
+        },
+        {
+          "word": "one",
+          "start": 319.43,
+          "end": 319.71
+        },
+        {
+          "word": "sheer",
+          "start": 320.25,
+          "end": 321.19
+        },
+        {
+          "word": "alpha",
+          "start": 321.19,
+          "end": 321.69
+        },
+        {
+          "word": "this",
+          "start": 321.69,
+          "end": 322.31
+        },
+        {
+          "word": "one.",
+          "start": 322.31,
+          "end": 322.63
+        },
+        {
+          "word": "The",
+          "start": 322.93,
+          "end": 323.35
+        },
+        {
+          "word": "non",
+          "start": 323.35,
+          "end": 323.57
+        },
+        {
+          "word": "obvious",
+          "start": 323.57,
+          "end": 323.87
+        },
+        {
+          "word": "thing",
+          "start": 323.87,
+          "end": 324.15
+        },
+        {
+          "word": "is",
+          "start": 324.15,
+          "end": 324.41
+        },
+        {
+          "word": "it's",
+          "start": 324.41,
+          "end": 324.71
+        },
+        {
+          "word": "a",
+          "start": 324.71,
+          "end": 324.77
+        },
+        {
+          "word": "you",
+          "start": 324.77,
+          "end": 324.97
+        },
+        {
+          "word": "thing.",
+          "start": 324.97,
+          "end": 325.25
+        },
+        {
+          "word": "Investing",
+          "start": 325.57,
+          "end": 325.99
+        },
+        {
+          "word": "is",
+          "start": 325.99,
+          "end": 326.09
+        },
+        {
+          "word": "all",
+          "start": 326.09,
+          "end": 326.35
+        },
+        {
+          "word": "about",
+          "start": 326.35,
+          "end": 326.55
+        },
+        {
+          "word": "you",
+          "start": 326.55,
+          "end": 326.83
+        },
+        {
+          "word": "and",
+          "start": 326.83,
+          "end": 326.99
+        },
+        {
+          "word": "you",
+          "start": 326.99,
+          "end": 327.13
+        },
+        {
+          "word": "only.",
+          "start": 327.13,
+          "end": 327.39
+        },
+        {
+          "word": "All",
+          "start": 327.61,
+          "end": 328.03
+        },
+        {
+          "word": "this",
+          "start": 328.03,
+          "end": 328.21
+        },
+        {
+          "word": "nonsense",
+          "start": 328.21,
+          "end": 328.65
+        },
+        {
+          "word": "of",
+          "start": 328.65,
+          "end": 328.91
+        },
+        {
+          "word": "like",
+          "start": 328.91,
+          "end": 329.07
+        },
+        {
+          "word": "teams",
+          "start": 329.07,
+          "end": 329.41
+        },
+        {
+          "word": "is",
+          "start": 329.41,
+          "end": 329.79
+        },
+        {
+          "word": "nonsense.",
+          "start": 329.79,
+          "end": 330.29
+        },
+        {
+          "word": "Teams,",
+          "start": 331.01,
+          "end": 331.27
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 331.53,
+      "end": 333.65,
+      "text": "how big is your investment team? Your family office?",
+      "n_words": 9,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "how",
+          "start": 331.53,
+          "end": 331.65
+        },
+        {
+          "word": "big",
+          "start": 331.65,
+          "end": 331.83
+        },
+        {
+          "word": "is",
+          "start": 331.83,
+          "end": 331.99
+        },
+        {
+          "word": "your",
+          "start": 331.99,
+          "end": 332.17
+        },
+        {
+          "word": "investment",
+          "start": 332.17,
+          "end": 332.59
+        },
+        {
+          "word": "team?",
+          "start": 332.59,
+          "end": 332.87
+        },
+        {
+          "word": "Your",
+          "start": 333.01,
+          "end": 333.01
+        },
+        {
+          "word": "family",
+          "start": 333.01,
+          "end": 333.31
+        },
+        {
+          "word": "office?",
+          "start": 333.31,
+          "end": 333.65
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 334.57,
+      "end": 347.82,
+      "text": "It is one person that makes the investment decisions, which is me. And then there's a very trust the team of people that help me with all of the infrastructure of that, the complexity of that.",
+      "n_words": 36,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "It",
+          "start": 334.57,
+          "end": 335.09
+        },
+        {
+          "word": "is",
+          "start": 335.09,
+          "end": 335.25
+        },
+        {
+          "word": "one",
+          "start": 335.25,
+          "end": 335.55
+        },
+        {
+          "word": "person",
+          "start": 335.55,
+          "end": 335.97
+        },
+        {
+          "word": "that",
+          "start": 335.97,
+          "end": 336.73
+        },
+        {
+          "word": "makes",
+          "start": 336.73,
+          "end": 337.01
+        },
+        {
+          "word": "the",
+          "start": 337.01,
+          "end": 337.95
+        },
+        {
+          "word": "investment",
+          "start": 338.24,
+          "end": 339.68
+        },
+        {
+          "word": "decisions,",
+          "start": 339.68,
+          "end": 340.14
+        },
+        {
+          "word": "which",
+          "start": 340.18,
+          "end": 340.38
+        },
+        {
+          "word": "is",
+          "start": 340.38,
+          "end": 340.5
+        },
+        {
+          "word": "me.",
+          "start": 340.5,
+          "end": 340.72
+        },
+        {
+          "word": "And",
+          "start": 341.06,
+          "end": 341.44
+        },
+        {
+          "word": "then",
+          "start": 341.44,
+          "end": 341.54
+        },
+        {
+          "word": "there's",
+          "start": 341.54,
+          "end": 341.92
+        },
+        {
+          "word": "a",
+          "start": 341.92,
+          "end": 342.28
+        },
+        {
+          "word": "very",
+          "start": 342.28,
+          "end": 342.46
+        },
+        {
+          "word": "trust",
+          "start": 342.46,
+          "end": 342.72
+        },
+        {
+          "word": "the",
+          "start": 342.72,
+          "end": 342.92
+        },
+        {
+          "word": "team",
+          "start": 342.92,
+          "end": 343.12
+        },
+        {
+          "word": "of",
+          "start": 343.12,
+          "end": 343.22
+        },
+        {
+          "word": "people",
+          "start": 343.22,
+          "end": 343.46
+        },
+        {
+          "word": "that",
+          "start": 343.46,
+          "end": 343.74
+        },
+        {
+          "word": "help",
+          "start": 344.42,
+          "end": 344.68
+        },
+        {
+          "word": "me",
+          "start": 344.68,
+          "end": 344.98
+        },
+        {
+          "word": "with",
+          "start": 344.98,
+          "end": 345.34
+        },
+        {
+          "word": "all",
+          "start": 345.34,
+          "end": 345.5
+        },
+        {
+          "word": "of",
+          "start": 345.5,
+          "end": 345.6
+        },
+        {
+          "word": "the",
+          "start": 345.6,
+          "end": 345.72
+        },
+        {
+          "word": "infrastructure",
+          "start": 345.72,
+          "end": 346.2
+        },
+        {
+          "word": "of",
+          "start": 346.2,
+          "end": 346.68
+        },
+        {
+          "word": "that,",
+          "start": 346.68,
+          "end": 346.8
+        },
+        {
+          "word": "the",
+          "start": 346.88,
+          "end": 346.94
+        },
+        {
+          "word": "complexity",
+          "start": 346.94,
+          "end": 347.4
+        },
+        {
+          "word": "of",
+          "start": 347.4,
+          "end": 347.68
+        },
+        {
+          "word": "that.",
+          "start": 347.68,
+          "end": 347.82
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 348.87,
+      "end": 350.85,
+      "text": "Okay. So you think number one then.",
+      "n_words": 7,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 348.87,
+          "end": 349.29
+        },
+        {
+          "word": "So",
+          "start": 349.47,
+          "end": 349.53
+        },
+        {
+          "word": "you",
+          "start": 349.53,
+          "end": 349.77
+        },
+        {
+          "word": "think",
+          "start": 349.77,
+          "end": 350.01
+        },
+        {
+          "word": "number",
+          "start": 350.01,
+          "end": 350.31
+        },
+        {
+          "word": "one",
+          "start": 350.31,
+          "end": 350.59
+        },
+        {
+          "word": "then.",
+          "start": 350.59,
+          "end": 350.85
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 351.75,
+      "end": 365.9,
+      "text": "So you, I'm just summarizing. Yeah, you, nobody else, no team, nobody in the front office out there to have a very thoughtful understanding of what you're looking for when you're constructing a portfolio.",
+      "n_words": 34,
+      "n_low": 1,
+      "words": [
+        {
+          "word": "So",
+          "start": 351.75,
+          "end": 352.13
+        },
+        {
+          "word": "you,",
+          "start": 352.13,
+          "end": 352.59
+        },
+        {
+          "word": "I'm",
+          "start": 353.01,
+          "end": 353.09
+        },
+        {
+          "word": "just",
+          "start": 353.09,
+          "end": 353.17
+        },
+        {
+          "word": "summarizing.",
+          "start": 353.17,
+          "end": 353.65
+        },
+        {
+          "word": "Yeah,",
+          "start": 353.83,
+          "end": 353.89
+        },
+        {
+          "word": "you,",
+          "start": 354.45,
+          "end": 354.67
+        },
+        {
+          "word": "nobody",
+          "start": 355.11,
+          "end": 355.43
+        },
+        {
+          "word": "else,",
+          "start": 355.43,
+          "end": 355.63
+        },
+        {
+          "word": "no",
+          "start": 355.77,
+          "end": 355.85
+        },
+        {
+          "word": "team,",
+          "start": 355.85,
+          "end": 356.07
+        },
+        {
+          "word": "nobody",
+          "start": 356.23,
+          "end": 356.83
+        },
+        {
+          "word": "in",
+          "start": 356.83,
+          "end": 357.01
+        },
+        {
+          "word": "the",
+          "start": 357.01,
+          "end": 357.07
+        },
+        {
+          "word": "front",
+          "start": 357.07,
+          "end": 357.19
+        },
+        {
+          "word": "office",
+          "start": 357.19,
+          "end": 357.45
+        },
+        {
+          "word": "out",
+          "start": 357.45,
+          "end": 357.63
+        },
+        {
+          "word": "there",
+          "start": 357.63,
+          "end": 357.79
+        },
+        {
+          "word": "to",
+          "start": 357.79,
+          "end": 358.83
+        },
+        {
+          "word": "have",
+          "start": 358.83,
+          "end": 359.69
+        },
+        {
+          "word": "a",
+          "start": 359.69,
+          "end": 359.85
+        },
+        {
+          "word": "very",
+          "start": 359.85,
+          "end": 360.33
+        },
+        {
+          "word": "thoughtful",
+          "start": 360.33,
+          "end": 360.83
+        },
+        {
+          "word": "understanding",
+          "start": 361.8,
+          "end": 362.44
+        },
+        {
+          "word": "of",
+          "start": 362.44,
+          "end": 362.84
+        },
+        {
+          "word": "what",
+          "start": 362.84,
+          "end": 363.06
+        },
+        {
+          "word": "you're",
+          "start": 363.06,
+          "end": 363.24
+        },
+        {
+          "word": "looking",
+          "start": 363.24,
+          "end": 363.48
+        },
+        {
+          "word": "for",
+          "start": 363.48,
+          "end": 363.86
+        },
+        {
+          "word": "when",
+          "start": 363.86,
+          "end": 364.66
+        },
+        {
+          "word": "you're",
+          "start": 364.66,
+          "end": 364.82
+        },
+        {
+          "word": "constructing",
+          "start": 364.82,
+          "end": 365.3
+        },
+        {
+          "word": "a",
+          "start": 365.3,
+          "end": 365.48
+        },
+        {
+          "word": "portfolio.",
+          "start": 365.48,
+          "end": 365.9
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 366.22,
+      "end": 367.24,
+      "text": "How do I arrive at that?",
+      "n_words": 6,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "How",
+          "start": 366.22,
+          "end": 366.48
+        },
+        {
+          "word": "do",
+          "start": 366.48,
+          "end": 366.58
+        },
+        {
+          "word": "I",
+          "start": 366.58,
+          "end": 366.7
+        },
+        {
+          "word": "arrive",
+          "start": 366.7,
+          "end": 366.92
+        },
+        {
+          "word": "at",
+          "start": 366.92,
+          "end": 367.06
+        },
+        {
+          "word": "that?",
+          "start": 367.06,
+          "end": 367.24
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 368.01,
+      "end": 410.5,
+      "text": "I think it's, you can start by just having a very course definition of there's small and then there's medium and large. Small should be about massive alpha. Massive alpha is generated typically in controversy. How do you arrive at controversy by testing out these ideas and getting and just getting a sense of people's reactions to it? So for example, like, you know, going back to this crypto example, there are crypto projects right now that are completely fungible, totally private. And if you ask people, they will have wildly divergent views.",
+      "n_words": 93,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "I",
+          "start": 368.01,
+          "end": 368.27
+        },
+        {
+          "word": "think",
+          "start": 368.27,
+          "end": 368.39
+        },
+        {
+          "word": "it's,",
+          "start": 368.39,
+          "end": 368.65
+        },
+        {
+          "word": "you",
+          "start": 368.97,
+          "end": 369.15
+        },
+        {
+          "word": "can",
+          "start": 369.15,
+          "end": 369.29
+        },
+        {
+          "word": "start",
+          "start": 369.29,
+          "end": 369.51
+        },
+        {
+          "word": "by",
+          "start": 369.51,
+          "end": 369.69
+        },
+        {
+          "word": "just",
+          "start": 369.69,
+          "end": 369.85
+        },
+        {
+          "word": "having",
+          "start": 369.85,
+          "end": 370.05
+        },
+        {
+          "word": "a",
+          "start": 370.05,
+          "end": 370.21
+        },
+        {
+          "word": "very",
+          "start": 370.21,
+          "end": 370.41
+        },
+        {
+          "word": "course",
+          "start": 371.09,
+          "end": 371.41
+        },
+        {
+          "word": "definition",
+          "start": 371.41,
+          "end": 371.87
+        },
+        {
+          "word": "of",
+          "start": 371.87,
+          "end": 372.21
+        },
+        {
+          "word": "there's",
+          "start": 372.21,
+          "end": 372.57
+        },
+        {
+          "word": "small",
+          "start": 372.57,
+          "end": 372.97
+        },
+        {
+          "word": "and",
+          "start": 372.97,
+          "end": 373.99
+        },
+        {
+          "word": "then",
+          "start": 374.15,
+          "end": 374.25
+        },
+        {
+          "word": "there's",
+          "start": 374.25,
+          "end": 374.45
+        },
+        {
+          "word": "medium",
+          "start": 374.45,
+          "end": 374.73
+        },
+        {
+          "word": "and",
+          "start": 374.73,
+          "end": 374.87
+        },
+        {
+          "word": "large.",
+          "start": 374.87,
+          "end": 375.17
+        },
+        {
+          "word": "Small",
+          "start": 376.48,
+          "end": 377.12
+        },
+        {
+          "word": "should",
+          "start": 377.12,
+          "end": 377.76
+        },
+        {
+          "word": "be",
+          "start": 377.76,
+          "end": 377.94
+        },
+        {
+          "word": "about",
+          "start": 377.94,
+          "end": 378.2
+        },
+        {
+          "word": "massive",
+          "start": 378.2,
+          "end": 378.88
+        },
+        {
+          "word": "alpha.",
+          "start": 378.88,
+          "end": 379.36
+        },
+        {
+          "word": "Massive",
+          "start": 381.06,
+          "end": 381.7
+        },
+        {
+          "word": "alpha",
+          "start": 381.7,
+          "end": 382.1
+        },
+        {
+          "word": "is",
+          "start": 382.1,
+          "end": 382.44
+        },
+        {
+          "word": "generated",
+          "start": 382.44,
+          "end": 382.98
+        },
+        {
+          "word": "typically",
+          "start": 382.98,
+          "end": 384.0
+        },
+        {
+          "word": "in",
+          "start": 384.0,
+          "end": 385.02
+        },
+        {
+          "word": "controversy.",
+          "start": 385.02,
+          "end": 385.58
+        },
+        {
+          "word": "How",
+          "start": 387.06,
+          "end": 387.42
+        },
+        {
+          "word": "do",
+          "start": 387.42,
+          "end": 387.54
+        },
+        {
+          "word": "you",
+          "start": 387.54,
+          "end": 387.64
+        },
+        {
+          "word": "arrive",
+          "start": 387.64,
+          "end": 387.96
+        },
+        {
+          "word": "at",
+          "start": 387.96,
+          "end": 388.1
+        },
+        {
+          "word": "controversy",
+          "start": 388.1,
+          "end": 388.72
+        },
+        {
+          "word": "by",
+          "start": 388.72,
+          "end": 389.38
+        },
+        {
+          "word": "testing",
+          "start": 389.38,
+          "end": 389.9
+        },
+        {
+          "word": "out",
+          "start": 389.9,
+          "end": 390.26
+        },
+        {
+          "word": "these",
+          "start": 390.26,
+          "end": 391.22
+        },
+        {
+          "word": "ideas",
+          "start": 391.22,
+          "end": 391.76
+        },
+        {
+          "word": "and",
+          "start": 391.76,
+          "end": 392.16
+        },
+        {
+          "word": "getting",
+          "start": 392.16,
+          "end": 392.56
+        },
+        {
+          "word": "and",
+          "start": 392.56,
+          "end": 392.94
+        },
+        {
+          "word": "just",
+          "start": 392.94,
+          "end": 393.18
+        },
+        {
+          "word": "getting",
+          "start": 393.18,
+          "end": 393.44
+        },
+        {
+          "word": "a",
+          "start": 393.44,
+          "end": 393.68
+        },
+        {
+          "word": "sense",
+          "start": 393.68,
+          "end": 393.96
+        },
+        {
+          "word": "of",
+          "start": 393.96,
+          "end": 394.38
+        },
+        {
+          "word": "people's",
+          "start": 394.38,
+          "end": 395.1
+        },
+        {
+          "word": "reactions",
+          "start": 395.1,
+          "end": 395.52
+        },
+        {
+          "word": "to",
+          "start": 395.52,
+          "end": 395.88
+        },
+        {
+          "word": "it?",
+          "start": 395.88,
+          "end": 396.14
+        },
+        {
+          "word": "So",
+          "start": 397.24,
+          "end": 397.8
+        },
+        {
+          "word": "for",
+          "start": 397.8,
+          "end": 397.98
+        },
+        {
+          "word": "example,",
+          "start": 397.98,
+          "end": 398.22
+        },
+        {
+          "word": "like,",
+          "start": 398.36,
+          "end": 398.44
+        },
+        {
+          "word": "you",
+          "start": 398.46,
+          "end": 398.54
+        },
+        {
+          "word": "know,",
+          "start": 398.54,
+          "end": 398.6
+        },
+        {
+          "word": "going",
+          "start": 398.62,
+          "end": 398.78
+        },
+        {
+          "word": "back",
+          "start": 398.78,
+          "end": 398.98
+        },
+        {
+          "word": "to",
+          "start": 398.98,
+          "end": 399.1
+        },
+        {
+          "word": "this",
+          "start": 399.1,
+          "end": 399.28
+        },
+        {
+          "word": "crypto",
+          "start": 399.28,
+          "end": 399.78
+        },
+        {
+          "word": "example,",
+          "start": 399.78,
+          "end": 400.22
+        },
+        {
+          "word": "there",
+          "start": 400.64,
+          "end": 401.02
+        },
+        {
+          "word": "are",
+          "start": 401.02,
+          "end": 401.3
+        },
+        {
+          "word": "crypto",
+          "start": 401.3,
+          "end": 401.78
+        },
+        {
+          "word": "projects",
+          "start": 401.78,
+          "end": 402.26
+        },
+        {
+          "word": "right",
+          "start": 402.26,
+          "end": 402.52
+        },
+        {
+          "word": "now",
+          "start": 402.52,
+          "end": 402.92
+        },
+        {
+          "word": "that",
+          "start": 403.32,
+          "end": 403.6
+        },
+        {
+          "word": "are",
+          "start": 403.6,
+          "end": 403.82
+        },
+        {
+          "word": "completely",
+          "start": 403.82,
+          "end": 404.24
+        },
+        {
+          "word": "fungible,",
+          "start": 404.24,
+          "end": 404.84
+        },
+        {
+          "word": "totally",
+          "start": 404.84,
+          "end": 405.5
+        },
+        {
+          "word": "private.",
+          "start": 405.5,
+          "end": 405.96
+        },
+        {
+          "word": "And",
+          "start": 406.36,
+          "end": 406.9
+        },
+        {
+          "word": "if",
+          "start": 406.9,
+          "end": 407.04
+        },
+        {
+          "word": "you",
+          "start": 407.04,
+          "end": 407.14
+        },
+        {
+          "word": "ask",
+          "start": 407.14,
+          "end": 407.42
+        },
+        {
+          "word": "people,",
+          "start": 407.42,
+          "end": 407.8
+        },
+        {
+          "word": "they",
+          "start": 407.96,
+          "end": 408.46
+        },
+        {
+          "word": "will",
+          "start": 408.46,
+          "end": 408.6
+        },
+        {
+          "word": "have",
+          "start": 408.6,
+          "end": 408.86
+        },
+        {
+          "word": "wildly",
+          "start": 408.86,
+          "end": 409.6
+        },
+        {
+          "word": "divergent",
+          "start": 409.6,
+          "end": 410.18
+        },
+        {
+          "word": "views.",
+          "start": 410.18,
+          "end": 410.5
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 410.92,
+      "end": 411.48,
+      "text": "That",
+      "n_words": 1,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "That",
+          "start": 410.92,
+          "end": 411.48
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 411.48,
+      "end": 416.8,
+      "text": "is a great setup for some of those crypto projects, again, could go to zero, but could go to infinity.",
+      "n_words": 20,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "is",
+          "start": 411.48,
+          "end": 411.62
+        },
+        {
+          "word": "a",
+          "start": 411.62,
+          "end": 411.72
+        },
+        {
+          "word": "great",
+          "start": 411.72,
+          "end": 411.9
+        },
+        {
+          "word": "setup",
+          "start": 411.9,
+          "end": 412.22
+        },
+        {
+          "word": "for",
+          "start": 412.22,
+          "end": 412.52
+        },
+        {
+          "word": "some",
+          "start": 412.52,
+          "end": 412.84
+        },
+        {
+          "word": "of",
+          "start": 412.84,
+          "end": 412.94
+        },
+        {
+          "word": "those",
+          "start": 412.94,
+          "end": 413.06
+        },
+        {
+          "word": "crypto",
+          "start": 413.06,
+          "end": 413.36
+        },
+        {
+          "word": "projects,",
+          "start": 413.36,
+          "end": 413.86
+        },
+        {
+          "word": "again,",
+          "start": 414.32,
+          "end": 414.56
+        },
+        {
+          "word": "could",
+          "start": 414.66,
+          "end": 414.86
+        },
+        {
+          "word": "go",
+          "start": 414.86,
+          "end": 415.02
+        },
+        {
+          "word": "to",
+          "start": 415.02,
+          "end": 415.1
+        },
+        {
+          "word": "zero,",
+          "start": 415.1,
+          "end": 415.34
+        },
+        {
+          "word": "but",
+          "start": 415.54,
+          "end": 415.94
+        },
+        {
+          "word": "could",
+          "start": 415.94,
+          "end": 416.12
+        },
+        {
+          "word": "go",
+          "start": 416.12,
+          "end": 416.28
+        },
+        {
+          "word": "to",
+          "start": 416.28,
+          "end": 416.38
+        },
+        {
+          "word": "infinity.",
+          "start": 416.38,
+          "end": 416.8
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 417.36,
+      "end": 417.44,
+      "text": "Yeah.",
+      "n_words": 1,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "Yeah.",
+          "start": 417.36,
+          "end": 417.44
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 417.44,
+      "end": 421.18,
+      "text": "So this bucket is always about just swinging for the fences.",
+      "n_words": 11,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "So",
+          "start": 417.44,
+          "end": 417.92
+        },
+        {
+          "word": "this",
+          "start": 417.92,
+          "end": 418.18
+        },
+        {
+          "word": "bucket",
+          "start": 418.18,
+          "end": 418.52
+        },
+        {
+          "word": "is",
+          "start": 418.52,
+          "end": 418.96
+        },
+        {
+          "word": "always",
+          "start": 418.96,
+          "end": 419.44
+        },
+        {
+          "word": "about",
+          "start": 419.44,
+          "end": 419.76
+        },
+        {
+          "word": "just",
+          "start": 419.76,
+          "end": 420.1
+        },
+        {
+          "word": "swinging",
+          "start": 420.1,
+          "end": 420.54
+        },
+        {
+          "word": "for",
+          "start": 420.54,
+          "end": 420.78
+        },
+        {
+          "word": "the",
+          "start": 420.78,
+          "end": 420.88
+        },
+        {
+          "word": "fences.",
+          "start": 420.88,
+          "end": 421.18
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 423.53,
+      "end": 428.73,
+      "text": "This bucket, the medium, medium and large is you can never be wrong.",
+      "n_words": 13,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "This",
+          "start": 423.53,
+          "end": 424.05
+        },
+        {
+          "word": "bucket,",
+          "start": 424.05,
+          "end": 424.41
+        },
+        {
+          "word": "the",
+          "start": 424.79,
+          "end": 424.79
+        },
+        {
+          "word": "medium,",
+          "start": 424.79,
+          "end": 425.09
+        },
+        {
+          "word": "medium",
+          "start": 425.51,
+          "end": 426.05
+        },
+        {
+          "word": "and",
+          "start": 426.05,
+          "end": 426.15
+        },
+        {
+          "word": "large",
+          "start": 426.15,
+          "end": 426.43
+        },
+        {
+          "word": "is",
+          "start": 426.43,
+          "end": 426.85
+        },
+        {
+          "word": "you",
+          "start": 426.85,
+          "end": 427.41
+        },
+        {
+          "word": "can",
+          "start": 427.41,
+          "end": 427.71
+        },
+        {
+          "word": "never",
+          "start": 427.71,
+          "end": 428.13
+        },
+        {
+          "word": "be",
+          "start": 428.13,
+          "end": 428.35
+        },
+        {
+          "word": "wrong.",
+          "start": 428.35,
+          "end": 428.73
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 430.42,
+      "end": 431.04,
+      "text": "Because I would",
+      "n_words": 3,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "Because",
+          "start": 430.42,
+          "end": 430.74
+        },
+        {
+          "word": "I",
+          "start": 430.74,
+          "end": 430.94
+        },
+        {
+          "word": "would",
+          "start": 430.94,
+          "end": 431.04
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 431.04,
+      "end": 440.97,
+      "text": "rather take a billion dollars and generate a two X, then go to the and then risk then have a chance at a five X, but there's also a chance of a zero.",
+      "n_words": 33,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "rather",
+          "start": 431.04,
+          "end": 431.26
+        },
+        {
+          "word": "take",
+          "start": 431.26,
+          "end": 431.54
+        },
+        {
+          "word": "a",
+          "start": 431.54,
+          "end": 431.7
+        },
+        {
+          "word": "billion",
+          "start": 431.7,
+          "end": 431.94
+        },
+        {
+          "word": "dollars",
+          "start": 431.94,
+          "end": 432.38
+        },
+        {
+          "word": "and",
+          "start": 432.38,
+          "end": 433.0
+        },
+        {
+          "word": "generate",
+          "start": 433.0,
+          "end": 433.38
+        },
+        {
+          "word": "a",
+          "start": 433.38,
+          "end": 433.52
+        },
+        {
+          "word": "two",
+          "start": 433.52,
+          "end": 433.7
+        },
+        {
+          "word": "X,",
+          "start": 433.7,
+          "end": 433.96
+        },
+        {
+          "word": "then",
+          "start": 435.95,
+          "end": 436.37
+        },
+        {
+          "word": "go",
+          "start": 436.37,
+          "end": 436.57
+        },
+        {
+          "word": "to",
+          "start": 436.57,
+          "end": 436.71
+        },
+        {
+          "word": "the",
+          "start": 436.71,
+          "end": 436.99
+        },
+        {
+          "word": "and",
+          "start": 436.99,
+          "end": 437.21
+        },
+        {
+          "word": "then",
+          "start": 437.21,
+          "end": 437.35
+        },
+        {
+          "word": "risk",
+          "start": 437.35,
+          "end": 437.85
+        },
+        {
+          "word": "then",
+          "start": 437.85,
+          "end": 438.37
+        },
+        {
+          "word": "have",
+          "start": 438.37,
+          "end": 438.59
+        },
+        {
+          "word": "a",
+          "start": 438.59,
+          "end": 438.71
+        },
+        {
+          "word": "chance",
+          "start": 438.71,
+          "end": 438.97
+        },
+        {
+          "word": "at",
+          "start": 438.97,
+          "end": 439.09
+        },
+        {
+          "word": "a",
+          "start": 439.09,
+          "end": 439.17
+        },
+        {
+          "word": "five",
+          "start": 439.17,
+          "end": 439.35
+        },
+        {
+          "word": "X,",
+          "start": 439.35,
+          "end": 439.59
+        },
+        {
+          "word": "but",
+          "start": 439.67,
+          "end": 439.75
+        },
+        {
+          "word": "there's",
+          "start": 439.75,
+          "end": 439.95
+        },
+        {
+          "word": "also",
+          "start": 439.95,
+          "end": 440.19
+        },
+        {
+          "word": "a",
+          "start": 440.19,
+          "end": 440.37
+        },
+        {
+          "word": "chance",
+          "start": 440.37,
+          "end": 440.57
+        },
+        {
+          "word": "of",
+          "start": 440.57,
+          "end": 440.69
+        },
+        {
+          "word": "a",
+          "start": 440.69,
+          "end": 440.77
+        },
+        {
+          "word": "zero.",
+          "start": 440.77,
+          "end": 440.97
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 441.07,
+      "end": 443.45,
+      "text": "This is your data center energy and all of that.",
+      "n_words": 10,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "This",
+          "start": 441.07,
+          "end": 441.27
+        },
+        {
+          "word": "is",
+          "start": 441.27,
+          "end": 441.41
+        },
+        {
+          "word": "your",
+          "start": 441.41,
+          "end": 441.55
+        },
+        {
+          "word": "data",
+          "start": 441.55,
+          "end": 441.81
+        },
+        {
+          "word": "center",
+          "start": 441.81,
+          "end": 442.15
+        },
+        {
+          "word": "energy",
+          "start": 442.15,
+          "end": 442.71
+        },
+        {
+          "word": "and",
+          "start": 442.71,
+          "end": 442.97
+        },
+        {
+          "word": "all",
+          "start": 442.97,
+          "end": 443.13
+        },
+        {
+          "word": "of",
+          "start": 443.13,
+          "end": 443.23
+        },
+        {
+          "word": "that.",
+          "start": 443.23,
+          "end": 443.45
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 444.38,
+      "end": 490.04,
+      "text": "Well, so this is about portfolio construction. Then you have to have a view of like, what do you like and what do you want to see in the world? Because the dollars that you have are really an amplification method to the point of view. So in my point of view, I have a very specific view on AI. I've been at it now for a decade. I have a decent sense of it. And I want to what is your view on AI overall? If you had to summarize, I think it's a massive accelerant on productivity. I think it will create levels of progress that are unimaginable. And I think we now need to build the tooling that allows people to participate in all of those gains. And if you be AI? No, like,",
+      "n_words": 137,
+      "n_low": 1,
+      "words": [
+        {
+          "word": "Well,",
+          "start": 444.38,
+          "end": 444.9
+        },
+        {
+          "word": "so",
+          "start": 445.02,
+          "end": 445.48
+        },
+        {
+          "word": "this",
+          "start": 445.48,
+          "end": 446.02
+        },
+        {
+          "word": "is",
+          "start": 446.02,
+          "end": 446.34
+        },
+        {
+          "word": "about",
+          "start": 446.34,
+          "end": 446.52
+        },
+        {
+          "word": "portfolio",
+          "start": 446.52,
+          "end": 446.94
+        },
+        {
+          "word": "construction.",
+          "start": 446.94,
+          "end": 447.44
+        },
+        {
+          "word": "Then",
+          "start": 448.14,
+          "end": 448.66
+        },
+        {
+          "word": "you",
+          "start": 448.66,
+          "end": 449.18
+        },
+        {
+          "word": "have",
+          "start": 449.18,
+          "end": 449.32
+        },
+        {
+          "word": "to",
+          "start": 449.32,
+          "end": 449.4
+        },
+        {
+          "word": "have",
+          "start": 449.4,
+          "end": 449.56
+        },
+        {
+          "word": "a",
+          "start": 449.56,
+          "end": 449.64
+        },
+        {
+          "word": "view",
+          "start": 449.64,
+          "end": 449.82
+        },
+        {
+          "word": "of",
+          "start": 449.82,
+          "end": 449.98
+        },
+        {
+          "word": "like,",
+          "start": 449.98,
+          "end": 450.14
+        },
+        {
+          "word": "what",
+          "start": 450.16,
+          "end": 450.34
+        },
+        {
+          "word": "do",
+          "start": 450.34,
+          "end": 450.54
+        },
+        {
+          "word": "you",
+          "start": 450.54,
+          "end": 450.62
+        },
+        {
+          "word": "like",
+          "start": 450.62,
+          "end": 450.84
+        },
+        {
+          "word": "and",
+          "start": 450.84,
+          "end": 451.0
+        },
+        {
+          "word": "what",
+          "start": 451.0,
+          "end": 451.2
+        },
+        {
+          "word": "do",
+          "start": 451.2,
+          "end": 451.36
+        },
+        {
+          "word": "you",
+          "start": 451.36,
+          "end": 451.44
+        },
+        {
+          "word": "want",
+          "start": 451.44,
+          "end": 451.6
+        },
+        {
+          "word": "to",
+          "start": 451.6,
+          "end": 451.68
+        },
+        {
+          "word": "see",
+          "start": 451.68,
+          "end": 451.94
+        },
+        {
+          "word": "in",
+          "start": 451.94,
+          "end": 452.06
+        },
+        {
+          "word": "the",
+          "start": 452.06,
+          "end": 452.16
+        },
+        {
+          "word": "world?",
+          "start": 452.16,
+          "end": 452.38
+        },
+        {
+          "word": "Because",
+          "start": 452.48,
+          "end": 452.66
+        },
+        {
+          "word": "the",
+          "start": 452.66,
+          "end": 453.1
+        },
+        {
+          "word": "dollars",
+          "start": 453.1,
+          "end": 453.44
+        },
+        {
+          "word": "that",
+          "start": 453.44,
+          "end": 453.76
+        },
+        {
+          "word": "you",
+          "start": 453.76,
+          "end": 453.9
+        },
+        {
+          "word": "have",
+          "start": 453.9,
+          "end": 454.34
+        },
+        {
+          "word": "are",
+          "start": 454.34,
+          "end": 455.08
+        },
+        {
+          "word": "really",
+          "start": 455.08,
+          "end": 455.38
+        },
+        {
+          "word": "an",
+          "start": 455.38,
+          "end": 455.52
+        },
+        {
+          "word": "amplification",
+          "start": 455.52,
+          "end": 456.2
+        },
+        {
+          "word": "method",
+          "start": 456.2,
+          "end": 456.64
+        },
+        {
+          "word": "to",
+          "start": 456.64,
+          "end": 456.84
+        },
+        {
+          "word": "the",
+          "start": 456.84,
+          "end": 456.94
+        },
+        {
+          "word": "point",
+          "start": 456.94,
+          "end": 457.16
+        },
+        {
+          "word": "of",
+          "start": 457.16,
+          "end": 457.32
+        },
+        {
+          "word": "view.",
+          "start": 457.32,
+          "end": 457.54
+        },
+        {
+          "word": "So",
+          "start": 458.04,
+          "end": 458.14
+        },
+        {
+          "word": "in",
+          "start": 458.14,
+          "end": 458.26
+        },
+        {
+          "word": "my",
+          "start": 458.26,
+          "end": 458.46
+        },
+        {
+          "word": "point",
+          "start": 458.46,
+          "end": 458.76
+        },
+        {
+          "word": "of",
+          "start": 458.76,
+          "end": 458.9
+        },
+        {
+          "word": "view,",
+          "start": 458.9,
+          "end": 459.12
+        },
+        {
+          "word": "I",
+          "start": 459.39,
+          "end": 460.05
+        },
+        {
+          "word": "have",
+          "start": 460.05,
+          "end": 460.11
+        },
+        {
+          "word": "a",
+          "start": 460.11,
+          "end": 460.19
+        },
+        {
+          "word": "very",
+          "start": 460.19,
+          "end": 460.37
+        },
+        {
+          "word": "specific",
+          "start": 460.37,
+          "end": 460.73
+        },
+        {
+          "word": "view",
+          "start": 460.73,
+          "end": 461.05
+        },
+        {
+          "word": "on",
+          "start": 461.05,
+          "end": 461.21
+        },
+        {
+          "word": "AI.",
+          "start": 461.21,
+          "end": 461.37
+        },
+        {
+          "word": "I've",
+          "start": 462.34,
+          "end": 462.62
+        },
+        {
+          "word": "been",
+          "start": 462.62,
+          "end": 462.74
+        },
+        {
+          "word": "at",
+          "start": 462.74,
+          "end": 462.86
+        },
+        {
+          "word": "it",
+          "start": 462.86,
+          "end": 462.98
+        },
+        {
+          "word": "now",
+          "start": 462.98,
+          "end": 463.12
+        },
+        {
+          "word": "for",
+          "start": 463.12,
+          "end": 463.3
+        },
+        {
+          "word": "a",
+          "start": 463.3,
+          "end": 463.44
+        },
+        {
+          "word": "decade.",
+          "start": 463.44,
+          "end": 463.66
+        },
+        {
+          "word": "I",
+          "start": 463.88,
+          "end": 463.92
+        },
+        {
+          "word": "have",
+          "start": 463.92,
+          "end": 464.04
+        },
+        {
+          "word": "a",
+          "start": 464.04,
+          "end": 464.12
+        },
+        {
+          "word": "decent",
+          "start": 464.12,
+          "end": 464.42
+        },
+        {
+          "word": "sense",
+          "start": 464.42,
+          "end": 464.76
+        },
+        {
+          "word": "of",
+          "start": 464.76,
+          "end": 464.9
+        },
+        {
+          "word": "it.",
+          "start": 464.9,
+          "end": 465.06
+        },
+        {
+          "word": "And",
+          "start": 465.64,
+          "end": 465.64
+        },
+        {
+          "word": "I",
+          "start": 465.64,
+          "end": 465.88
+        },
+        {
+          "word": "want",
+          "start": 465.88,
+          "end": 466.12
+        },
+        {
+          "word": "to",
+          "start": 466.12,
+          "end": 466.28
+        },
+        {
+          "word": "what",
+          "start": 466.28,
+          "end": 466.44
+        },
+        {
+          "word": "is",
+          "start": 466.44,
+          "end": 466.48
+        },
+        {
+          "word": "your",
+          "start": 466.48,
+          "end": 466.68
+        },
+        {
+          "word": "view",
+          "start": 466.68,
+          "end": 467.1
+        },
+        {
+          "word": "on",
+          "start": 467.1,
+          "end": 467.32
+        },
+        {
+          "word": "AI",
+          "start": 467.32,
+          "end": 467.52
+        },
+        {
+          "word": "overall?",
+          "start": 467.52,
+          "end": 468.16
+        },
+        {
+          "word": "If",
+          "start": 468.36,
+          "end": 468.42
+        },
+        {
+          "word": "you",
+          "start": 468.42,
+          "end": 468.52
+        },
+        {
+          "word": "had",
+          "start": 468.52,
+          "end": 468.64
+        },
+        {
+          "word": "to",
+          "start": 468.64,
+          "end": 468.74
+        },
+        {
+          "word": "summarize,",
+          "start": 468.74,
+          "end": 469.08
+        },
+        {
+          "word": "I",
+          "start": 469.85,
+          "end": 470.65
+        },
+        {
+          "word": "think",
+          "start": 470.65,
+          "end": 470.77
+        },
+        {
+          "word": "it's",
+          "start": 470.77,
+          "end": 470.95
+        },
+        {
+          "word": "a",
+          "start": 470.95,
+          "end": 471.03
+        },
+        {
+          "word": "massive",
+          "start": 471.03,
+          "end": 471.47
+        },
+        {
+          "word": "accelerant",
+          "start": 471.47,
+          "end": 472.05
+        },
+        {
+          "word": "on",
+          "start": 472.05,
+          "end": 472.21
+        },
+        {
+          "word": "productivity.",
+          "start": 472.21,
+          "end": 472.67
+        },
+        {
+          "word": "I",
+          "start": 473.37,
+          "end": 473.77
+        },
+        {
+          "word": "think",
+          "start": 473.77,
+          "end": 473.91
+        },
+        {
+          "word": "it",
+          "start": 473.91,
+          "end": 474.09
+        },
+        {
+          "word": "will",
+          "start": 474.09,
+          "end": 474.23
+        },
+        {
+          "word": "create",
+          "start": 474.23,
+          "end": 474.61
+        },
+        {
+          "word": "levels",
+          "start": 474.61,
+          "end": 475.29
+        },
+        {
+          "word": "of",
+          "start": 475.29,
+          "end": 475.63
+        },
+        {
+          "word": "progress",
+          "start": 475.63,
+          "end": 476.39
+        },
+        {
+          "word": "that",
+          "start": 476.39,
+          "end": 476.67
+        },
+        {
+          "word": "are",
+          "start": 476.67,
+          "end": 476.95
+        },
+        {
+          "word": "unimaginable.",
+          "start": 476.95,
+          "end": 477.77
+        },
+        {
+          "word": "And",
+          "start": 478.6,
+          "end": 479.0
+        },
+        {
+          "word": "I",
+          "start": 479.0,
+          "end": 479.12
+        },
+        {
+          "word": "think",
+          "start": 479.12,
+          "end": 479.26
+        },
+        {
+          "word": "we",
+          "start": 479.26,
+          "end": 479.42
+        },
+        {
+          "word": "now",
+          "start": 479.42,
+          "end": 479.62
+        },
+        {
+          "word": "need",
+          "start": 479.62,
+          "end": 479.8
+        },
+        {
+          "word": "to",
+          "start": 479.8,
+          "end": 479.94
+        },
+        {
+          "word": "build",
+          "start": 479.94,
+          "end": 480.26
+        },
+        {
+          "word": "the",
+          "start": 480.26,
+          "end": 480.48
+        },
+        {
+          "word": "tooling",
+          "start": 480.48,
+          "end": 480.84
+        },
+        {
+          "word": "that",
+          "start": 480.84,
+          "end": 482.04
+        },
+        {
+          "word": "allows",
+          "start": 482.17,
+          "end": 482.55
+        },
+        {
+          "word": "people",
+          "start": 482.55,
+          "end": 482.99
+        },
+        {
+          "word": "to",
+          "start": 482.99,
+          "end": 483.19
+        },
+        {
+          "word": "participate",
+          "start": 483.19,
+          "end": 483.99
+        },
+        {
+          "word": "in",
+          "start": 484.86,
+          "end": 485.34
+        },
+        {
+          "word": "all",
+          "start": 485.34,
+          "end": 485.7
+        },
+        {
+          "word": "of",
+          "start": 485.7,
+          "end": 485.84
+        },
+        {
+          "word": "those",
+          "start": 485.84,
+          "end": 486.04
+        },
+        {
+          "word": "gains.",
+          "start": 486.04,
+          "end": 486.46
+        },
+        {
+          "word": "And",
+          "start": 487.82,
+          "end": 487.82
+        },
+        {
+          "word": "if",
+          "start": 487.82,
+          "end": 487.96
+        },
+        {
+          "word": "you",
+          "start": 487.96,
+          "end": 488.24
+        },
+        {
+          "word": "be",
+          "start": 488.24,
+          "end": 488.38
+        },
+        {
+          "word": "AI?",
+          "start": 488.38,
+          "end": 488.56
+        },
+        {
+          "word": "No,",
+          "start": 489.32,
+          "end": 489.7
+        },
+        {
+          "word": "like,",
+          "start": 489.84,
+          "end": 490.04
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 490.12,
+      "end": 491.1,
+      "text": "you know,",
+      "n_words": 2,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "you",
+          "start": 490.12,
+          "end": 490.92
+        },
+        {
+          "word": "know,",
+          "start": 490.92,
+          "end": 491.1
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 491.1,
+      "end": 498.12,
+      "text": "be able to actually like work in it and be productive and allocate one's time to pursuits that these how",
+      "n_words": 20,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "be",
+          "start": 491.1,
+          "end": 491.78
+        },
+        {
+          "word": "able",
+          "start": 491.78,
+          "end": 492.6
+        },
+        {
+          "word": "to",
+          "start": 492.6,
+          "end": 492.8
+        },
+        {
+          "word": "actually",
+          "start": 492.8,
+          "end": 493.12
+        },
+        {
+          "word": "like",
+          "start": 493.12,
+          "end": 493.32
+        },
+        {
+          "word": "work",
+          "start": 493.32,
+          "end": 493.68
+        },
+        {
+          "word": "in",
+          "start": 493.68,
+          "end": 493.92
+        },
+        {
+          "word": "it",
+          "start": 493.92,
+          "end": 494.1
+        },
+        {
+          "word": "and",
+          "start": 494.1,
+          "end": 494.38
+        },
+        {
+          "word": "be",
+          "start": 494.38,
+          "end": 494.58
+        },
+        {
+          "word": "productive",
+          "start": 494.58,
+          "end": 495.06
+        },
+        {
+          "word": "and",
+          "start": 495.06,
+          "end": 495.32
+        },
+        {
+          "word": "allocate",
+          "start": 495.32,
+          "end": 495.76
+        },
+        {
+          "word": "one's",
+          "start": 495.76,
+          "end": 496.16
+        },
+        {
+          "word": "time",
+          "start": 496.16,
+          "end": 496.44
+        },
+        {
+          "word": "to",
+          "start": 496.44,
+          "end": 497.04
+        },
+        {
+          "word": "pursuits",
+          "start": 497.04,
+          "end": 497.4
+        },
+        {
+          "word": "that",
+          "start": 497.4,
+          "end": 497.62
+        },
+        {
+          "word": "these",
+          "start": 497.62,
+          "end": 497.8
+        },
+        {
+          "word": "how",
+          "start": 497.8,
+          "end": 498.12
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 498.12,
+      "end": 504.1,
+      "text": "can billions of people when the productivity goes up in that manner, what will be the use case for billions of people in the world?",
+      "n_words": 25,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "can",
+          "start": 498.12,
+          "end": 498.42
+        },
+        {
+          "word": "billions",
+          "start": 498.42,
+          "end": 498.68
+        },
+        {
+          "word": "of",
+          "start": 498.68,
+          "end": 499.02
+        },
+        {
+          "word": "people",
+          "start": 499.02,
+          "end": 499.36
+        },
+        {
+          "word": "when",
+          "start": 499.36,
+          "end": 499.58
+        },
+        {
+          "word": "the",
+          "start": 499.58,
+          "end": 499.72
+        },
+        {
+          "word": "productivity",
+          "start": 499.72,
+          "end": 500.16
+        },
+        {
+          "word": "goes",
+          "start": 500.16,
+          "end": 500.54
+        },
+        {
+          "word": "up",
+          "start": 500.54,
+          "end": 500.78
+        },
+        {
+          "word": "in",
+          "start": 500.78,
+          "end": 500.92
+        },
+        {
+          "word": "that",
+          "start": 500.92,
+          "end": 501.12
+        },
+        {
+          "word": "manner,",
+          "start": 501.12,
+          "end": 501.42
+        },
+        {
+          "word": "what",
+          "start": 501.42,
+          "end": 501.7
+        },
+        {
+          "word": "will",
+          "start": 501.7,
+          "end": 501.86
+        },
+        {
+          "word": "be",
+          "start": 501.86,
+          "end": 501.98
+        },
+        {
+          "word": "the",
+          "start": 501.98,
+          "end": 502.12
+        },
+        {
+          "word": "use",
+          "start": 502.12,
+          "end": 502.36
+        },
+        {
+          "word": "case",
+          "start": 502.36,
+          "end": 502.58
+        },
+        {
+          "word": "for",
+          "start": 502.58,
+          "end": 502.82
+        },
+        {
+          "word": "billions",
+          "start": 502.82,
+          "end": 503.1
+        },
+        {
+          "word": "of",
+          "start": 503.1,
+          "end": 503.36
+        },
+        {
+          "word": "people",
+          "start": 503.36,
+          "end": 503.58
+        },
+        {
+          "word": "in",
+          "start": 503.58,
+          "end": 503.76
+        },
+        {
+          "word": "the",
+          "start": 503.76,
+          "end": 503.86
+        },
+        {
+          "word": "world?",
+          "start": 503.86,
+          "end": 504.1
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 504.26,
+      "end": 563.35,
+      "text": "Well, I think that was the same arguing at the agrarian revolution. And we found things. And again, I just think that the the odds are if you look at the last two or three meaningful evolutions of humanity through technology, every single time, if you dropped yourself in that moment, you would have not had a precise way to answer that question. Yet, if you took the pessimistic view, you would have been wrong. I think that this is still one of those moments. And so I suspect that again, today, we don't have a good language to talk about how we will all participate. But I suspect that if you take a pessimistic view of the answer to this question, you will turn out to be wrong. So so anyways, back so back to my point is that in all of this, I have some specific views on energy and energy policy and national security. And and so that's where I choose to allocate the smalls and the mediums and larges.",
+      "n_words": 173,
+      "n_low": 1,
+      "words": [
+        {
+          "word": "Well,",
+          "start": 504.26,
+          "end": 504.38
+        },
+        {
+          "word": "I",
+          "start": 504.4,
+          "end": 504.52
+        },
+        {
+          "word": "think",
+          "start": 504.52,
+          "end": 504.64
+        },
+        {
+          "word": "that",
+          "start": 504.64,
+          "end": 504.8
+        },
+        {
+          "word": "was",
+          "start": 504.8,
+          "end": 504.9
+        },
+        {
+          "word": "the",
+          "start": 504.9,
+          "end": 505.0
+        },
+        {
+          "word": "same",
+          "start": 505.0,
+          "end": 505.14
+        },
+        {
+          "word": "arguing",
+          "start": 505.14,
+          "end": 505.44
+        },
+        {
+          "word": "at",
+          "start": 505.44,
+          "end": 505.66
+        },
+        {
+          "word": "the",
+          "start": 505.66,
+          "end": 505.78
+        },
+        {
+          "word": "agrarian",
+          "start": 505.78,
+          "end": 506.4
+        },
+        {
+          "word": "revolution.",
+          "start": 506.4,
+          "end": 506.82
+        },
+        {
+          "word": "And",
+          "start": 507.36,
+          "end": 507.84
+        },
+        {
+          "word": "we",
+          "start": 507.84,
+          "end": 508.02
+        },
+        {
+          "word": "found",
+          "start": 508.02,
+          "end": 508.3
+        },
+        {
+          "word": "things.",
+          "start": 508.3,
+          "end": 508.66
+        },
+        {
+          "word": "And",
+          "start": 509.41,
+          "end": 509.67
+        },
+        {
+          "word": "again,",
+          "start": 509.67,
+          "end": 509.85
+        },
+        {
+          "word": "I",
+          "start": 509.95,
+          "end": 510.07
+        },
+        {
+          "word": "just",
+          "start": 510.07,
+          "end": 510.39
+        },
+        {
+          "word": "think",
+          "start": 510.39,
+          "end": 510.55
+        },
+        {
+          "word": "that",
+          "start": 510.55,
+          "end": 510.73
+        },
+        {
+          "word": "the",
+          "start": 510.73,
+          "end": 510.95
+        },
+        {
+          "word": "the",
+          "start": 510.95,
+          "end": 511.27
+        },
+        {
+          "word": "odds",
+          "start": 511.27,
+          "end": 511.77
+        },
+        {
+          "word": "are",
+          "start": 511.77,
+          "end": 512.17
+        },
+        {
+          "word": "if",
+          "start": 512.17,
+          "end": 513.11
+        },
+        {
+          "word": "you",
+          "start": 513.11,
+          "end": 513.21
+        },
+        {
+          "word": "look",
+          "start": 513.21,
+          "end": 513.31
+        },
+        {
+          "word": "at",
+          "start": 513.31,
+          "end": 513.43
+        },
+        {
+          "word": "the",
+          "start": 513.43,
+          "end": 513.53
+        },
+        {
+          "word": "last",
+          "start": 513.53,
+          "end": 513.91
+        },
+        {
+          "word": "two",
+          "start": 513.91,
+          "end": 514.73
+        },
+        {
+          "word": "or",
+          "start": 514.73,
+          "end": 514.85
+        },
+        {
+          "word": "three",
+          "start": 514.85,
+          "end": 515.19
+        },
+        {
+          "word": "meaningful",
+          "start": 515.19,
+          "end": 515.81
+        },
+        {
+          "word": "evolutions",
+          "start": 515.81,
+          "end": 516.55
+        },
+        {
+          "word": "of",
+          "start": 516.55,
+          "end": 517.43
+        },
+        {
+          "word": "humanity",
+          "start": 517.43,
+          "end": 518.05
+        },
+        {
+          "word": "through",
+          "start": 518.57,
+          "end": 518.83
+        },
+        {
+          "word": "technology,",
+          "start": 518.83,
+          "end": 519.41
+        },
+        {
+          "word": "every",
+          "start": 519.57,
+          "end": 520.43
+        },
+        {
+          "word": "single",
+          "start": 520.43,
+          "end": 520.75
+        },
+        {
+          "word": "time,",
+          "start": 520.75,
+          "end": 521.15
+        },
+        {
+          "word": "if",
+          "start": 521.86,
+          "end": 522.38
+        },
+        {
+          "word": "you",
+          "start": 522.38,
+          "end": 522.52
+        },
+        {
+          "word": "dropped",
+          "start": 522.52,
+          "end": 522.8
+        },
+        {
+          "word": "yourself",
+          "start": 522.8,
+          "end": 523.1
+        },
+        {
+          "word": "in",
+          "start": 523.1,
+          "end": 523.34
+        },
+        {
+          "word": "that",
+          "start": 523.34,
+          "end": 523.48
+        },
+        {
+          "word": "moment,",
+          "start": 523.48,
+          "end": 523.8
+        },
+        {
+          "word": "you",
+          "start": 524.42,
+          "end": 524.68
+        },
+        {
+          "word": "would",
+          "start": 524.68,
+          "end": 524.82
+        },
+        {
+          "word": "have",
+          "start": 524.82,
+          "end": 524.92
+        },
+        {
+          "word": "not",
+          "start": 524.92,
+          "end": 525.18
+        },
+        {
+          "word": "had",
+          "start": 525.18,
+          "end": 525.44
+        },
+        {
+          "word": "a",
+          "start": 525.44,
+          "end": 525.54
+        },
+        {
+          "word": "precise",
+          "start": 525.54,
+          "end": 525.82
+        },
+        {
+          "word": "way",
+          "start": 525.82,
+          "end": 526.08
+        },
+        {
+          "word": "to",
+          "start": 526.08,
+          "end": 526.18
+        },
+        {
+          "word": "answer",
+          "start": 526.18,
+          "end": 526.4
+        },
+        {
+          "word": "that",
+          "start": 526.4,
+          "end": 526.62
+        },
+        {
+          "word": "question.",
+          "start": 526.62,
+          "end": 527.0
+        },
+        {
+          "word": "Yet,",
+          "start": 527.42,
+          "end": 527.94
+        },
+        {
+          "word": "if",
+          "start": 528.08,
+          "end": 528.42
+        },
+        {
+          "word": "you",
+          "start": 528.42,
+          "end": 528.54
+        },
+        {
+          "word": "took",
+          "start": 528.54,
+          "end": 528.74
+        },
+        {
+          "word": "the",
+          "start": 528.74,
+          "end": 528.88
+        },
+        {
+          "word": "pessimistic",
+          "start": 528.88,
+          "end": 529.44
+        },
+        {
+          "word": "view,",
+          "start": 529.44,
+          "end": 529.74
+        },
+        {
+          "word": "you",
+          "start": 529.8,
+          "end": 529.94
+        },
+        {
+          "word": "would",
+          "start": 529.94,
+          "end": 530.04
+        },
+        {
+          "word": "have",
+          "start": 530.04,
+          "end": 530.12
+        },
+        {
+          "word": "been",
+          "start": 530.12,
+          "end": 530.26
+        },
+        {
+          "word": "wrong.",
+          "start": 530.26,
+          "end": 530.48
+        },
+        {
+          "word": "I",
+          "start": 531.46,
+          "end": 531.98
+        },
+        {
+          "word": "think",
+          "start": 531.98,
+          "end": 532.24
+        },
+        {
+          "word": "that",
+          "start": 532.24,
+          "end": 532.46
+        },
+        {
+          "word": "this",
+          "start": 532.46,
+          "end": 532.66
+        },
+        {
+          "word": "is",
+          "start": 532.66,
+          "end": 532.82
+        },
+        {
+          "word": "still",
+          "start": 532.82,
+          "end": 533.12
+        },
+        {
+          "word": "one",
+          "start": 533.12,
+          "end": 533.42
+        },
+        {
+          "word": "of",
+          "start": 533.42,
+          "end": 533.54
+        },
+        {
+          "word": "those",
+          "start": 533.54,
+          "end": 533.76
+        },
+        {
+          "word": "moments.",
+          "start": 533.76,
+          "end": 534.16
+        },
+        {
+          "word": "And",
+          "start": 535.05,
+          "end": 535.45
+        },
+        {
+          "word": "so",
+          "start": 535.45,
+          "end": 535.71
+        },
+        {
+          "word": "I",
+          "start": 535.71,
+          "end": 535.99
+        },
+        {
+          "word": "suspect",
+          "start": 535.99,
+          "end": 536.61
+        },
+        {
+          "word": "that",
+          "start": 536.61,
+          "end": 537.09
+        },
+        {
+          "word": "again,",
+          "start": 537.09,
+          "end": 537.95
+        },
+        {
+          "word": "today,",
+          "start": 538.15,
+          "end": 538.23
+        },
+        {
+          "word": "we",
+          "start": 538.23,
+          "end": 538.45
+        },
+        {
+          "word": "don't",
+          "start": 538.45,
+          "end": 538.65
+        },
+        {
+          "word": "have",
+          "start": 538.65,
+          "end": 538.79
+        },
+        {
+          "word": "a",
+          "start": 538.79,
+          "end": 538.89
+        },
+        {
+          "word": "good",
+          "start": 538.89,
+          "end": 539.01
+        },
+        {
+          "word": "language",
+          "start": 539.01,
+          "end": 539.45
+        },
+        {
+          "word": "to",
+          "start": 539.45,
+          "end": 539.69
+        },
+        {
+          "word": "talk",
+          "start": 539.69,
+          "end": 539.87
+        },
+        {
+          "word": "about",
+          "start": 539.87,
+          "end": 540.05
+        },
+        {
+          "word": "how",
+          "start": 540.05,
+          "end": 540.23
+        },
+        {
+          "word": "we",
+          "start": 540.23,
+          "end": 540.43
+        },
+        {
+          "word": "will",
+          "start": 540.43,
+          "end": 540.59
+        },
+        {
+          "word": "all",
+          "start": 540.59,
+          "end": 540.73
+        },
+        {
+          "word": "participate.",
+          "start": 540.73,
+          "end": 541.21
+        },
+        {
+          "word": "But",
+          "start": 541.83,
+          "end": 542.21
+        },
+        {
+          "word": "I",
+          "start": 542.21,
+          "end": 542.31
+        },
+        {
+          "word": "suspect",
+          "start": 542.31,
+          "end": 542.57
+        },
+        {
+          "word": "that",
+          "start": 542.57,
+          "end": 542.91
+        },
+        {
+          "word": "if",
+          "start": 542.91,
+          "end": 543.09
+        },
+        {
+          "word": "you",
+          "start": 543.09,
+          "end": 543.19
+        },
+        {
+          "word": "take",
+          "start": 543.19,
+          "end": 543.35
+        },
+        {
+          "word": "a",
+          "start": 543.35,
+          "end": 543.51
+        },
+        {
+          "word": "pessimistic",
+          "start": 543.51,
+          "end": 544.11
+        },
+        {
+          "word": "view",
+          "start": 544.11,
+          "end": 544.43
+        },
+        {
+          "word": "of",
+          "start": 544.43,
+          "end": 544.59
+        },
+        {
+          "word": "the",
+          "start": 544.59,
+          "end": 544.67
+        },
+        {
+          "word": "answer",
+          "start": 544.67,
+          "end": 544.97
+        },
+        {
+          "word": "to",
+          "start": 544.97,
+          "end": 545.13
+        },
+        {
+          "word": "this",
+          "start": 545.13,
+          "end": 545.23
+        },
+        {
+          "word": "question,",
+          "start": 545.23,
+          "end": 545.49
+        },
+        {
+          "word": "you",
+          "start": 545.59,
+          "end": 545.79
+        },
+        {
+          "word": "will",
+          "start": 545.79,
+          "end": 545.91
+        },
+        {
+          "word": "turn",
+          "start": 545.91,
+          "end": 546.11
+        },
+        {
+          "word": "out",
+          "start": 546.11,
+          "end": 546.23
+        },
+        {
+          "word": "to",
+          "start": 546.23,
+          "end": 546.33
+        },
+        {
+          "word": "be",
+          "start": 546.33,
+          "end": 546.43
+        },
+        {
+          "word": "wrong.",
+          "start": 546.43,
+          "end": 546.69
+        },
+        {
+          "word": "So",
+          "start": 548.21,
+          "end": 548.59
+        },
+        {
+          "word": "so",
+          "start": 549.14,
+          "end": 549.52
+        },
+        {
+          "word": "anyways,",
+          "start": 549.52,
+          "end": 549.78
+        },
+        {
+          "word": "back",
+          "start": 549.96,
+          "end": 550.08
+        },
+        {
+          "word": "so",
+          "start": 550.08,
+          "end": 550.32
+        },
+        {
+          "word": "back",
+          "start": 550.32,
+          "end": 550.5
+        },
+        {
+          "word": "to",
+          "start": 550.5,
+          "end": 550.6
+        },
+        {
+          "word": "my",
+          "start": 550.6,
+          "end": 550.94
+        },
+        {
+          "word": "point",
+          "start": 550.94,
+          "end": 551.4
+        },
+        {
+          "word": "is",
+          "start": 551.4,
+          "end": 551.58
+        },
+        {
+          "word": "that",
+          "start": 551.58,
+          "end": 551.8
+        },
+        {
+          "word": "in",
+          "start": 551.8,
+          "end": 552.06
+        },
+        {
+          "word": "all",
+          "start": 552.06,
+          "end": 552.46
+        },
+        {
+          "word": "of",
+          "start": 552.46,
+          "end": 552.56
+        },
+        {
+          "word": "this,",
+          "start": 552.56,
+          "end": 552.7
+        },
+        {
+          "word": "I",
+          "start": 552.72,
+          "end": 552.84
+        },
+        {
+          "word": "have",
+          "start": 552.84,
+          "end": 552.94
+        },
+        {
+          "word": "some",
+          "start": 552.94,
+          "end": 553.04
+        },
+        {
+          "word": "specific",
+          "start": 553.04,
+          "end": 553.58
+        },
+        {
+          "word": "views",
+          "start": 553.58,
+          "end": 554.0
+        },
+        {
+          "word": "on",
+          "start": 554.0,
+          "end": 554.34
+        },
+        {
+          "word": "energy",
+          "start": 554.34,
+          "end": 555.26
+        },
+        {
+          "word": "and",
+          "start": 555.26,
+          "end": 555.52
+        },
+        {
+          "word": "energy",
+          "start": 555.52,
+          "end": 555.8
+        },
+        {
+          "word": "policy",
+          "start": 555.8,
+          "end": 556.24
+        },
+        {
+          "word": "and",
+          "start": 556.24,
+          "end": 556.48
+        },
+        {
+          "word": "national",
+          "start": 556.48,
+          "end": 556.78
+        },
+        {
+          "word": "security.",
+          "start": 556.78,
+          "end": 557.22
+        },
+        {
+          "word": "And",
+          "start": 557.5,
+          "end": 557.5
+        },
+        {
+          "word": "and",
+          "start": 557.5,
+          "end": 558.0
+        },
+        {
+          "word": "so",
+          "start": 558.0,
+          "end": 558.22
+        },
+        {
+          "word": "that's",
+          "start": 558.31,
+          "end": 559.41
+        },
+        {
+          "word": "where",
+          "start": 559.41,
+          "end": 559.53
+        },
+        {
+          "word": "I",
+          "start": 559.53,
+          "end": 559.67
+        },
+        {
+          "word": "choose",
+          "start": 559.67,
+          "end": 559.85
+        },
+        {
+          "word": "to",
+          "start": 559.85,
+          "end": 560.01
+        },
+        {
+          "word": "allocate",
+          "start": 560.01,
+          "end": 560.53
+        },
+        {
+          "word": "the",
+          "start": 560.53,
+          "end": 561.23
+        },
+        {
+          "word": "smalls",
+          "start": 561.23,
+          "end": 562.35
+        },
+        {
+          "word": "and",
+          "start": 562.35,
+          "end": 562.43
+        },
+        {
+          "word": "the",
+          "start": 562.43,
+          "end": 562.55
+        },
+        {
+          "word": "mediums",
+          "start": 562.55,
+          "end": 562.93
+        },
+        {
+          "word": "and",
+          "start": 562.93,
+          "end": 563.01
+        },
+        {
+          "word": "larges.",
+          "start": 563.01,
+          "end": 563.35
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 563.69,
+      "end": 563.85,
+      "text": "Right.",
+      "n_words": 1,
+      "n_low": 0,
+      "words": [
+        {
+          "word": "Right.",
+          "start": 563.69,
+          "end": 563.85
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 564.01,
+      "end": 572.37,
+      "text": "But for somebody else, it could be biotech. It could be, you know, cancer research, it could be enterprise SaaS. It doesn't it doesn't matter at that point. Right.",
+      "n_words": 29,
+      "n_low": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 564.01,
+          "end": 564.11
+        },
+        {
+          "word": "for",
+          "start": 564.11,
+          "end": 564.27
+        },
+        {
+          "word": "somebody",
+          "start": 564.27,
+          "end": 564.55
+        },
+        {
+          "word": "else,",
+          "start": 564.55,
+          "end": 564.75
+        },
+        {
+          "word": "it",
+          "start": 564.81,
+          "end": 564.89
+        },
+        {
+          "word": "could",
+          "start": 564.89,
+          "end": 565.03
+        },
+        {
+          "word": "be",
+          "start": 565.03,
+          "end": 565.21
+        },
+        {
+          "word": "biotech.",
+          "start": 565.21,
+          "end": 565.85
+        },
+        {
+          "word": "It",
+          "start": 565.97,
+          "end": 565.97
+        },
+        {
+          "word": "could",
+          "start": 565.97,
+          "end": 566.09
+        },
+        {
+          "word": "be,",
+          "start": 566.09,
+          "end": 566.43
+        },
+        {
+          "word": "you",
+          "start": 566.43,
+          "end": 566.95
+        },
+        {
+          "word": "know,",
+          "start": 566.95,
+          "end": 567.05
+        },
+        {
+          "word": "cancer",
+          "start": 567.09,
+          "end": 567.35
+        },
+        {
+          "word": "research,",
+          "start": 567.35,
+          "end": 567.81
+        },
+        {
+          "word": "it",
+          "start": 568.07,
+          "end": 568.07
+        },
+        {
+          "word": "could",
+          "start": 568.07,
+          "end": 568.21
+        },
+        {
+          "word": "be",
+          "start": 568.21,
+          "end": 568.55
+        },
+        {
+          "word": "enterprise",
+          "start": 568.55,
+          "end": 569.65
+        },
+        {
+          "word": "SaaS.",
+          "start": 569.65,
+          "end": 570.07
+        },
+        {
+          "word": "It",
+          "start": 570.41,
+          "end": 570.47
+        },
+        {
+          "word": "doesn't",
+          "start": 570.47,
+          "end": 570.85
+        },
+        {
+          "word": "it",
+          "start": 570.85,
+          "end": 570.87
+        },
+        {
+          "word": "doesn't",
+          "start": 570.87,
+          "end": 571.19
+        },
+        {
+          "word": "matter",
+          "start": 571.19,
+          "end": 571.41
+        },
+        {
+          "word": "at",
+          "start": 571.41,
+          "end": 571.57
+        },
+        {
+          "word": "that",
+          "start": 571.57,
+          "end": 571.65
+        },
+        {
+          "word": "point.",
+          "start": 571.65,
+          "end": 571.85
+        },
+        {
+          "word": "Right.",
+          "start": 572.17,
+          "end": 572.37
+        }
+      ]
+    }
+  ]
+}

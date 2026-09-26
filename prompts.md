@@ -56,8 +56,6 @@ Agent questions before writing:
 
 Output: Python file. Drops backchannel-only turns, packs whole sentences up to 80 words, merges < 20 words into a same-speaker neighbour, embed_text = question context + text.
 
-Suggestion from agent: backchannel list also has okay / yes / oh / wow. A merged chunk can go above 80 words (max 90), but always capped so embed_text <= 180. A sentence > 80 words gets hard cut (none in this data).
-
 Result: 95 chunks, max embed_text 115 words. 8 small chunks kept (short questions with no same-speaker neighbour).
 
 Verdict: Accepted.
@@ -66,11 +64,7 @@ Verdict: Accepted.
 My input: Start ingest.py
 Output: schema.sql + ingest.py. Embeds embed_text with MiniLM, stores clean text. Schema + TRUNCATE RESTART IDENTITY + inserts in one transaction.
 
-Suggestion from agent: use pgvector python package (register_vector) instead of text literals, because I kept pgvector in requirements.txt. Schema creates the vector extension itself. DATABASE_URL from .env, default is the docker one on port 5434.
-
 Result: 95 rows, word count matches align output, re-run gives same table (ids 1-95).
-
-Verdict: Accepted.
 
 # 7
 My input: Start search.py
@@ -81,23 +75,24 @@ Suggestion from agent: websearch_to_tsquery ANDs every word. "why is going back 
 Decision: keep AND for now, decide after eval gives numbers.
 
 # 8
-My input: golden notes are in audio_notes folder. I think it needs speaker also, and recall@k needs multiple time spans in golden.json right? Explain first.
+My input: Start eval.py. Result should be written in a results folder, with result_<timestamp> as filename. It should have tables for better reading.
+Output: eval.py. Loads model + connection once, runs all 3 modes for every golden query, writes results/result_<timestamp>.md with tables: success criteria, summary by query type, per query (R@5 + first hit rank per mode).
 
+Result (30 queries): lexical 0.92 PASS, semantic 0.71 PASS, mixed "hybrid beats both" FAIL - vector was already 1.00 on mixed, hybrid can only tie. Keyword returned 0 results for 15 of 30 queries.
+
+Verdict: Accepted.
+
+# 9
+My question: R@5 for "amazon robotics" is 1 because it is a 2 second chunk and it comes in top k? And 0 in vector because that timestamp didn't come in top k?
+Agent answer: The 2 seconds is the golden span, not the chunk. Chunk 2 (13.5s-32.45s, 71 words) overlaps the span. Keyword ranked it 1 -> R@5 1.00. Vector ranked it 9, outside top 5 -> 0.00. Hybrid (RRF of rank 1 + rank 9) put it at 2 -> 1.00. R@5 = share of the query's spans found in top 5, so a 2-span query can get 0.50.
+
+# 10
+My input: golden dataset is very basic. Amazon robotics is present multiple times but only one timestamp marked. And recall@5 doesn't make sense if it is either 1 or 0 for one timestamp?
 Agent answer:
-- Speaker: no. SPEAKER_00 / 01 are arbitrary per file per run, can swap on re-diarize. And a diarization error would show as a search miss.
-- File: yes, missing. Design relevance rule doesn't check file, 01:20 in one file would match 01:20 in another. Every span needs file.
-- Multiple spans: yes. Recall counted per span (span hit if any top-k chunk overlaps it), not per chunk. MRR = 1 / rank of first chunk overlapping any span.
-- Notes problems: m.ss format, two spans with end < start, duplicate query as both LEXICAL and SEMANTIC, nasa span at 10:04 but audio is 10:00, no MIXED queries.
+- "Amazon Robotics" phrase is said once (0:31), but the Amazon robotic facility story (2:58-3:49) was missed. Golden only marked exact phrases, not where the topic is discussed.
+- Yes, with one span R@5 is just found / not found. Also any overlap counts, not complete overlap, so a 1 second span is easy to hit with ~30 second chunks.
+- Proposed: 1) label every relevant moment, 2) one rule: a span is any moment a listener searching this would want to land on, question + its answer is one moment, 3) harder queries where the words appear in the wrong file, 4) optional graded relevance (nDCG).
 
-My input: correct the notes using transcription and diarized json as reference, and build golden.json.
-Output: golden.json, 30 queries (12 lexical, 11 mixed, 7 semantic), times in seconds, file on each span, every change written in a "note" field.
-- Fixed spans from word timings, added missed mentions (Boston Consulting Group 0:34, Artemis 2 program, reciprocity 4:05).
-- Dropped "Discovery shuttle controversy" (outside the audio).
-- 11 SEMANTIC queries relabelled mixed, because their words are said word-for-word in the span.
-- Added 4 new semantic (paraphrase) queries, only 3 were left.
-
-Agent found 2 transcription issues:
-- "paralinguistics" was transcribed as "parallel linguistics" -> keyword search can't find it. Kept in golden as a real ASR failure.
-- Whisper splits "4.5%" into "4" ".5" "%" (also helium-3, C-suite, U.S.). transcribe.py stripped whisper's leading spaces, align.py joins with spaces, so chunk text is "4 .5 %". Option A: glue these in align.py. Option B: keep leading spaces in transcribe.py and re-transcribe. Agent recommends A.
-
-Decision: pending.
+Decision: 1 to 3 agreed. No graded relevance.
+Output: golden.json rebuilt, 37 queries, 63 spans, every span has a "why" field. 7 new harder queries (leadership experience vs American leadership in space, launch delay, commercial partners vs BCG partners, etc.).
+Result: lexical 0.90, semantic 0.78, mixed 0.81 (hybrid ties vector). Multi-span queries now show hybrid gaining, e.g. "Artemis program" keyword 0.67, vector 0.67, hybrid 1.00.

@@ -68,19 +68,27 @@ def print_speaker_totals(turns):
         print(f"  {speaker}: {seconds:7.1f}s ({share:4.1f}%)")
 
 
-def main():
+def load_pipeline():
     load_dotenv()
     token = os.getenv("HF_TOKEN")
     if not token:
-        raise SystemExit("HF_TOKEN not set. Add it to .env")
+        raise SystemExit(
+            "HF_TOKEN not set. Add HF_TOKEN=hf_... to .env and accept the model terms at "
+            f"https://huggingface.co/{MODEL_ID}"
+        )
+    print(f"loading {MODEL_ID}")
+    return Pipeline.from_pretrained(MODEL_ID, token=token)
 
+
+def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     wav_paths = sorted(AUDIO_DIR.glob("*.wav"))
     if not wav_paths:
         print(f"No .wav files in {AUDIO_DIR}/")
         return
 
-    pipeline = None  # load lazily, only if there is work to do
+    # Load lazily: the token is only needed if some file still needs diarizing.
+    pipeline = None
     for wav_path in wav_paths:
         out_path = OUT_DIR / f"{wav_path.stem}.json"
         if out_path.exists():
@@ -88,8 +96,7 @@ def main():
             continue
 
         if pipeline is None:
-            print(f"loading {MODEL_ID}")
-            pipeline = Pipeline.from_pretrained(MODEL_ID, token=token)
+            pipeline = load_pipeline()
 
         print(f"diarizing {wav_path.name}")
         t0 = time.time()

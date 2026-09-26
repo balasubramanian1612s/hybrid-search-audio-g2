@@ -120,9 +120,31 @@ Latest run: [results/result_20260926_145727.md](results/result_20260926_145727.m
 
 ### Prerequisites
 - Python 3.11
-- Docker, for Postgres with pgvector
-- ffmpeg, to convert audio (`brew install ffmpeg` on macOS)
-- A Hugging Face account that has accepted the terms of [pyannote/speaker-diarization-community-1](https://huggingface.co/pyannote/speaker-diarization-community-1). Only `diarize.py` needs this.
+- Docker, running, for Postgres with pgvector
+- ffmpeg, to convert audio (`brew install ffmpeg` on macOS). Only needed if `audio/` is missing wav files.
+- A Hugging Face token (`HF_TOKEN` in `.env`) for an account that has accepted the terms of [pyannote/speaker-diarization-community-1](https://huggingface.co/pyannote/speaker-diarization-community-1). Only needed if `data/diarization/` is missing a file.
+
+### Quick start: one command
+```bash
+git clone <repo-url> && cd hybrid-search-audio-g2
+./init.sh
+```
+[init.sh](init.sh) does everything, in this order:
+1. checks the prerequisites
+2. creates `.venv` and installs the requirements
+3. starts Postgres in Docker on port 5434
+4. converts any missing audio
+5. runs the pipeline, skipping transcription and diarization for files already in `data/`
+6. runs the eval
+7. runs the tests
+8. runs a demo search
+
+It is safe to re-run. When it finishes, search with:
+```bash
+.venv/bin/python pipeline/search.py "your query" -k 5
+```
+
+The steps below do the same thing by hand.
 
 ### 1. Install
 ```bash
@@ -192,6 +214,7 @@ audio_notes/    first hand-written notes the golden set started from
 data/           output of each stage (transcripts, diarization, turns, chunks)
 pipeline/       the 7 stage scripts + schema.sql
 tests/          pytest unit tests
+init.sh         one-command setup and run
 golden.json     labelled evaluation queries
 results/        eval reports
 design.md       system spec

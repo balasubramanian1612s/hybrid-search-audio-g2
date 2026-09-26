@@ -18,6 +18,8 @@ $ python pipeline/search.py "Artemis program" -k 3
 
 `kw` and `vec` show where each result ranked in the keyword and vector searches, with `-` meaning that search didn't return it. Result 2 was ranked 12th by vector search and result 3 was never found by keyword search. Hybrid ranks both in the top 3.
 
+> **Submission write-up:** [SUBMISSION.md](SUBMISSION.md) covers the design and rationale, success criteria, results, limitations, how this would scale, production metrics, and how the coding agent was used.
+
 ---
 
 ## How it works

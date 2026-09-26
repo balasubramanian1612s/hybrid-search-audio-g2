@@ -52,6 +52,10 @@ HSNW index for pgvector
 Need to have 3 types of search, keyword, semantic, hybrid (keyword + semantic)
 Gets the query, searches and gives me the top 10 with the ranks.
 
+For hybrid search using Reciprocal Rank Fusion (RRF)
+
+Rationale: The semantic search and lexical search has its own parameter, and output. it is not related to each other. Hence to normalize and give priority to both using RRF.
+
 7. eval
 
 Evaluation based on Recall@K again dataset

@@ -1,0 +1,9 @@
+SEMANTIC "What is the strategy to make people tell more things" 0.8 to  0.21
+LEXICAL  "miranda rights" 1.00 to 1.02
+SEMANTIC "What is autonomy" 0.22 to 2.00
+LEXICAL "reciprocity strategy" 2.07 to 2.10
+SEMANTIC "How is reciprocity related to goodness" 2.20 to 3.20
+LEXICAL "how to make yourself an authority" 4.24 to 4.28
+SEMANTIC "how to make yourself an authority" 4.29 to 2.37
+LEXICAL "what is paralinguistics" 4.55 to 4.48
+SEMANTIC "how to appear authoritative" 5.32 to 5.50

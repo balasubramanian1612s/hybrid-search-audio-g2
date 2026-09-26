@@ -1,0 +1,7 @@
+faster-whisper
+pyannote.audio>=4.0
+sentence-transformers
+"psycopg[binary]" pgvector
+python-dotenv
+pytest
+numpy

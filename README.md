@@ -75,7 +75,7 @@ The full spec is in [design.md](design.md). Every decision made while building i
 
 **Labelling rules:**
 - A span is any moment a listener searching this query would want to land on.
-- Every such moment is labelled; 32 queries have 2 to 4 spans.
+- Every such moment is labelled; 34 queries have between 2 and 8 spans.
 - A question and its immediate answer count as one moment.
 - Some queries are traps with a correct answer in only one file. For example, "leadership experience" (behavioral) shares a word with "American leadership in space" (nasa).
 
@@ -148,7 +148,7 @@ DATABASE_URL=postgresql://postgres:postgres@localhost:5434/postgres
 ```
 
 ### 4. Add audio
-Put 16 kHz mono `.wav` files in `audio/`. To convert an mp3:
+Put 16 kHz mono `.wav` files in `audio/`. To convert an mp3 (`-t 600` keeps the first 10 minutes):
 ```bash
 ffmpeg -i raw_audio/nasa_interview.mp3 -t 600 -ac 1 -ar 16000 audio/nasa_interview.wav
 ```

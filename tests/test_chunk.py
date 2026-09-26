@@ -1,4 +1,4 @@
-from chunk import chunk, is_backchannel, merge_small, split_turn
+from chunk import TARGET_MAX, chunk, is_backchannel, merge_small, split_turn
 
 
 def make_words(text, start=0.0, step=0.5):
@@ -55,7 +55,9 @@ def test_merge_small_falls_forward_then_keeps_if_alone():
 
 def test_chunk_end_to_end():
     question = "Why is the moon so important to us?"
-    answer = " ".join([sentence(50, "a"), sentence(50, "b")])
+    # two sentences that together exceed TARGET_MAX, so they must split
+    half = TARGET_MAX // 2 + 5
+    answer = " ".join([sentence(half, "a"), sentence(half, "b")])
     turns_data = {
         "file": "x.wav",
         "turns": [
@@ -67,8 +69,8 @@ def test_chunk_end_to_end():
     chunks = chunk(turns_data)
 
     # question kept alone (no same-speaker neighbour), backchannel dropped,
-    # 100-word answer split into two 50-word chunks
-    assert [(c["speaker"], c["n_words"]) for c in chunks] == [("A", 8), ("B", 50), ("B", 50)]
+    # answer split into two chunks at the sentence boundary
+    assert [(c["speaker"], c["n_words"]) for c in chunks] == [("A", 8), ("B", half), ("B", half)]
 
     # both answer chunks carry the question as context; text stays clean
     for c in chunks[1:]:
@@ -76,6 +78,6 @@ def test_chunk_end_to_end():
         assert question not in c["text"]
     assert chunks[0]["embed_text"] == question
 
-    # exact times from word timings: second answer chunk starts at word 50
+    # exact times from word timings: second answer chunk starts at word `half`
     assert chunks[1]["start_ms"] == 10000
-    assert chunks[2]["start_ms"] == 10000 + 50 * 500
+    assert chunks[2]["start_ms"] == 10000 + half * 500

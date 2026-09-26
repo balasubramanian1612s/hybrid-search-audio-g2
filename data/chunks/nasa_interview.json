@@ -31,9 +31,9 @@
     "speaker": "SPEAKER_00",
     "start_ms": 35090,
     "end_ms": 61390,
-    "text": "Yeah. Well, I'll tell you what an exciting start as administrator of NASA. I mean, it's been a week. We've been going near 24 -7, and we have the president's national space policy as guidance. I think it's probably the most significant commitment to American leadership in space since the Kennedy era. Reaffirms our commitment to return to the moon and establish the infrastructure so that we can maintain an enduring presence, basically saying, let's build the moon base.",
-    "n_words": 79,
-    "embed_text": "week. Same day, the president signs the sweeping executive order regarding space. So how does that now lay out the roadmap for NASA moving forward? Yeah. Well, I'll tell you what an exciting start as administrator of NASA. I mean, it's been a week. We've been going near 24 -7, and we have the president's national space policy as guidance. I think it's probably the most significant commitment to American leadership in space since the Kennedy era. Reaffirms our commitment to return to the moon and establish the infrastructure so that we can maintain an enduring presence, basically saying, let's build the moon base."
+    "text": "Yeah. Well, I'll tell you what an exciting start as administrator of NASA. I mean, it's been a week. We've been going near 24-7, and we have the president's national space policy as guidance. I think it's probably the most significant commitment to American leadership in space since the Kennedy era. Reaffirms our commitment to return to the moon and establish the infrastructure so that we can maintain an enduring presence, basically saying, let's build the moon base.",
+    "n_words": 78,
+    "embed_text": "week. Same day, the president signs the sweeping executive order regarding space. So how does that now lay out the roadmap for NASA moving forward? Yeah. Well, I'll tell you what an exciting start as administrator of NASA. I mean, it's been a week. We've been going near 24-7, and we have the president's national space policy as guidance. I think it's probably the most significant commitment to American leadership in space since the Kennedy era. Reaffirms our commitment to return to the moon and establish the infrastructure so that we can maintain an enduring presence, basically saying, let's build the moon base."
   },
   {
     "file": "nasa_interview.wav",
@@ -57,28 +57,19 @@
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 80040,
-    "end_ms": 106040,
-    "text": "That's a really good question. First, I'd say it's fulfilling a promise that presidents have made for 35 years. The American taxpayers have spent over $100 billion to enable America's return to the moon. The president appreciated this position during his first term when he created the Artemis program and said America should return to the moon. And then again, recommitted us to it now, which we will achieve during his term.",
-    "n_words": 72,
-    "embed_text": "Yeah. Why is the moon so important, and why is it so important to start building out infrastructure there, to basically stay there? That's a really good question. First, I'd say it's fulfilling a promise that presidents have made for 35 years. The American taxpayers have spent over $100 billion to enable America's return to the moon. The president appreciated this position during his first term when he created the Artemis program and said America should return to the moon. And then again, recommitted us to it now, which we will achieve during his term."
+    "end_ms": 111180,
+    "text": "That's a really good question. First, I'd say it's fulfilling a promise that presidents have made for 35 years. The American taxpayers have spent over $100 billion to enable America's return to the moon. The president appreciated this position during his first term when he created the Artemis program and said America should return to the moon. And then again, recommitted us to it now, which we will achieve during his term. And then, of course, establishing the infrastructure so we get there, we can stay. And why is that important?",
+    "n_words": 91,
+    "embed_text": "Yeah. Why is the moon so important, and why is it so important to start building out infrastructure there, to basically stay there? That's a really good question. First, I'd say it's fulfilling a promise that presidents have made for 35 years. The American taxpayers have spent over $100 billion to enable America's return to the moon. The president appreciated this position during his first term when he created the Artemis program and said America should return to the moon. And then again, recommitted us to it now, which we will achieve during his term. And then, of course, establishing the infrastructure so we get there, we can stay. And why is that important?"
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 106320,
-    "end_ms": 127200,
-    "text": "And then, of course, establishing the infrastructure so we get there, we can stay. And why is that important? Because we want to have that opportunity to explore and realize the scientific, economic, and national security potential on the moon. We haven't been there in an awful long time. There are certainly a lot of applications. You reference leading up to the show, the commercial space industry.",
-    "n_words": 67,
-    "embed_text": "Yeah. Why is the moon so important, and why is it so important to start building out infrastructure there, to basically stay there? And then, of course, establishing the infrastructure so we get there, we can stay. And why is that important? Because we want to have that opportunity to explore and realize the scientific, economic, and national security potential on the moon. We haven't been there in an awful long time. There are certainly a lot of applications. You reference leading up to the show, the commercial space industry."
-  },
-  {
-    "file": "nasa_interview.wav",
-    "speaker": "SPEAKER_00",
-    "start_ms": 127360,
+    "start_ms": 111540,
     "end_ms": 137100,
-    "text": "You have commercial space companies looking to mine on the moon, potentially extract helium -3. It could be a more efficient source of fusion power someday in the future. This is something we don't want to get wrong.",
-    "n_words": 38,
-    "embed_text": "Yeah. Why is the moon so important, and why is it so important to start building out infrastructure there, to basically stay there? You have commercial space companies looking to mine on the moon, potentially extract helium -3. It could be a more efficient source of fusion power someday in the future. This is something we don't want to get wrong."
+    "text": "Because we want to have that opportunity to explore and realize the scientific, economic, and national security potential on the moon. We haven't been there in an awful long time. There are certainly a lot of applications. You reference leading up to the show, the commercial space industry. You have commercial space companies looking to mine on the moon, potentially extract helium-3. It could be a more efficient source of fusion power someday in the future. This is something we don't want to get wrong.",
+    "n_words": 85,
+    "embed_text": "Yeah. Why is the moon so important, and why is it so important to start building out infrastructure there, to basically stay there? Because we want to have that opportunity to explore and realize the scientific, economic, and national security potential on the moon. We haven't been there in an awful long time. There are certainly a lot of applications. You reference leading up to the show, the commercial space industry. You have commercial space companies looking to mine on the moon, potentially extract helium-3. It could be a more efficient source of fusion power someday in the future. This is something we don't want to get wrong."
   },
   {
     "file": "nasa_interview.wav",
@@ -87,25 +78,25 @@
     "end_ms": 149180,
     "text": "Yeah. So all this raises the questions. Does the NASA budget enable this? And how is partnering and maybe perhaps thinking differently about contracting with commercial space companies going to enable this?",
     "n_words": 32,
-    "embed_text": "helium -3. It could be a more efficient source of fusion power someday in the future. This is something we don't want to get wrong. Yeah. So all this raises the questions. Does the NASA budget enable this? And how is partnering and maybe perhaps thinking differently about contracting with commercial space companies going to enable this?"
+    "embed_text": "extract helium-3. It could be a more efficient source of fusion power someday in the future. This is something we don't want to get wrong. Yeah. So all this raises the questions. Does the NASA budget enable this? And how is partnering and maybe perhaps thinking differently about contracting with commercial space companies going to enable this?"
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 150360,
-    "end_ms": 178680,
-    "text": "Well, I think the taxpayers entrust NASA with an extraordinary budget. In fact, even if you look at the continuing resolution that we've been operating under this year, plus the investments authorized under the Working Family Tax Credit Act, formerly known as the One Big Beautiful Bill, NASA has a substantial budget available. I mean, even if you adjust for inflation, NASA's annual budget is comparable to what the country spent during the entirety of the Manhattan Project.",
-    "n_words": 78,
-    "embed_text": "Does the NASA budget enable this? And how is partnering and maybe perhaps thinking differently about contracting with commercial space companies going to enable this? Well, I think the taxpayers entrust NASA with an extraordinary budget. In fact, even if you look at the continuing resolution that we've been operating under this year, plus the investments authorized under the Working Family Tax Credit Act, formerly known as the One Big Beautiful Bill, NASA has a substantial budget available. I mean, even if you adjust for inflation, NASA's annual budget is comparable to what the country spent during the entirety of the Manhattan Project."
+    "end_ms": 185240,
+    "text": "Well, I think the taxpayers entrust NASA with an extraordinary budget. In fact, even if you look at the continuing resolution that we've been operating under this year, plus the investments authorized under the Working Family Tax Credit Act, formerly known as the One Big Beautiful Bill, NASA has a substantial budget available. I mean, even if you adjust for inflation, NASA's annual budget is comparable to what the country spent during the entirety of the Manhattan Project. We can do some pretty extraordinary things with those resources that are available. I think we can return to the moon.",
+    "n_words": 99,
+    "embed_text": "Does the NASA budget enable this? And how is partnering and maybe perhaps thinking differently about contracting with commercial space companies going to enable this? Well, I think the taxpayers entrust NASA with an extraordinary budget. In fact, even if you look at the continuing resolution that we've been operating under this year, plus the investments authorized under the Working Family Tax Credit Act, formerly known as the One Big Beautiful Bill, NASA has a substantial budget available. I mean, even if you adjust for inflation, NASA's annual budget is comparable to what the country spent during the entirety of the Manhattan Project. We can do some pretty extraordinary things with those resources that are available. I think we can return to the moon."
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 179060,
+    "start_ms": 185340,
     "end_ms": 197780,
-    "text": "We can do some pretty extraordinary things with those resources that are available. I think we can return to the moon. We can establish the infrastructure there. We can make investments into the next giant leap capabilities like nuclear. And we can make investments into our science portfolio as well. So we can endeavor to unlock the secrets of the universe.",
-    "n_words": 61,
-    "embed_text": "Does the NASA budget enable this? And how is partnering and maybe perhaps thinking differently about contracting with commercial space companies going to enable this? We can do some pretty extraordinary things with those resources that are available. I think we can return to the moon. We can establish the infrastructure there. We can make investments into the next giant leap capabilities like nuclear. And we can make investments into our science portfolio as well. So we can endeavor to unlock the secrets of the universe."
+    "text": "We can establish the infrastructure there. We can make investments into the next giant leap capabilities like nuclear. And we can make investments into our science portfolio as well. So we can endeavor to unlock the secrets of the universe.",
+    "n_words": 40,
+    "embed_text": "Does the NASA budget enable this? And how is partnering and maybe perhaps thinking differently about contracting with commercial space companies going to enable this? We can establish the infrastructure there. We can make investments into the next giant leap capabilities like nuclear. And we can make investments into our science portfolio as well. So we can endeavor to unlock the secrets of the universe."
   },
   {
     "file": "nasa_interview.wav",
@@ -120,28 +111,19 @@
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 220500,
-    "end_ms": 238500,
-    "text": "Well, I think that the president certainly appreciates the importance, the national security importance of space. I mean, he created the space force during during his first term. The high ground has always mattered, you know, since the beginning of human history. And space is no different than that. It's the ever expanding high ground.",
-    "n_words": 55,
-    "embed_text": "me earlier this month, he thinks we're actually in a cold war and people just don't even realize it yet. How do you see this? Well, I think that the president certainly appreciates the importance, the national security importance of space. I mean, he created the space force during during his first term. The high ground has always mattered, you know, since the beginning of human history. And space is no different than that. It's the ever expanding high ground."
+    "end_ms": 249700,
+    "text": "Well, I think that the president certainly appreciates the importance, the national security importance of space. I mean, he created the space force during during his first term. The high ground has always mattered, you know, since the beginning of human history. And space is no different than that. It's the ever expanding high ground. What was important to us in low Earth orbit decades ago has moved to medium orbit, high Earth orbit, and now to the moon and beyond. So I think it's vitally important. Competition is a good thing, by the way.",
+    "n_words": 95,
+    "embed_text": "me earlier this month, he thinks we're actually in a cold war and people just don't even realize it yet. How do you see this? Well, I think that the president certainly appreciates the importance, the national security importance of space. I mean, he created the space force during during his first term. The high ground has always mattered, you know, since the beginning of human history. And space is no different than that. It's the ever expanding high ground. What was important to us in low Earth orbit decades ago has moved to medium orbit, high Earth orbit, and now to the moon and beyond. So I think it's vitally important. Competition is a good thing, by the way."
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 238720,
-    "end_ms": 259620,
-    "text": "What was important to us in low Earth orbit decades ago has moved to medium orbit, high Earth orbit, and now to the moon and beyond. So I think it's vitally important. Competition is a good thing, by the way. You know, we it's a good thing amongst our various commercial partners and our international partners that are contributing this grand endeavor. When we go to the moon, we never go alone.",
-    "n_words": 72,
-    "embed_text": "me earlier this month, he thinks we're actually in a cold war and people just don't even realize it yet. How do you see this? What was important to us in low Earth orbit decades ago has moved to medium orbit, high Earth orbit, and now to the moon and beyond. So I think it's vitally important. Competition is a good thing, by the way. You know, we it's a good thing amongst our various commercial partners and our international partners that are contributing this grand endeavor. When we go to the moon, we never go alone."
-  },
-  {
-    "file": "nasa_interview.wav",
-    "speaker": "SPEAKER_00",
-    "start_ms": 259920,
+    "start_ms": 250560,
     "end_ms": 268980,
-    "text": "But it's also, I think, important from a geopolitical perspective. America needs to return to the moon. We need to establish the infrastructure there. And then we need to set our sights even higher.",
-    "n_words": 34,
-    "embed_text": "me earlier this month, he thinks we're actually in a cold war and people just don't even realize it yet. How do you see this? But it's also, I think, important from a geopolitical perspective. America needs to return to the moon. We need to establish the infrastructure there. And then we need to set our sights even higher."
+    "text": "You know, we it's a good thing amongst our various commercial partners and our international partners that are contributing this grand endeavor. When we go to the moon, we never go alone. But it's also, I think, important from a geopolitical perspective. America needs to return to the moon. We need to establish the infrastructure there. And then we need to set our sights even higher.",
+    "n_words": 66,
+    "embed_text": "me earlier this month, he thinks we're actually in a cold war and people just don't even realize it yet. How do you see this? You know, we it's a good thing amongst our various commercial partners and our international partners that are contributing this grand endeavor. When we go to the moon, we never go alone. But it's also, I think, important from a geopolitical perspective. America needs to return to the moon. We need to establish the infrastructure there. And then we need to set our sights even higher."
   },
   {
     "file": "nasa_interview.wav",
@@ -156,37 +138,28 @@
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 284820,
-    "end_ms": 305140,
-    "text": "Well, I'd say first and foremost, you know, the SLS architecture that supports Artemis, you know, is authorized through Artemis 5. Again, under the Working Family Tax Credit Act, the one big beautiful bill. So we've got our architecture to get us around the moon, which will be coming in the very near future. I mean, we're talking weeks, months away under the Artemis 2 program.",
-    "n_words": 66,
-    "embed_text": "3 behind it by 2028. But longer term, what does it mean for things like Boeing's SLS rocket and Lockheed Martin made Orion space capsule? Well, I'd say first and foremost, you know, the SLS architecture that supports Artemis, you know, is authorized through Artemis 5. Again, under the Working Family Tax Credit Act, the one big beautiful bill. So we've got our architecture to get us around the moon, which will be coming in the very near future. I mean, we're talking weeks, months away under the Artemis 2 program."
+    "end_ms": 311360,
+    "text": "Well, I'd say first and foremost, you know, the SLS architecture that supports Artemis, you know, is authorized through Artemis 5. Again, under the Working Family Tax Credit Act, the one big beautiful bill. So we've got our architecture to get us around the moon, which will be coming in the very near future. I mean, we're talking weeks, months away under the Artemis 2 program. We are going to follow that up with Artemis 3, where American astronauts will return to the surface of the moon. And then we have additional vehicles thereafter.",
+    "n_words": 94,
+    "embed_text": "3 behind it by 2028. But longer term, what does it mean for things like Boeing's SLS rocket and Lockheed Martin made Orion space capsule? Well, I'd say first and foremost, you know, the SLS architecture that supports Artemis, you know, is authorized through Artemis 5. Again, under the Working Family Tax Credit Act, the one big beautiful bill. So we've got our architecture to get us around the moon, which will be coming in the very near future. I mean, we're talking weeks, months away under the Artemis 2 program. We are going to follow that up with Artemis 3, where American astronauts will return to the surface of the moon. And then we have additional vehicles thereafter."
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 305140,
-    "end_ms": 326960,
-    "text": "We are going to follow that up with Artemis 3, where American astronauts will return to the surface of the moon. And then we have additional vehicles thereafter. Now, in order to actually land astronauts on the moon, it means our partners along the way, our commercial partners, SpaceX and Blue Origin are the two that are under contract, will have perfected rapid reusability of heavy lift launch vehicles on orbit, cryogenic prop transfer.",
-    "n_words": 74,
-    "embed_text": "3 behind it by 2028. But longer term, what does it mean for things like Boeing's SLS rocket and Lockheed Martin made Orion space capsule? We are going to follow that up with Artemis 3, where American astronauts will return to the surface of the moon. And then we have additional vehicles thereafter. Now, in order to actually land astronauts on the moon, it means our partners along the way, our commercial partners, SpaceX and Blue Origin are the two that are under contract, will have perfected rapid reusability of heavy lift launch vehicles on orbit, cryogenic prop transfer."
+    "start_ms": 311900,
+    "end_ms": 336140,
+    "text": "Now, in order to actually land astronauts on the moon, it means our partners along the way, our commercial partners, SpaceX and Blue Origin are the two that are under contract, will have perfected rapid reusability of heavy lift launch vehicles on orbit, cryogenic prop transfer. And that's going to be a game changer. That's what's going to enable us to be able to go to and from the moon affordably with great frequency and set up for missions to Mars and beyond.",
+    "n_words": 83,
+    "embed_text": "3 behind it by 2028. But longer term, what does it mean for things like Boeing's SLS rocket and Lockheed Martin made Orion space capsule? Now, in order to actually land astronauts on the moon, it means our partners along the way, our commercial partners, SpaceX and Blue Origin are the two that are under contract, will have perfected rapid reusability of heavy lift launch vehicles on orbit, cryogenic prop transfer. And that's going to be a game changer. That's what's going to enable us to be able to go to and from the moon affordably with great frequency and set up for missions to Mars and beyond."
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 327300,
-    "end_ms": 342060,
-    "text": "And that's going to be a game changer. That's what's going to enable us to be able to go to and from the moon affordably with great frequency and set up for missions to Mars and beyond. So we've got a great lineup of vendors right now that are critical to achieving our near term objectives.",
-    "n_words": 56,
-    "embed_text": "3 behind it by 2028. But longer term, what does it mean for things like Boeing's SLS rocket and Lockheed Martin made Orion space capsule? And that's going to be a game changer. That's what's going to enable us to be able to go to and from the moon affordably with great frequency and set up for missions to Mars and beyond. So we've got a great lineup of vendors right now that are critical to achieving our near term objectives."
-  },
-  {
-    "file": "nasa_interview.wav",
-    "speaker": "SPEAKER_00",
-    "start_ms": 342760,
+    "start_ms": 336540,
     "end_ms": 349400,
-    "text": "And then we have commercial space industry that's going to be able to partner with us as we make our operations to and from the moon routine.",
-    "n_words": 27,
-    "embed_text": "3 behind it by 2028. But longer term, what does it mean for things like Boeing's SLS rocket and Lockheed Martin made Orion space capsule? And then we have commercial space industry that's going to be able to partner with us as we make our operations to and from the moon routine."
+    "text": "So we've got a great lineup of vendors right now that are critical to achieving our near term objectives. And then we have commercial space industry that's going to be able to partner with us as we make our operations to and from the moon routine.",
+    "n_words": 46,
+    "embed_text": "3 behind it by 2028. But longer term, what does it mean for things like Boeing's SLS rocket and Lockheed Martin made Orion space capsule? So we've got a great lineup of vendors right now that are critical to achieving our near term objectives. And then we have commercial space industry that's going to be able to partner with us as we make our operations to and from the moon routine."
   },
   {
     "file": "nasa_interview.wav",
@@ -201,28 +174,19 @@
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 356290,
-    "end_ms": 372470,
-    "text": "Oh, this is this is it's a great question. This is this is the healthiest launch market we've ever seen in the history of America's space program. You know, a lot of people certainly talk about SpaceX, which they've done absolutely extraordinary things with the reusability they've been demonstrating almost 500 times over the last 10 years.",
-    "n_words": 57,
-    "embed_text": "Yeah, speaking of competition, is there enough competition right now ready to go in launch? Oh, this is this is it's a great question. This is this is the healthiest launch market we've ever seen in the history of America's space program. You know, a lot of people certainly talk about SpaceX, which they've done absolutely extraordinary things with the reusability they've been demonstrating almost 500 times over the last 10 years."
+    "end_ms": 384450,
+    "text": "Oh, this is this is it's a great question. This is this is the healthiest launch market we've ever seen in the history of America's space program. You know, a lot of people certainly talk about SpaceX, which they've done absolutely extraordinary things with the reusability they've been demonstrating almost 500 times over the last 10 years. But you have Blue Origin that just had a very successful new Glenn launch where they were able to recover their heavy lift launch booster. You got companies like Stoke that are investing in rapid reusability, Rocket Lab, Firefly.",
+    "n_words": 96,
+    "embed_text": "Yeah, speaking of competition, is there enough competition right now ready to go in launch? Oh, this is this is it's a great question. This is this is the healthiest launch market we've ever seen in the history of America's space program. You know, a lot of people certainly talk about SpaceX, which they've done absolutely extraordinary things with the reusability they've been demonstrating almost 500 times over the last 10 years. But you have Blue Origin that just had a very successful new Glenn launch where they were able to recover their heavy lift launch booster. You got companies like Stoke that are investing in rapid reusability, Rocket Lab, Firefly."
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 372790,
-    "end_ms": 389990,
-    "text": "But you have Blue Origin that just had a very successful new Glenn launch where they were able to recover their heavy lift launch booster. You got companies like Stoke that are investing in rapid reusability, Rocket Lab, Firefly. I mean, these were names that were on your board not that long ago. Of course, you still have, you know, you have the ULA that's contributing in this.",
-    "n_words": 68,
-    "embed_text": "Yeah, speaking of competition, is there enough competition right now ready to go in launch? But you have Blue Origin that just had a very successful new Glenn launch where they were able to recover their heavy lift launch booster. You got companies like Stoke that are investing in rapid reusability, Rocket Lab, Firefly. I mean, these were names that were on your board not that long ago. Of course, you still have, you know, you have the ULA that's contributing in this."
-  },
-  {
-    "file": "nasa_interview.wav",
-    "speaker": "SPEAKER_00",
-    "start_ms": 389990,
+    "start_ms": 384590,
     "end_ms": 413810,
-    "text": "So this is the most competitive, healthiest launch industry we've had, which is key for America's exploration objectives in space. It's key to unlocking the orbital economy and it's key to increasing the rate of world changing discovery, getting more scientific missions out there. Moon, Mars, planetary science, heliophysics, studying the sun, Earth observation. I mean, low cost launch in a competitive environment is key to enabling the entire NASA mission.",
-    "n_words": 71,
-    "embed_text": "Yeah, speaking of competition, is there enough competition right now ready to go in launch? So this is the most competitive, healthiest launch industry we've had, which is key for America's exploration objectives in space. It's key to unlocking the orbital economy and it's key to increasing the rate of world changing discovery, getting more scientific missions out there. Moon, Mars, planetary science, heliophysics, studying the sun, Earth observation. I mean, low cost launch in a competitive environment is key to enabling the entire NASA mission."
+    "text": "I mean, these were names that were on your board not that long ago. Of course, you still have, you know, you have the ULA that's contributing in this. So this is the most competitive, healthiest launch industry we've had, which is key for America's exploration objectives in space. It's key to unlocking the orbital economy and it's key to increasing the rate of world changing discovery, getting more scientific missions out there. Moon, Mars, planetary science, heliophysics, studying the sun, Earth observation. I mean, low cost launch in a competitive environment is key to enabling the entire NASA mission.",
+    "n_words": 100,
+    "embed_text": "Yeah, speaking of competition, is there enough competition right now ready to go in launch? I mean, these were names that were on your board not that long ago. Of course, you still have, you know, you have the ULA that's contributing in this. So this is the most competitive, healthiest launch industry we've had, which is key for America's exploration objectives in space. It's key to unlocking the orbital economy and it's key to increasing the rate of world changing discovery, getting more scientific missions out there. Moon, Mars, planetary science, heliophysics, studying the sun, Earth observation. I mean, low cost launch in a competitive environment is key to enabling the entire NASA mission."
   },
   {
     "file": "nasa_interview.wav",
@@ -238,27 +202,27 @@
     "speaker": "SPEAKER_00",
     "start_ms": 435380,
     "end_ms": 454180,
-    "text": "Oh, there's a lot we can talk about here. You know, first and foremost, you know, NASA achieved some extraordinary things during the 1960s. We sent American astronauts to the moon. We brought them back safely in a time when we knew very little about space. It was not inexpensive. You know, NASA's discretionary, you know, received 4 .5 % of the discretionary budget in the 1960s.",
-    "n_words": 67,
-    "embed_text": "past, but who is, I assume, as NASA administrator, also tracking all the private capital coming into this sector, how do you see that milestone? Oh, there's a lot we can talk about here. You know, first and foremost, you know, NASA achieved some extraordinary things during the 1960s. We sent American astronauts to the moon. We brought them back safely in a time when we knew very little about space. It was not inexpensive. You know, NASA's discretionary, you know, received 4 .5 % of the discretionary budget in the 1960s."
+    "text": "Oh, there's a lot we can talk about here. You know, first and foremost, you know, NASA achieved some extraordinary things during the 1960s. We sent American astronauts to the moon. We brought them back safely in a time when we knew very little about space. It was not inexpensive. You know, NASA's discretionary, you know, received 4.5% of the discretionary budget in the 1960s.",
+    "n_words": 65,
+    "embed_text": "past, but who is, I assume, as NASA administrator, also tracking all the private capital coming into this sector, how do you see that milestone? Oh, there's a lot we can talk about here. You know, first and foremost, you know, NASA achieved some extraordinary things during the 1960s. We sent American astronauts to the moon. We brought them back safely in a time when we knew very little about space. It was not inexpensive. You know, NASA's discretionary, you know, received 4.5% of the discretionary budget in the 1960s."
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 454260,
-    "end_ms": 471660,
-    "text": "We're a fraction of that now today, but we're still able to do incredible things because we have partners out there that are investing substantial amount of their, either personal resources or private capital into capabilities for the benefit of certainly the competitiveness of the nation, but for people the world over.",
-    "n_words": 52,
-    "embed_text": "past, but who is, I assume, as NASA administrator, also tracking all the private capital coming into this sector, how do you see that milestone? We're a fraction of that now today, but we're still able to do incredible things because we have partners out there that are investing substantial amount of their, either personal resources or private capital into capabilities for the benefit of certainly the competitiveness of the nation, but for people the world over."
+    "end_ms": 482120,
+    "text": "We're a fraction of that now today, but we're still able to do incredible things because we have partners out there that are investing substantial amount of their, either personal resources or private capital into capabilities for the benefit of certainly the competitiveness of the nation, but for people the world over. So we're very grateful for what SpaceX is able to do, the resources they're putting into Starship Program, what Jeff Bezos and the Blue Origin team are putting into New Glenn.",
+    "n_words": 83,
+    "embed_text": "past, but who is, I assume, as NASA administrator, also tracking all the private capital coming into this sector, how do you see that milestone? We're a fraction of that now today, but we're still able to do incredible things because we have partners out there that are investing substantial amount of their, either personal resources or private capital into capabilities for the benefit of certainly the competitiveness of the nation, but for people the world over. So we're very grateful for what SpaceX is able to do, the resources they're putting into Starship Program, what Jeff Bezos and the Blue Origin team are putting into New Glenn."
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 472200,
+    "start_ms": 482400,
     "end_ms": 490340,
-    "text": "So we're very grateful for what SpaceX is able to do, the resources they're putting into Starship Program, what Jeff Bezos and the Blue Origin team are putting into New Glenn. It's an exciting time because we have folks other than the taxpayers contributing to, you know, NASA's extraordinary objectives across the last frontier.",
-    "n_words": 54,
-    "embed_text": "past, but who is, I assume, as NASA administrator, also tracking all the private capital coming into this sector, how do you see that milestone? So we're very grateful for what SpaceX is able to do, the resources they're putting into Starship Program, what Jeff Bezos and the Blue Origin team are putting into New Glenn. It's an exciting time because we have folks other than the taxpayers contributing to, you know, NASA's extraordinary objectives across the last frontier."
+    "text": "It's an exciting time because we have folks other than the taxpayers contributing to, you know, NASA's extraordinary objectives across the last frontier.",
+    "n_words": 23,
+    "embed_text": "past, but who is, I assume, as NASA administrator, also tracking all the private capital coming into this sector, how do you see that milestone? It's an exciting time because we have folks other than the taxpayers contributing to, you know, NASA's extraordinary objectives across the last frontier."
   },
   {
     "file": "nasa_interview.wav",
@@ -273,37 +237,28 @@
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 498060,
-    "end_ms": 516860,
-    "text": "Okay, so I love this. Establishing an orbital economy is key. You know, I've had a chance to be with President Trump many times. This is captured in the national space policy. We're completely aligned around this. Number one priority, American leadership in the high ground of space. We got to return to the moon, establishing during presence, realize scientific, economic and national security value.",
-    "n_words": 65,
-    "embed_text": "thoughts on data centers in space, especially given the fact that we've seen the commercialization of low Earth orbit in part from previous NASA policy? Okay, so I love this. Establishing an orbital economy is key. You know, I've had a chance to be with President Trump many times. This is captured in the national space policy. We're completely aligned around this. Number one priority, American leadership in the high ground of space. We got to return to the moon, establishing during presence, realize scientific, economic and national security value."
+    "end_ms": 522960,
+    "text": "Okay, so I love this. Establishing an orbital economy is key. You know, I've had a chance to be with President Trump many times. This is captured in the national space policy. We're completely aligned around this. Number one priority, American leadership in the high ground of space. We got to return to the moon, establishing during presence, realize scientific, economic and national security value. We got to make investments in nuclear spaceships, bring nuclear power to space so we can set up for that next giant leap to Mars and beyond.",
+    "n_words": 92,
+    "embed_text": "thoughts on data centers in space, especially given the fact that we've seen the commercialization of low Earth orbit in part from previous NASA policy? Okay, so I love this. Establishing an orbital economy is key. You know, I've had a chance to be with President Trump many times. This is captured in the national space policy. We're completely aligned around this. Number one priority, American leadership in the high ground of space. We got to return to the moon, establishing during presence, realize scientific, economic and national security value. We got to make investments in nuclear spaceships, bring nuclear power to space so we can set up for that next giant leap to Mars and beyond."
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 517180,
-    "end_ms": 540260,
-    "text": "We got to make investments in nuclear spaceships, bring nuclear power to space so we can set up for that next giant leap to Mars and beyond. Number two, we need the orbital economy and that's specifically called out in the national space policy. We all envision a future someday with lots of space stations and mining and commercial operations on the moon and now post on Mars. It's not gonna happen if it's perpetually funded by the taxpayers.",
-    "n_words": 79,
-    "embed_text": "thoughts on data centers in space, especially given the fact that we've seen the commercialization of low Earth orbit in part from previous NASA policy? We got to make investments in nuclear spaceships, bring nuclear power to space so we can set up for that next giant leap to Mars and beyond. Number two, we need the orbital economy and that's specifically called out in the national space policy. We all envision a future someday with lots of space stations and mining and commercial operations on the moon and now post on Mars. It's not gonna happen if it's perpetually funded by the taxpayers."
+    "start_ms": 523300,
+    "end_ms": 556420,
+    "text": "Number two, we need the orbital economy and that's specifically called out in the national space policy. We all envision a future someday with lots of space stations and mining and commercial operations on the moon and now post on Mars. It's not gonna happen if it's perpetually funded by the taxpayers. We need to unlock that orbital economy, whether it's data centers in space, if it's biotech or cancer-treating drug formulations or mining helium-3 on the moon. Whatever it is, we need it. That's what's gonna fund that exciting future. And number three, increase the rate of world-changing discoveries.",
+    "n_words": 100,
+    "embed_text": "thoughts on data centers in space, especially given the fact that we've seen the commercialization of low Earth orbit in part from previous NASA policy? Number two, we need the orbital economy and that's specifically called out in the national space policy. We all envision a future someday with lots of space stations and mining and commercial operations on the moon and now post on Mars. It's not gonna happen if it's perpetually funded by the taxpayers. We need to unlock that orbital economy, whether it's data centers in space, if it's biotech or cancer-treating drug formulations or mining helium-3 on the moon. Whatever it is, we need it. That's what's gonna fund that exciting future. And number three, increase the rate of world-changing discoveries."
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 540540,
-    "end_ms": 559720,
-    "text": "We need to unlock that orbital economy, whether it's data centers in space, if it's biotech or cancer -treating drug formulations or mining helium -3 on the moon. Whatever it is, we need it. That's what's gonna fund that exciting future. And number three, increase the rate of world -changing discoveries. We all love Hubble and James Webb telescope and rovers on Mars.",
-    "n_words": 63,
-    "embed_text": "thoughts on data centers in space, especially given the fact that we've seen the commercialization of low Earth orbit in part from previous NASA policy? We need to unlock that orbital economy, whether it's data centers in space, if it's biotech or cancer -treating drug formulations or mining helium -3 on the moon. Whatever it is, we need it. That's what's gonna fund that exciting future. And number three, increase the rate of world -changing discoveries. We all love Hubble and James Webb telescope and rovers on Mars."
-  },
-  {
-    "file": "nasa_interview.wav",
-    "speaker": "SPEAKER_00",
-    "start_ms": 559820,
+    "start_ms": 556840,
     "end_ms": 564520,
-    "text": "We just need a lot more of them with greater frequency so we can unlock the secrets of the universe. So",
-    "n_words": 21,
-    "embed_text": "thoughts on data centers in space, especially given the fact that we've seen the commercialization of low Earth orbit in part from previous NASA policy? We just need a lot more of them with greater frequency so we can unlock the secrets of the universe. So"
+    "text": "We all love Hubble and James Webb telescope and rovers on Mars. We just need a lot more of them with greater frequency so we can unlock the secrets of the universe. So",
+    "n_words": 33,
+    "embed_text": "thoughts on data centers in space, especially given the fact that we've seen the commercialization of low Earth orbit in part from previous NASA policy? We all love Hubble and James Webb telescope and rovers on Mars. We just need a lot more of them with greater frequency so we can unlock the secrets of the universe. So"
   },
   {
     "file": "nasa_interview.wav",
@@ -318,18 +273,18 @@
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 568660,
-    "end_ms": 587360,
-    "text": "I mean, what's there not to be excited about? I'll tell you, coming up, we're sending American astronauts around the moon this first time we've done that in a half century. We just had a crew in the loop test down at Kennedy Space Center. So we actually took the crew of Artemis, for Artemis II, we put them in the Orion spacecraft on top of the SLS vehicle.",
-    "n_words": 69,
-    "embed_text": "in light of all this, what are you most excited about as administrator of NASA? I mean, what's there not to be excited about? I'll tell you, coming up, we're sending American astronauts around the moon this first time we've done that in a half century. We just had a crew in the loop test down at Kennedy Space Center. So we actually took the crew of Artemis, for Artemis II, we put them in the Orion spacecraft on top of the SLS vehicle."
+    "end_ms": 593300,
+    "text": "I mean, what's there not to be excited about? I'll tell you, coming up, we're sending American astronauts around the moon this first time we've done that in a half century. We just had a crew in the loop test down at Kennedy Space Center. So we actually took the crew of Artemis, for Artemis II, we put them in the Orion spacecraft on top of the SLS vehicle. They were able to do a number of tests, Comchecks, Eclips, Life Support Checks. Point is, we're getting ready.",
+    "n_words": 88,
+    "embed_text": "in light of all this, what are you most excited about as administrator of NASA? I mean, what's there not to be excited about? I'll tell you, coming up, we're sending American astronauts around the moon this first time we've done that in a half century. We just had a crew in the loop test down at Kennedy Space Center. So we actually took the crew of Artemis, for Artemis II, we put them in the Orion spacecraft on top of the SLS vehicle. They were able to do a number of tests, Comchecks, Eclips, Life Support Checks. Point is, we're getting ready."
   },
   {
     "file": "nasa_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 587780,
+    "start_ms": 593300,
     "end_ms": 599980,
-    "text": "They were able to do a number of tests, Comchecks, Eclips, Life Support Checks. Point is, we're getting ready. The next time we do that test is when Artemis II is gonna be out on the pad in just a matter of weeks and we're weeks away.",
-    "n_words": 47,
-    "embed_text": "in light of all this, what are you most excited about as administrator of NASA? They were able to do a number of tests, Comchecks, Eclips, Life Support Checks. Point is, we're getting ready. The next time we do that test is when Artemis II is gonna be out on the pad in just a matter of weeks and we're weeks away."
+    "text": "The next time we do that test is when Artemis II is gonna be out on the pad in just a matter of weeks and we're weeks away.",
+    "n_words": 28,
+    "embed_text": "in light of all this, what are you most excited about as administrator of NASA? The next time we do that test is when Artemis II is gonna be out on the pad in just a matter of weeks and we're weeks away."
   }
 ]

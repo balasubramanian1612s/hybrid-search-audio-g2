@@ -24,7 +24,7 @@
   - Hybrid is **never worse than the better single search on any query type**, and it clearly beats both on lexical queries.
   - Excluding the 10 deliberate failure cases, hybrid reaches **R@5 = 0.86 and MRR = 0.86** across the 53 remaining queries.
   - With the failure cases included (the official run), the lexical target (0.80) and semantic target (0.70) are missed: 0.75 and 0.66.
-- **Main weakness found by the eval:** keyword search requires every word to match, so it returns nothing for 37 of the 63 queries. The fix is known and is described in section 6.
+- **Main weakness found by the eval:** keyword search requires every word to match, so it returns nothing for 37 of the 63 queries. The fix is known and is described in section 7.
 
 ---
 
@@ -84,7 +84,7 @@ Each stage reads files and writes files (`data/<stage>/<file>.json`), so each st
 | **Chunk** | Chunks follow **speaker turns**, not fixed windows. Long turns are split at sentence boundaries into chunks of up to about 80 words. Backchannel-only turns ("yeah", "mm") are dropped. | Each result is one speaker's moment, so the speaker shown is always correct for the whole chunk. Chunks of about 80 words keep timestamps precise and stay well under MiniLM's 256-token limit. |
 | | Each chunk is embedded as `embed_text` = **the other speaker's last 25 words + this chunk**. The stored `text` stays clean. | In interviews, answers often don't repeat the question. Adding the question to the embedding makes "why is the moon important" find the *answer*, while the text shown to users and used for keyword search stays exactly what was said. |
 | **Store** | One Postgres table holds text, timestamps, speaker, a `vector(384)` with an **HNSW** cosine index, and a generated `tsvector` with a **GIN** index | One database for both kinds of search: no second store to keep in sync, and everything is queryable with SQL. The ingest runs in a single transaction, so re-running it is safe. |
-| **Embed** | `all-MiniLM-L6-v2` (384 dimensions, normalized), run locally on CPU | Small and fast: all 192 chunks embed in about 6 s. The tradeoff is weaker semantics (see section 6). |
+| **Embed** | `all-MiniLM-L6-v2` (384 dimensions, normalized), run locally on CPU | Small and fast: all 192 chunks embed in about 6 s. The tradeoff is weaker semantics (see section 7). |
 | **Search** | Keyword: `websearch_to_tsquery` + `ts_rank_cd`. Vector: cosine distance `<=>`. Hybrid: **RRF** with `score = Σ 1/(60 + rank)` over the top 30 from each | Keyword and cosine scores aren't on comparable scales, and RRF only uses ranks, so no score normalization is needed. Each result shows its `kw_rank` and `vec_rank`, so you can see which search found it. |
 | **Eval** | `eval.py` runs all 3 modes over the golden set and writes a markdown report with success criteria, a summary by type, per-query results and known failures | Every change is measured the same way, and the reports stay on disk for comparison. |
 
@@ -143,12 +143,27 @@ Each stage reads files and writes files (`data/<stage>/<file>.json`), so each st
 - **Criteria 1 and 2 are missed in the official run, and the misses are entirely due to the deliberate failure cases:** 5 lexical and 4 semantic queries that were added *because* they fail, plus 1 partial. On normal queries both targets pass with margin.
 - **Hybrid adds the most on lexical queries:** +0.15 over the best single search (0.95 vs 0.80). Keyword and vector search each find moments the other misses.
 - **On semantic queries hybrid equals vector,** because keyword search can't match paraphrases. That's expected.
-- **On mixed queries hybrid ties vector on recall but ranks better** (MRR 0.87 vs 0.84). It can't gain recall there while keyword search returns nothing for most mixed queries (section 6, limitation 1).
+- **On mixed queries hybrid ties vector on recall but ranks better** (MRR 0.87 vs 0.84). It can't gain recall there while keyword search returns nothing for most mixed queries (section 7, limitation 1).
 - **Latency:** p50 query time was 0.3 ms for keyword, 4.1 ms for vector (including embedding the query) and 4.0 ms for hybrid, on an Apple M4 laptop CPU with 192 chunks.
 
 ---
 
-## 6. Limitations
+## 6. Tuning after the baseline
+
+Two changes, made one at a time and each motivated by a v1 finding. Both were measured on the same 63 queries with the same criteria; there was no held-out set.
+
+| run | change | lexical R@5 | semantic R@5 | mixed R@5 | all R@5 | all MRR | report |
+|---|---|---|---|---|---|---|---|
+| v1 | baseline (section 5) | 0.75 | 0.66 | 0.78 | 0.73 | 0.74 | [v1](results/result_20260926_145727.md) |
+| v2 | join split tokens (`4 .5 %` becomes `4.5%`) | **0.79** | 0.66 | 0.78 | 0.74 | 0.76 | [v2](results/result_20260926_161009.md) |
+| v3 | chunk size 80 to 100 words | 0.79 | **0.75** | **0.85** | **0.79** | **0.80** | [v3](results/result_20260926_161113.md) |
+
+- **Split tokens:** only "4.5%" changed, from not found to rank 1. No other query got worse.
+- **100-word chunks, the trade-off:** bigger chunks help keyword matching and cover more of each moment, but they dilute the embedding. 3 queries got worse, and 2 known failures now pass only because a chunk grew to include the answer; negation and the ASR error are not fixed.
+
+---
+
+## 7. Limitations
 
 **Retrieval**
 1. **Keyword search requires every word to match.** `websearch_to_tsquery` ANDs every term, so one unmatched word ("describe", "plan") empties the result. It returned nothing for 37 of the 63 queries, which caps what hybrid can add on mixed queries. The next step is to OR the terms and let `ts_rank_cd` reward chunks that match more of them, then re-run the eval.
@@ -181,7 +196,7 @@ Each stage reads files and writes files (`data/<stage>/<file>.json`), so each st
 
 ---
 
-## 7. What would change at scale
+## 8. What would change at scale
 
 The problem statement asks which diarization, database, embedding and indexing strategies would give "ideal" retrieval quality at scale. These are recommendations, not what was built:
 
@@ -196,7 +211,7 @@ The problem statement asks which diarization, database, embedding and indexing s
 
 ---
 
-## 8. Metrics for production and what makes an effective evaluation
+## 9. Metrics for production and what makes an effective evaluation
 
 **Retrieval quality (offline, on every change):**
 - Recall@k and MRR, broken down by query type and by file, as done here.
@@ -225,7 +240,7 @@ In production, add multiple annotators with an agreement measure, and grow the q
 
 ---
 
-## 9. Coding agent disclosure
+## 10. Coding agent disclosure
 
 **How I directed it:**
 1. **Spec first.** Before any code, I gave the agent [design.md](design.md). It sets out, for each stage: input and output schemas, parameters, rules and invariants (e.g. "assign to the span it overlaps most, not the midpoint", "token count out == token count in"), plus success criteria and what's out of scope.

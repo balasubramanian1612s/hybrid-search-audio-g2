@@ -22,7 +22,7 @@ TURNS_DIR = Path("data/turns")
 OUT_DIR = Path("data/chunks")
 
 MODEL_LIMIT = 180   # MiniLM truncates at 256 wordpiece tokens; 180 words is a safe margin
-TARGET_MAX = 80
+TARGET_MAX = 100
 MIN_WORDS = 20
 CONTEXT_WORDS = 25
 

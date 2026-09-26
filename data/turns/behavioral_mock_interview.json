@@ -1105,8 +1105,8 @@
       "speaker": "SPEAKER_00",
       "start": 66.31,
       "end": 105.71,
-      "text": "Yeah, my reasons for joining your consulting firm are twofold. Number one, I think the exposure to the strategy work is very appealing to me. And then second, the opportunities for externship is also one that I am highly looking at. So on the strategy side, I know that your consulting firm is one of the few that gives you exposure to C -suite executives and to strategy type projects early on in your career, which is something that I won't find at other companies. Then the second reason is the opportunity to do externships. So as I mentioned, I am interested in the education sector down the line and I know that your company offers the opportunity to work for six months at a public sector type company or a nonprofit out in Africa focused on education. So I think those are some of the things that highly appeal to me in your company.",
-      "n_words": 155,
+      "text": "Yeah, my reasons for joining your consulting firm are twofold. Number one, I think the exposure to the strategy work is very appealing to me. And then second, the opportunities for externship is also one that I am highly looking at. So on the strategy side, I know that your consulting firm is one of the few that gives you exposure to C-suite executives and to strategy type projects early on in your career, which is something that I won't find at other companies. Then the second reason is the opportunity to do externships. So as I mentioned, I am interested in the education sector down the line and I know that your company offers the opportunity to work for six months at a public sector type company or a nonprofit out in Africa focused on education. So I think those are some of the things that highly appeal to me in your company.",
+      "n_words": 154,
       "n_low": 0,
       "words": [
         {
@@ -1420,13 +1420,8 @@
           "end": 81.93
         },
         {
-          "word": "C",
+          "word": "C-suite",
           "start": 81.93,
-          "end": 82.13
-        },
-        {
-          "word": "-suite",
-          "start": 82.13,
           "end": 82.31
         },
         {
@@ -2055,8 +2050,8 @@
       "speaker": "SPEAKER_00",
       "start": 115.75,
       "end": 154.91,
-      "text": "That's a good question. I think the moment that I can think of is when I was working at the electrical power plant, we were trying to launch a new department and my task was to essentially source a supplier. Typically, we work with a supplier of generators from France, but this time around their capacity and also their pricing did not match our budget and what we were looking for. So what I ended up doing is I ended up creating a large list of all the different suppliers that are out there. And then I found a supplier in South Korea that I negotiated with and also was able to bring them in and implement all of the new generator technology. So that was able to save us a total cost of 10 % from the total project and it was a huge success at the end of it.",
-      "n_words": 151,
+      "text": "That's a good question. I think the moment that I can think of is when I was working at the electrical power plant, we were trying to launch a new department and my task was to essentially source a supplier. Typically, we work with a supplier of generators from France, but this time around their capacity and also their pricing did not match our budget and what we were looking for. So what I ended up doing is I ended up creating a large list of all the different suppliers that are out there. And then I found a supplier in South Korea that I negotiated with and also was able to bring them in and implement all of the new generator technology. So that was able to save us a total cost of 10% from the total project and it was a huge success at the end of it.",
+      "n_words": 150,
       "n_low": 0,
       "words": [
         {
@@ -2730,13 +2725,8 @@
           "end": 150.73
         },
         {
-          "word": "10",
+          "word": "10%",
           "start": 150.73,
-          "end": 150.93
-        },
-        {
-          "word": "%",
-          "start": 150.93,
           "end": 151.21
         },
         {

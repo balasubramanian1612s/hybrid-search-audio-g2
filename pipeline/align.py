@@ -6,11 +6,14 @@ output: data/turns/<stem>.json
                         words: [{word, start, end}]}]}
 
 Rules:
+- whisper splits some tokens into pieces ('4' '.5' '%', 'helium' '-3');
+  a piece starting with '-', '.' or '%' is joined back onto the word before it
 - drop diarization spans shorter than MIN_SPAN_SEC
 - a word is never split; it goes to the span it overlaps most
 - a word with no overlap goes to the nearest span and is marked low-confidence
 - consecutive same-speaker words form a turn; gaps <= MAX_GAP_SEC are merged
 - total token count out == total token count in (asserted)
+- every character of the transcript survives into the turns (asserted)
 """
 
 import json
@@ -24,6 +27,10 @@ MIN_SPAN_SEC = 0.25
 MAX_GAP_SEC = 2.0
 N_LOW_TURNS_TO_PRINT = 15
 
+# A word starting with one of these continues the previous word.
+# '$' is deliberately not here: in 'over $100' the '$' starts a new word.
+JOIN_PREFIXES = ("-", ".", "%")
+
 
 def count_tokens(text):
     return len(text.split())
@@ -35,6 +42,23 @@ def load_words(transcript):
         for w in seg["words"]:
             words.append({"word": w["word"], "start": w["start"], "end": w["end"]})
     return words
+
+
+def join_split_tokens(words):
+    """Join pieces whisper split off a word: '4' '.5' '%' -> '4.5%'."""
+    joined = []
+    for w in words:
+        if joined and w["word"].startswith(JOIN_PREFIXES):
+            prev = joined[-1]
+            prev["word"] += w["word"]
+            prev["end"] = max(prev["end"], w["end"])
+        else:
+            joined.append(dict(w))
+    return joined
+
+
+def non_space_chars(text):
+    return "".join(text.split())
 
 
 def filter_spans(spans, min_dur=MIN_SPAN_SEC):
@@ -125,7 +149,8 @@ def group_into_turns(words, max_gap=MAX_GAP_SEC):
 
 
 def align(transcript, diarization):
-    words = load_words(transcript)
+    raw_words = load_words(transcript)
+    words = join_split_tokens(raw_words)
     spans = filter_spans(diarization["turns"])
 
     assigned = []
@@ -138,6 +163,10 @@ def align(transcript, diarization):
     tokens_in = sum(count_tokens(w["word"]) for w in words)
     tokens_out = sum(t["n_words"] for t in turns)
     assert tokens_in == tokens_out, f"token count changed: in={tokens_in} out={tokens_out}"
+
+    chars_in = non_space_chars("".join(w["word"] for w in raw_words))
+    chars_out = non_space_chars("".join(t["text"] for t in turns))
+    assert chars_in == chars_out, "transcript text changed during alignment"
 
     return {"file": transcript["file"], "turns": turns}
 

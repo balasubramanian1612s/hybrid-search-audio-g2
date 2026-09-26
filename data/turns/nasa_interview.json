@@ -590,8 +590,8 @@
       "speaker": "SPEAKER_00",
       "start": 35.09,
       "end": 73.69,
-      "text": "Yeah. Well, I'll tell you what an exciting start as administrator of NASA. I mean, it's been a week. We've been going near 24 -7, and we have the president's national space policy as guidance. I think it's probably the most significant commitment to American leadership in space since the Kennedy era. Reaffirms our commitment to return to the moon and establish the infrastructure so that we can maintain an enduring presence, basically saying, let's build the moon base. And then from there, we're going to start making investments in nuclear power in space, nuclear propulsion, so we can make that next giant leap in human space exploration and discovery. So extraordinarily exciting time right now at NASA.",
-      "n_words": 118,
+      "text": "Yeah. Well, I'll tell you what an exciting start as administrator of NASA. I mean, it's been a week. We've been going near 24-7, and we have the president's national space policy as guidance. I think it's probably the most significant commitment to American leadership in space since the Kennedy era. Reaffirms our commitment to return to the moon and establish the infrastructure so that we can maintain an enduring presence, basically saying, let's build the moon base. And then from there, we're going to start making investments in nuclear power in space, nuclear propulsion, so we can make that next giant leap in human space exploration and discovery. So extraordinarily exciting time right now at NASA.",
+      "n_words": 117,
       "n_low": 0,
       "words": [
         {
@@ -710,13 +710,8 @@
           "end": 41.39
         },
         {
-          "word": "24",
+          "word": "24-7,",
           "start": 41.39,
-          "end": 41.87
-        },
-        {
-          "word": "-7,",
-          "start": 41.87,
           "end": 42.39
         },
         {
@@ -1315,8 +1310,8 @@
       "speaker": "SPEAKER_00",
       "start": 80.04,
       "end": 137.1,
-      "text": "That's a really good question. First, I'd say it's fulfilling a promise that presidents have made for 35 years. The American taxpayers have spent over $100 billion to enable America's return to the moon. The president appreciated this position during his first term when he created the Artemis program and said America should return to the moon. And then again, recommitted us to it now, which we will achieve during his term. And then, of course, establishing the infrastructure so we get there, we can stay. And why is that important? Because we want to have that opportunity to explore and realize the scientific, economic, and national security potential on the moon. We haven't been there in an awful long time. There are certainly a lot of applications. You reference leading up to the show, the commercial space industry. You have commercial space companies looking to mine on the moon, potentially extract helium -3. It could be a more efficient source of fusion power someday in the future. This is something we don't want to get wrong.",
-      "n_words": 177,
+      "text": "That's a really good question. First, I'd say it's fulfilling a promise that presidents have made for 35 years. The American taxpayers have spent over $100 billion to enable America's return to the moon. The president appreciated this position during his first term when he created the Artemis program and said America should return to the moon. And then again, recommitted us to it now, which we will achieve during his term. And then, of course, establishing the infrastructure so we get there, we can stay. And why is that important? Because we want to have that opportunity to explore and realize the scientific, economic, and national security potential on the moon. We haven't been there in an awful long time. There are certainly a lot of applications. You reference leading up to the show, the commercial space industry. You have commercial space companies looking to mine on the moon, potentially extract helium-3. It could be a more efficient source of fusion power someday in the future. This is something we don't want to get wrong.",
+      "n_words": 176,
       "n_low": 0,
       "words": [
         {
@@ -2080,13 +2075,8 @@
           "end": 130.74
         },
         {
-          "word": "helium",
+          "word": "helium-3.",
           "start": 130.74,
-          "end": 131.14
-        },
-        {
-          "word": "-3.",
-          "start": 131.14,
           "end": 131.4
         },
         {
@@ -7105,8 +7095,8 @@
       "speaker": "SPEAKER_00",
       "start": 435.38,
       "end": 490.34,
-      "text": "Oh, there's a lot we can talk about here. You know, first and foremost, you know, NASA achieved some extraordinary things during the 1960s. We sent American astronauts to the moon. We brought them back safely in a time when we knew very little about space. It was not inexpensive. You know, NASA's discretionary, you know, received 4 .5 % of the discretionary budget in the 1960s. We're a fraction of that now today, but we're still able to do incredible things because we have partners out there that are investing substantial amount of their, either personal resources or private capital into capabilities for the benefit of certainly the competitiveness of the nation, but for people the world over. So we're very grateful for what SpaceX is able to do, the resources they're putting into Starship Program, what Jeff Bezos and the Blue Origin team are putting into New Glenn. It's an exciting time because we have folks other than the taxpayers contributing to, you know, NASA's extraordinary objectives across the last frontier.",
-      "n_words": 173,
+      "text": "Oh, there's a lot we can talk about here. You know, first and foremost, you know, NASA achieved some extraordinary things during the 1960s. We sent American astronauts to the moon. We brought them back safely in a time when we knew very little about space. It was not inexpensive. You know, NASA's discretionary, you know, received 4.5% of the discretionary budget in the 1960s. We're a fraction of that now today, but we're still able to do incredible things because we have partners out there that are investing substantial amount of their, either personal resources or private capital into capabilities for the benefit of certainly the competitiveness of the nation, but for people the world over. So we're very grateful for what SpaceX is able to do, the resources they're putting into Starship Program, what Jeff Bezos and the Blue Origin team are putting into New Glenn. It's an exciting time because we have folks other than the taxpayers contributing to, you know, NASA's extraordinary objectives across the last frontier.",
+      "n_words": 171,
       "n_low": 0,
       "words": [
         {
@@ -7395,18 +7385,8 @@
           "end": 451.32
         },
         {
-          "word": "4",
+          "word": "4.5%",
           "start": 451.32,
-          "end": 451.56
-        },
-        {
-          "word": ".5",
-          "start": 451.56,
-          "end": 451.82
-        },
-        {
-          "word": "%",
-          "start": 451.82,
           "end": 452.1
         },
         {
@@ -8130,8 +8110,8 @@
       "speaker": "SPEAKER_00",
       "start": 498.06,
       "end": 564.52,
-      "text": "Okay, so I love this. Establishing an orbital economy is key. You know, I've had a chance to be with President Trump many times. This is captured in the national space policy. We're completely aligned around this. Number one priority, American leadership in the high ground of space. We got to return to the moon, establishing during presence, realize scientific, economic and national security value. We got to make investments in nuclear spaceships, bring nuclear power to space so we can set up for that next giant leap to Mars and beyond. Number two, we need the orbital economy and that's specifically called out in the national space policy. We all envision a future someday with lots of space stations and mining and commercial operations on the moon and now post on Mars. It's not gonna happen if it's perpetually funded by the taxpayers. We need to unlock that orbital economy, whether it's data centers in space, if it's biotech or cancer -treating drug formulations or mining helium -3 on the moon. Whatever it is, we need it. That's what's gonna fund that exciting future. And number three, increase the rate of world -changing discoveries. We all love Hubble and James Webb telescope and rovers on Mars. We just need a lot more of them with greater frequency so we can unlock the secrets of the universe. So",
-      "n_words": 228,
+      "text": "Okay, so I love this. Establishing an orbital economy is key. You know, I've had a chance to be with President Trump many times. This is captured in the national space policy. We're completely aligned around this. Number one priority, American leadership in the high ground of space. We got to return to the moon, establishing during presence, realize scientific, economic and national security value. We got to make investments in nuclear spaceships, bring nuclear power to space so we can set up for that next giant leap to Mars and beyond. Number two, we need the orbital economy and that's specifically called out in the national space policy. We all envision a future someday with lots of space stations and mining and commercial operations on the moon and now post on Mars. It's not gonna happen if it's perpetually funded by the taxpayers. We need to unlock that orbital economy, whether it's data centers in space, if it's biotech or cancer-treating drug formulations or mining helium-3 on the moon. Whatever it is, we need it. That's what's gonna fund that exciting future. And number three, increase the rate of world-changing discoveries. We all love Hubble and James Webb telescope and rovers on Mars. We just need a lot more of them with greater frequency so we can unlock the secrets of the universe. So",
+      "n_words": 225,
       "n_low": 0,
       "words": [
         {
@@ -8940,13 +8920,8 @@
           "end": 546.16
         },
         {
-          "word": "cancer",
+          "word": "cancer-treating",
           "start": 546.16,
-          "end": 547.4
-        },
-        {
-          "word": "-treating",
-          "start": 547.4,
           "end": 547.8
         },
         {
@@ -8970,13 +8945,8 @@
           "end": 549.5
         },
         {
-          "word": "helium",
+          "word": "helium-3",
           "start": 549.5,
-          "end": 549.8
-        },
-        {
-          "word": "-3",
-          "start": 549.8,
           "end": 550.08
         },
         {
@@ -9095,13 +9065,8 @@
           "end": 555.52
         },
         {
-          "word": "world",
+          "word": "world-changing",
           "start": 555.52,
-          "end": 555.68
-        },
-        {
-          "word": "-changing",
-          "start": 555.68,
           "end": 555.92
         },
         {

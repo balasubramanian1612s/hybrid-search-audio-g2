@@ -12,19 +12,19 @@
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 13490,
-    "end_ms": 32450,
-    "text": "Yeah, absolutely. First of all, thank you so much for having me. It's an honor to be here. So a bit about myself. I'm originally from Morocco, where I lived pretty much my whole life. I then came to Boston and studied industrial engineering at Northeastern University. While I was in college, I did a few different internships. I did technical ones at a local power plant and at Amazon Robotics.",
-    "n_words": 71,
-    "embed_text": "to interview with us today. Let's just go ahead and get started with a quick introduction. Could you tell me a little bit about yourself? Yeah, absolutely. First of all, thank you so much for having me. It's an honor to be here. So a bit about myself. I'm originally from Morocco, where I lived pretty much my whole life. I then came to Boston and studied industrial engineering at Northeastern University. While I was in college, I did a few different internships. I did technical ones at a local power plant and at Amazon Robotics."
+    "end_ms": 38830,
+    "text": "Yeah, absolutely. First of all, thank you so much for having me. It's an honor to be here. So a bit about myself. I'm originally from Morocco, where I lived pretty much my whole life. I then came to Boston and studied industrial engineering at Northeastern University. While I was in college, I did a few different internships. I did technical ones at a local power plant and at Amazon Robotics. I also did one in consulting at the Boston Consulting Group. I was also the president of the consulting club at my university.",
+    "n_words": 94,
+    "embed_text": "to interview with us today. Let's just go ahead and get started with a quick introduction. Could you tell me a little bit about yourself? Yeah, absolutely. First of all, thank you so much for having me. It's an honor to be here. So a bit about myself. I'm originally from Morocco, where I lived pretty much my whole life. I then came to Boston and studied industrial engineering at Northeastern University. While I was in college, I did a few different internships. I did technical ones at a local power plant and at Amazon Robotics. I also did one in consulting at the Boston Consulting Group. I was also the president of the consulting club at my university."
   },
   {
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 32870,
+    "start_ms": 39630,
     "end_ms": 57990,
-    "text": "I also did one in consulting at the Boston Consulting Group. I was also the president of the consulting club at my university. So really I'm someone who enjoys both the business side of things, but I also do have a passion for technology. So down the line, my goal is to start my own education technology company in my home country, Morocco, so I can make education more affordable through the use of tech. And outside of like school and work, I also do magic tricks on college campuses.",
-    "n_words": 90,
-    "embed_text": "to interview with us today. Let's just go ahead and get started with a quick introduction. Could you tell me a little bit about yourself? I also did one in consulting at the Boston Consulting Group. I was also the president of the consulting club at my university. So really I'm someone who enjoys both the business side of things, but I also do have a passion for technology. So down the line, my goal is to start my own education technology company in my home country, Morocco, so I can make education more affordable through the use of tech. And outside of like school and work, I also do magic tricks on college campuses."
+    "text": "So really I'm someone who enjoys both the business side of things, but I also do have a passion for technology. So down the line, my goal is to start my own education technology company in my home country, Morocco, so I can make education more affordable through the use of tech. And outside of like school and work, I also do magic tricks on college campuses.",
+    "n_words": 67,
+    "embed_text": "to interview with us today. Let's just go ahead and get started with a quick introduction. Could you tell me a little bit about yourself? So really I'm someone who enjoys both the business side of things, but I also do have a passion for technology. So down the line, my goal is to start my own education technology company in my home country, Morocco, so I can make education more affordable through the use of tech. And outside of like school and work, I also do magic tricks on college campuses."
   },
   {
     "file": "behavioral_mock_interview.wav",
@@ -39,19 +39,10 @@
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 66310,
-    "end_ms": 77050,
-    "text": "Yeah, my reasons for joining your consulting firm are twofold. Number one, I think the exposure to the strategy work is very appealing to me. And then second, the opportunities for externship is also one that I am highly looking at.",
-    "n_words": 41,
-    "embed_text": "Oh wow, that sounds like a very impressive background. So why exactly are you interested in interviewing with our consulting firm? Yeah, my reasons for joining your consulting firm are twofold. Number one, I think the exposure to the strategy work is very appealing to me. And then second, the opportunities for externship is also one that I am highly looking at."
-  },
-  {
-    "file": "behavioral_mock_interview.wav",
-    "speaker": "SPEAKER_00",
-    "start_ms": 77510,
     "end_ms": 91350,
-    "text": "So on the strategy side, I know that your consulting firm is one of the few that gives you exposure to C -suite executives and to strategy type projects early on in your career, which is something that I won't find at other companies. Then the second reason is the opportunity to do externships.",
-    "n_words": 54,
-    "embed_text": "Oh wow, that sounds like a very impressive background. So why exactly are you interested in interviewing with our consulting firm? So on the strategy side, I know that your consulting firm is one of the few that gives you exposure to C -suite executives and to strategy type projects early on in your career, which is something that I won't find at other companies. Then the second reason is the opportunity to do externships."
+    "text": "Yeah, my reasons for joining your consulting firm are twofold. Number one, I think the exposure to the strategy work is very appealing to me. And then second, the opportunities for externship is also one that I am highly looking at. So on the strategy side, I know that your consulting firm is one of the few that gives you exposure to C-suite executives and to strategy type projects early on in your career, which is something that I won't find at other companies. Then the second reason is the opportunity to do externships.",
+    "n_words": 94,
+    "embed_text": "Oh wow, that sounds like a very impressive background. So why exactly are you interested in interviewing with our consulting firm? Yeah, my reasons for joining your consulting firm are twofold. Number one, I think the exposure to the strategy work is very appealing to me. And then second, the opportunities for externship is also one that I am highly looking at. So on the strategy side, I know that your consulting firm is one of the few that gives you exposure to C-suite executives and to strategy type projects early on in your career, which is something that I won't find at other companies. Then the second reason is the opportunity to do externships."
   },
   {
     "file": "behavioral_mock_interview.wav",
@@ -75,19 +66,19 @@
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 115750,
-    "end_ms": 134950,
-    "text": "That's a good question. I think the moment that I can think of is when I was working at the electrical power plant, we were trying to launch a new department and my task was to essentially source a supplier. Typically, we work with a supplier of generators from France, but this time around their capacity and also their pricing did not match our budget and what we were looking for.",
-    "n_words": 71,
-    "embed_text": "So now we'll dive into a little bit more behavioral questions. So could you tell me about a time where you solved a difficult problem? That's a good question. I think the moment that I can think of is when I was working at the electrical power plant, we were trying to launch a new department and my task was to essentially source a supplier. Typically, we work with a supplier of generators from France, but this time around their capacity and also their pricing did not match our budget and what we were looking for."
+    "end_ms": 140270,
+    "text": "That's a good question. I think the moment that I can think of is when I was working at the electrical power plant, we were trying to launch a new department and my task was to essentially source a supplier. Typically, we work with a supplier of generators from France, but this time around their capacity and also their pricing did not match our budget and what we were looking for. So what I ended up doing is I ended up creating a large list of all the different suppliers that are out there.",
+    "n_words": 94,
+    "embed_text": "So now we'll dive into a little bit more behavioral questions. So could you tell me about a time where you solved a difficult problem? That's a good question. I think the moment that I can think of is when I was working at the electrical power plant, we were trying to launch a new department and my task was to essentially source a supplier. Typically, we work with a supplier of generators from France, but this time around their capacity and also their pricing did not match our budget and what we were looking for. So what I ended up doing is I ended up creating a large list of all the different suppliers that are out there."
   },
   {
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 135470,
+    "start_ms": 140570,
     "end_ms": 154910,
-    "text": "So what I ended up doing is I ended up creating a large list of all the different suppliers that are out there. And then I found a supplier in South Korea that I negotiated with and also was able to bring them in and implement all of the new generator technology. So that was able to save us a total cost of 10 % from the total project and it was a huge success at the end of it.",
-    "n_words": 80,
-    "embed_text": "So now we'll dive into a little bit more behavioral questions. So could you tell me about a time where you solved a difficult problem? So what I ended up doing is I ended up creating a large list of all the different suppliers that are out there. And then I found a supplier in South Korea that I negotiated with and also was able to bring them in and implement all of the new generator technology. So that was able to save us a total cost of 10 % from the total project and it was a huge success at the end of it."
+    "text": "And then I found a supplier in South Korea that I negotiated with and also was able to bring them in and implement all of the new generator technology. So that was able to save us a total cost of 10% from the total project and it was a huge success at the end of it.",
+    "n_words": 56,
+    "embed_text": "So now we'll dive into a little bit more behavioral questions. So could you tell me about a time where you solved a difficult problem? And then I found a supplier in South Korea that I negotiated with and also was able to bring them in and implement all of the new generator technology. So that was able to save us a total cost of 10% from the total project and it was a huge success at the end of it."
   },
   {
     "file": "behavioral_mock_interview.wav",
@@ -96,7 +87,7 @@
     "end_ms": 161490,
     "text": "Awesome. Thank you for sharing that. So next, could you tell me about like one or two of your key strengths?",
     "n_words": 21,
-    "embed_text": "able to save us a total cost of 10 % from the total project and it was a huge success at the end of it. Awesome. Thank you for sharing that. So next, could you tell me about like one or two of your key strengths?"
+    "embed_text": "was able to save us a total cost of 10% from the total project and it was a huge success at the end of it. Awesome. Thank you for sharing that. So next, could you tell me about like one or two of your key strengths?"
   },
   {
     "file": "behavioral_mock_interview.wav",
@@ -120,19 +111,19 @@
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 178940,
-    "end_ms": 195080,
-    "text": "Yeah, so what I can think of is when I was working at Amazon, one of the big projects that we're trying to launch is the first new robotic facility. But it came out of time when COVID had just hit and I was unable to essentially source a lot of the material that we typically get from our Japanese supplier.",
-    "n_words": 61,
-    "embed_text": "into that first one, your ability to persuade people? Maybe tell me about a time you were able to convince someone to change their mind. Yeah, so what I can think of is when I was working at Amazon, one of the big projects that we're trying to launch is the first new robotic facility. But it came out of time when COVID had just hit and I was unable to essentially source a lot of the material that we typically get from our Japanese supplier."
+    "end_ms": 202200,
+    "text": "Yeah, so what I can think of is when I was working at Amazon, one of the big projects that we're trying to launch is the first new robotic facility. But it came out of time when COVID had just hit and I was unable to essentially source a lot of the material that we typically get from our Japanese supplier. So the vice president of supply chain at the time, his executive decision was to push the launch and push it out for a few months.",
+    "n_words": 87,
+    "embed_text": "into that first one, your ability to persuade people? Maybe tell me about a time you were able to convince someone to change their mind. Yeah, so what I can think of is when I was working at Amazon, one of the big projects that we're trying to launch is the first new robotic facility. But it came out of time when COVID had just hit and I was unable to essentially source a lot of the material that we typically get from our Japanese supplier. So the vice president of supply chain at the time, his executive decision was to push the launch and push it out for a few months."
   },
   {
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 195720,
+    "start_ms": 202800,
     "end_ms": 215300,
-    "text": "So the vice president of supply chain at the time, his executive decision was to push the launch and push it out for a few months. Instead, what I decided to do is try to see if there's a way to still keep the launch at the same time. And I looked at some of our existing facilities already, and try to source some of the unused material from there, so that we don't delay the launch.",
-    "n_words": 77,
-    "embed_text": "into that first one, your ability to persuade people? Maybe tell me about a time you were able to convince someone to change their mind. So the vice president of supply chain at the time, his executive decision was to push the launch and push it out for a few months. Instead, what I decided to do is try to see if there's a way to still keep the launch at the same time. And I looked at some of our existing facilities already, and try to source some of the unused material from there, so that we don't delay the launch."
+    "text": "Instead, what I decided to do is try to see if there's a way to still keep the launch at the same time. And I looked at some of our existing facilities already, and try to source some of the unused material from there, so that we don't delay the launch.",
+    "n_words": 51,
+    "embed_text": "into that first one, your ability to persuade people? Maybe tell me about a time you were able to convince someone to change their mind. Instead, what I decided to do is try to see if there's a way to still keep the launch at the same time. And I looked at some of our existing facilities already, and try to source some of the unused material from there, so that we don't delay the launch."
   },
   {
     "file": "behavioral_mock_interview.wav",
@@ -156,28 +147,19 @@
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 238920,
-    "end_ms": 258280,
-    "text": "Yeah. The one that I can think of is when I was working at the Boston Consulting Group, there I was leading a big real estate occupancy project, where I wanted to essentially showcase what the attendance of each office looked like. What I had to do was then automate the process for a lot of the partners so that they have like a dashboard that they can like manipulate and change and look at the data.",
-    "n_words": 77,
-    "embed_text": "great. So now we'll dive into that second strength you had mentioned. Could you tell me about a time that you demonstrated strong leadership skills? Yeah. The one that I can think of is when I was working at the Boston Consulting Group, there I was leading a big real estate occupancy project, where I wanted to essentially showcase what the attendance of each office looked like. What I had to do was then automate the process for a lot of the partners so that they have like a dashboard that they can like manipulate and change and look at the data."
+    "end_ms": 263540,
+    "text": "Yeah. The one that I can think of is when I was working at the Boston Consulting Group, there I was leading a big real estate occupancy project, where I wanted to essentially showcase what the attendance of each office looked like. What I had to do was then automate the process for a lot of the partners so that they have like a dashboard that they can like manipulate and change and look at the data. So I had to work with a large team of 15 different developers, software engineers, and data engineers.",
+    "n_words": 95,
+    "embed_text": "great. So now we'll dive into that second strength you had mentioned. Could you tell me about a time that you demonstrated strong leadership skills? Yeah. The one that I can think of is when I was working at the Boston Consulting Group, there I was leading a big real estate occupancy project, where I wanted to essentially showcase what the attendance of each office looked like. What I had to do was then automate the process for a lot of the partners so that they have like a dashboard that they can like manipulate and change and look at the data. So I had to work with a large team of 15 different developers, software engineers, and data engineers."
   },
   {
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 258880,
-    "end_ms": 276520,
-    "text": "So I had to work with a large team of 15 different developers, software engineers, and data engineers. So I worked with them to essentially gather the data, clean the data and process it and put it and visualize it through Tableau. So that was a great opportunity where I was essentially working with different teams, putting game plans, putting timelines for them.",
-    "n_words": 63,
-    "embed_text": "great. So now we'll dive into that second strength you had mentioned. Could you tell me about a time that you demonstrated strong leadership skills? So I had to work with a large team of 15 different developers, software engineers, and data engineers. So I worked with them to essentially gather the data, clean the data and process it and put it and visualize it through Tableau. So that was a great opportunity where I was essentially working with different teams, putting game plans, putting timelines for them."
-  },
-  {
-    "file": "behavioral_mock_interview.wav",
-    "speaker": "SPEAKER_00",
-    "start_ms": 276900,
+    "start_ms": 264100,
     "end_ms": 284580,
-    "text": "And as I mentioned, at the end of it, it was a very strong project, and the partners were very happy with the dashboard. And it was a good like managerial experience for me at the time as well.",
-    "n_words": 39,
-    "embed_text": "great. So now we'll dive into that second strength you had mentioned. Could you tell me about a time that you demonstrated strong leadership skills? And as I mentioned, at the end of it, it was a very strong project, and the partners were very happy with the dashboard. And it was a good like managerial experience for me at the time as well."
+    "text": "So I worked with them to essentially gather the data, clean the data and process it and put it and visualize it through Tableau. So that was a great opportunity where I was essentially working with different teams, putting game plans, putting timelines for them. And as I mentioned, at the end of it, it was a very strong project, and the partners were very happy with the dashboard. And it was a good like managerial experience for me at the time as well.",
+    "n_words": 84,
+    "embed_text": "great. So now we'll dive into that second strength you had mentioned. Could you tell me about a time that you demonstrated strong leadership skills? So I worked with them to essentially gather the data, clean the data and process it and put it and visualize it through Tableau. So that was a great opportunity where I was essentially working with different teams, putting game plans, putting timelines for them. And as I mentioned, at the end of it, it was a very strong project, and the partners were very happy with the dashboard. And it was a good like managerial experience for me at the time as well."
   },
   {
     "file": "behavioral_mock_interview.wav",
@@ -192,28 +174,19 @@
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
     "start_ms": 294960,
-    "end_ms": 314080,
-    "text": "Yeah, I'd say the biggest one is probably my ability to prioritize when there's a lot of conflicting and competing priorities. The big one in that case would be when say there's three or four different projects and all of them are high urgency or high priority. Sometimes as someone who's still very junior in their career, I still don't have that business sense on which one I should tackle first.",
-    "n_words": 71,
-    "embed_text": "So now that we've talked a little bit about your strengths, maybe you could tell me about a weakness that you face in the workforce. Yeah, I'd say the biggest one is probably my ability to prioritize when there's a lot of conflicting and competing priorities. The big one in that case would be when say there's three or four different projects and all of them are high urgency or high priority. Sometimes as someone who's still very junior in their career, I still don't have that business sense on which one I should tackle first."
+    "end_ms": 316480,
+    "text": "Yeah, I'd say the biggest one is probably my ability to prioritize when there's a lot of conflicting and competing priorities. The big one in that case would be when say there's three or four different projects and all of them are high urgency or high priority. Sometimes as someone who's still very junior in their career, I still don't have that business sense on which one I should tackle first. But I've been trying to improve on it and work on it.",
+    "n_words": 83,
+    "embed_text": "So now that we've talked a little bit about your strengths, maybe you could tell me about a weakness that you face in the workforce. Yeah, I'd say the biggest one is probably my ability to prioritize when there's a lot of conflicting and competing priorities. The big one in that case would be when say there's three or four different projects and all of them are high urgency or high priority. Sometimes as someone who's still very junior in their career, I still don't have that business sense on which one I should tackle first. But I've been trying to improve on it and work on it."
   },
   {
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_00",
-    "start_ms": 314520,
-    "end_ms": 328420,
-    "text": "But I've been trying to improve on it and work on it. So what I do now is I typically just chat with my manager and try to understand where the business focus should be. And sometimes even just directly ask on how I should prioritize some of the work. So I have been improving on that a little bit.",
-    "n_words": 60,
-    "embed_text": "So now that we've talked a little bit about your strengths, maybe you could tell me about a weakness that you face in the workforce. But I've been trying to improve on it and work on it. So what I do now is I typically just chat with my manager and try to understand where the business focus should be. And sometimes even just directly ask on how I should prioritize some of the work. So I have been improving on that a little bit."
-  },
-  {
-    "file": "behavioral_mock_interview.wav",
-    "speaker": "SPEAKER_00",
-    "start_ms": 328540,
+    "start_ms": 316700,
     "end_ms": 333060,
-    "text": "And I think with some seniority, I'll hopefully be able to get there and understand what I should start with first.",
-    "n_words": 21,
-    "embed_text": "So now that we've talked a little bit about your strengths, maybe you could tell me about a weakness that you face in the workforce. And I think with some seniority, I'll hopefully be able to get there and understand what I should start with first."
+    "text": "So what I do now is I typically just chat with my manager and try to understand where the business focus should be. And sometimes even just directly ask on how I should prioritize some of the work. So I have been improving on that a little bit. And I think with some seniority, I'll hopefully be able to get there and understand what I should start with first.",
+    "n_words": 69,
+    "embed_text": "So now that we've talked a little bit about your strengths, maybe you could tell me about a weakness that you face in the workforce. So what I do now is I typically just chat with my manager and try to understand where the business focus should be. And sometimes even just directly ask on how I should prioritize some of the work. So I have been improving on that a little bit. And I think with some seniority, I'll hopefully be able to get there and understand what I should start with first."
   },
   {
     "file": "behavioral_mock_interview.wav",
@@ -246,18 +219,18 @@
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_01",
     "start_ms": 377300,
-    "end_ms": 401740,
-    "text": "Great. So I think Zia did an amazing job with that interview. There are four main things that I think he did really well. First, he was very poised and confident throughout the entire interview. We were going back and forth and I was asking him a lot of questions, but he came back very prepared for each question. Second, he used the star method very well. I could really understand the situation, task, action and result.",
-    "n_words": 77,
-    "embed_text": "are the big milestones that you guys are hoping to achieve? And is say international expansion, one of those big milestones that you're looking at? Great. So I think Zia did an amazing job with that interview. There are four main things that I think he did really well. First, he was very poised and confident throughout the entire interview. We were going back and forth and I was asking him a lot of questions, but he came back very prepared for each question. Second, he used the star method very well. I could really understand the situation, task, action and result."
+    "end_ms": 405980,
+    "text": "Great. So I think Zia did an amazing job with that interview. There are four main things that I think he did really well. First, he was very poised and confident throughout the entire interview. We were going back and forth and I was asking him a lot of questions, but he came back very prepared for each question. Second, he used the star method very well. I could really understand the situation, task, action and result. And he introduced each story in a way that made me understand what he was saying.",
+    "n_words": 93,
+    "embed_text": "are the big milestones that you guys are hoping to achieve? And is say international expansion, one of those big milestones that you're looking at? Great. So I think Zia did an amazing job with that interview. There are four main things that I think he did really well. First, he was very poised and confident throughout the entire interview. We were going back and forth and I was asking him a lot of questions, but he came back very prepared for each question. Second, he used the star method very well. I could really understand the situation, task, action and result. And he introduced each story in a way that made me understand what he was saying."
   },
   {
     "file": "behavioral_mock_interview.wav",
     "speaker": "SPEAKER_01",
-    "start_ms": 402320,
+    "start_ms": 406720,
     "end_ms": 420820,
-    "text": "And he introduced each story in a way that made me understand what he was saying. Third, he was very concise in each of his stories. And lastly, he ended with some very thoughtful questions that made it seem like he really cared about the company and the position. Overall, Zia did a great job and I would accelerate him to the next round.",
-    "n_words": 64,
-    "embed_text": "are the big milestones that you guys are hoping to achieve? And is say international expansion, one of those big milestones that you're looking at? And he introduced each story in a way that made me understand what he was saying. Third, he was very concise in each of his stories. And lastly, he ended with some very thoughtful questions that made it seem like he really cared about the company and the position. Overall, Zia did a great job and I would accelerate him to the next round."
+    "text": "Third, he was very concise in each of his stories. And lastly, he ended with some very thoughtful questions that made it seem like he really cared about the company and the position. Overall, Zia did a great job and I would accelerate him to the next round.",
+    "n_words": 48,
+    "embed_text": "are the big milestones that you guys are hoping to achieve? And is say international expansion, one of those big milestones that you're looking at? Third, he was very concise in each of his stories. And lastly, he ended with some very thoughtful questions that made it seem like he really cared about the company and the position. Overall, Zia did a great job and I would accelerate him to the next round."
   }
 ]

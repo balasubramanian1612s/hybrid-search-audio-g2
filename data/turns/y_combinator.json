@@ -950,8 +950,8 @@
       "speaker": "SPEAKER_00",
       "start": 57.45,
       "end": 116.45,
-      "text": "One, it's intellectually convenient too. I think that a lot of founders are really excited at the prospect of company building and they think that company building is what creates success. And by company building, I mean like hiring employees and having great culture and getting an office and having management and so on and so forth. And they are not real with themselves that the real challenge is to solve the problem. And the company building happens for the most part after you figure out how to solve the problem, not before. I hear this term product market fit so often and I have to tell you 98 % of the time it's using correctly. And what's so frustrating is that people almost act like it's an undefined or flexibly defined term and it's totally not. It's like saying that like, oh yeah, like green, blue, yellow, we could call off those orange. Like it's okay. Like we'll just call them orange. It's different",
-      "n_words": 165,
+      "text": "One, it's intellectually convenient too. I think that a lot of founders are really excited at the prospect of company building and they think that company building is what creates success. And by company building, I mean like hiring employees and having great culture and getting an office and having management and so on and so forth. And they are not real with themselves that the real challenge is to solve the problem. And the company building happens for the most part after you figure out how to solve the problem, not before. I hear this term product market fit so often and I have to tell you 98% of the time it's using correctly. And what's so frustrating is that people almost act like it's an undefined or flexibly defined term and it's totally not. It's like saying that like, oh yeah, like green, blue, yellow, we could call off those orange. Like it's okay. Like we'll just call them orange. It's different",
+      "n_words": 164,
       "n_low": 0,
       "words": [
         {
@@ -1495,13 +1495,8 @@
           "end": 98.25
         },
         {
-          "word": "98",
+          "word": "98%",
           "start": 98.25,
-          "end": 99.19
-        },
-        {
-          "word": "%",
-          "start": 99.19,
           "end": 99.87
         },
         {
@@ -3145,8 +3140,8 @@
       "speaker": "SPEAKER_00",
       "start": 208.23,
       "end": 230.31,
-      "text": "I almost say it's like it's your company to fuck up. Like it's almost like this is gonna work unless you screw it up. Whereas like pre -product market fit there's all this stuff you need to do to even see if there can be something there and you really don't know. Post -product market fit, it's like if you execute you get there. Pre -product market fit you get actually great and you never have anything.",
-      "n_words": 77,
+      "text": "I almost say it's like it's your company to fuck up. Like it's almost like this is gonna work unless you screw it up. Whereas like pre-product market fit there's all this stuff you need to do to even see if there can be something there and you really don't know. Post-product market fit, it's like if you execute you get there. Pre-product market fit you get actually great and you never have anything.",
+      "n_words": 74,
       "n_low": 0,
       "words": [
         {
@@ -3280,13 +3275,8 @@
           "end": 217.63
         },
         {
-          "word": "pre",
+          "word": "pre-product",
           "start": 217.63,
-          "end": 218.03
-        },
-        {
-          "word": "-product",
-          "start": 218.03,
           "end": 218.27
         },
         {
@@ -3410,13 +3400,8 @@
           "end": 224.13
         },
         {
-          "word": "Post",
+          "word": "Post-product",
           "start": 224.27,
-          "end": 224.37
-        },
-        {
-          "word": "-product",
-          "start": 224.37,
           "end": 224.61
         },
         {
@@ -3470,13 +3455,8 @@
           "end": 227.73
         },
         {
-          "word": "Pre",
+          "word": "Pre-product",
           "start": 227.85,
-          "end": 227.93
-        },
-        {
-          "word": "-product",
-          "start": 227.93,
           "end": 228.07
         },
         {
@@ -3540,8 +3520,8 @@
       "speaker": "SPEAKER_01",
       "start": 230.79,
       "end": 235.85,
-      "text": "And moreover you can still have customers. You can still have growth if you're pre -product market fit. Yes,",
-      "n_words": 19,
+      "text": "And moreover you can still have customers. You can still have growth if you're pre-product market fit. Yes,",
+      "n_words": 18,
       "n_low": 0,
       "words": [
         {
@@ -3615,13 +3595,8 @@
           "end": 235.11
         },
         {
-          "word": "pre",
+          "word": "pre-product",
           "start": 235.11,
-          "end": 235.27
-        },
-        {
-          "word": "-product",
-          "start": 235.27,
           "end": 235.51
         },
         {
@@ -5340,8 +5315,8 @@
       "speaker": "SPEAKER_00",
       "start": 349.24,
       "end": 417.12,
-      "text": "Yes, yes, yes for a tech startup. Yes, it's clearly not the case. Like there's clearly multiple variables here. And you know one of the things we try to talk to people we often if you're charging your customer or we try to talk to you about revenue. And the reason why is that like in many cases like revenue that you keep is as close as we can get to a single metric. But like even that is not perfect. Like you really want to know like what percentage of your revenue are you losing every month. You really want to know like how much does it cost you to get that revenue. Like you really want to know like how satisfied are your customers. Like you need to know those other stats to really know. And so yeah product market fit like I wish more comfortable. Like I talk about pre -product market fit as just being in the suck. It's just like you're just in the river of crap and you're not enjoying your life. And unfortunately I think that you every startup I almost imagine this isn't the case but I almost imagine that there's like a predetermined amount of time you have to live there until you figure out how to get out.",
-      "n_words": 218,
+      "text": "Yes, yes, yes for a tech startup. Yes, it's clearly not the case. Like there's clearly multiple variables here. And you know one of the things we try to talk to people we often if you're charging your customer or we try to talk to you about revenue. And the reason why is that like in many cases like revenue that you keep is as close as we can get to a single metric. But like even that is not perfect. Like you really want to know like what percentage of your revenue are you losing every month. You really want to know like how much does it cost you to get that revenue. Like you really want to know like how satisfied are your customers. Like you need to know those other stats to really know. And so yeah product market fit like I wish more comfortable. Like I talk about pre-product market fit as just being in the suck. It's just like you're just in the river of crap and you're not enjoying your life. And unfortunately I think that you every startup I almost imagine this isn't the case but I almost imagine that there's like a predetermined amount of time you have to live there until you figure out how to get out.",
+      "n_words": 217,
       "n_low": 0,
       "words": [
         {
@@ -6105,13 +6080,8 @@
           "end": 396.7
         },
         {
-          "word": "pre",
+          "word": "pre-product",
           "start": 396.7,
-          "end": 396.9
-        },
-        {
-          "word": "-product",
-          "start": 396.9,
           "end": 397.12
         },
         {

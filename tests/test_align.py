@@ -1,4 +1,4 @@
-from align import align, assign_speaker, filter_spans, group_into_turns
+from align import align, assign_speaker, filter_spans, group_into_turns, join_split_tokens
 
 
 def span(speaker, start, end):
@@ -70,3 +70,23 @@ def test_align_end_to_end_preserves_tokens():
         ("B", "hi back"),
     ]
     assert sum(t["n_words"] for t in out["turns"]) == 4
+
+
+def test_join_split_tokens():
+    words = [word("received", 0.0, 0.2), word("4", 0.2, 0.4), word(".5", 0.4, 0.6),
+             word("%", 0.6, 0.8), word("of", 0.8, 0.9), word("helium", 1.0, 1.3),
+             word("-3.", 1.3, 1.6), word("over", 2.0, 2.2), word("$100", 2.2, 2.6)]
+    out = join_split_tokens(words)
+    assert [w["word"] for w in out] == ["received", "4.5%", "of", "helium-3.", "over", "$100"]
+    assert out[1]["start"] == 0.2 and out[1]["end"] == 0.8
+    assert words[1]["word"] == "4"  # input is not modified
+
+
+def test_align_joins_split_tokens_end_to_end():
+    transcript = {"file": "x.wav", "segments": [
+        {"words": [word("received", 0.0, 0.3), word("4", 0.3, 0.5), word(".5", 0.5, 0.7), word("%", 0.7, 0.9)]},
+    ]}
+    diarization = {"turns": [span("A", 0.0, 1.0)]}
+    turn = align(transcript, diarization)["turns"][0]
+    assert turn["text"] == "received 4.5%"
+    assert turn["n_words"] == 2

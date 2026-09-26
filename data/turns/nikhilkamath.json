@@ -5,8 +5,8 @@
       "speaker": "SPEAKER_00",
       "start": 0.0,
       "end": 37.88,
-      "text": "Chamath, to my audience, which are largely entrepreneurs and people who want to start a business in India, I think something that you have accomplished along the many things that you have done in life, from starting at Facebook, which is now Metta, to running funds, managing money. The thing I find most interesting, because I'm in that profession, is the investing bit. You seem to have gotten so many calls right over the tenure of your career. Give us some lessons from that which are non -obvious.",
-      "n_words": 88,
+      "text": "Chamath, to my audience, which are largely entrepreneurs and people who want to start a business in India, I think something that you have accomplished along the many things that you have done in life, from starting at Facebook, which is now Metta, to running funds, managing money. The thing I find most interesting, because I'm in that profession, is the investing bit. You seem to have gotten so many calls right over the tenure of your career. Give us some lessons from that which are non-obvious.",
+      "n_words": 87,
       "n_low": 0,
       "words": [
         {
@@ -440,13 +440,8 @@
           "end": 37.26
         },
         {
-          "word": "non",
+          "word": "non-obvious.",
           "start": 37.26,
-          "end": 37.42
-        },
-        {
-          "word": "-obvious.",
-          "start": 37.42,
           "end": 37.88
         }
       ]
@@ -455,8 +450,8 @@
       "speaker": "SPEAKER_01",
       "start": 43.06,
       "end": 52.92,
-      "text": "To be a very successful investor, you have to be extremely, extremely single -minded.",
-      "n_words": 14,
+      "text": "To be a very successful investor, you have to be extremely, extremely single-minded.",
+      "n_words": 13,
       "n_low": 0,
       "words": [
         {
@@ -520,13 +515,8 @@
           "end": 50.42
         },
         {
-          "word": "single",
+          "word": "single-minded.",
           "start": 52.04,
-          "end": 52.5
-        },
-        {
-          "word": "-minded.",
-          "start": 52.5,
           "end": 52.92
         }
       ]

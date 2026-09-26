@@ -6,7 +6,7 @@
 |---|---|
 | How to run it | [README.md](README.md), or just `./init.sh` |
 | Golden dataset | [golden.json](golden.json): 63 queries, 117 labelled time spans, 6 recordings |
-| Latest eval report | [results/result_20260926_145727.md](results/result_20260926_145727.md) |
+| Latest eval report | [v3, after tuning](results/result_20260926_161113.md) (baseline: [v1](results/result_20260926_145727.md)) |
 | Spec given to the coding agent | [design.md](design.md) |
 | Trace of agent collaboration | [prompts.md](prompts.md) |
 
@@ -20,11 +20,11 @@
   - The two rankings are fused with Reciprocal Rank Fusion.
   - There is no LLM anywhere in the search path.
 - **Golden dataset:** 6 conversations, 52 minutes in total, each with a different pair of speakers. There are 63 hand-labelled queries of three types (lexical, semantic, mixed), including traps where the same words appear in the wrong file, and 10 documented failure cases.
-- **Headline results:**
+- **Headline results (v3, after two tuning steps, section 6):**
   - Hybrid is **never worse than the better single search on any query type**, and it clearly beats both on lexical queries.
-  - Excluding the 10 deliberate failure cases, hybrid reaches **R@5 = 0.86 and MRR = 0.86** across the 53 remaining queries.
-  - With the failure cases included (the official run), the lexical target (0.80) and semantic target (0.70) are missed: 0.75 and 0.66.
-- **Main weakness found by the eval:** keyword search requires every word to match, so it returns nothing for 37 of the 63 queries. The fix is known and is described in section 7.
+  - Excluding the 10 deliberate failure cases, hybrid reaches **R@5 = 0.88 and MRR = 0.88** across the 53 remaining queries (v1 baseline: 0.86 / 0.86).
+  - With the failure cases included (the official run), the semantic target passes (0.75 against 0.70) and the lexical target just misses (0.79 against 0.80). The semantic pass comes from two known failures that pass as a side effect of bigger chunks.
+- **Main weakness found by the eval:** keyword search requires every word to match, so it returns nothing for 36 of the 63 queries. The fix is known and is described in section 7.
 
 ---
 
@@ -80,18 +80,18 @@ Each stage reads files and writes files (`data/<stage>/<file>.json`), so each st
 |---|---|---|
 | **Transcribe** | faster-whisper `small`, int8, CPU, beam 5, VAD, **word-level timestamps** | Runs fully locally. Word timestamps are what make exact speaker attribution and exact chunk boundaries possible. |
 | **Diarize** | pyannote `speaker-diarization-community-1`, `num_speakers=2`, the **exclusive** (non-overlapping) output | Every conversation has exactly two speakers. The exclusive output has no overlapping turns, so each word has one clear owner. Only 0.1% of words fall between speaker turns and need the low-confidence fallback below. |
-| **Align** | Each word goes to the speaker turn it **overlaps most**, not the one containing its midpoint. Words are never split. A word that falls in no turn goes to the nearest one and is marked low-confidence. Turns shorter than 250 ms are dropped. Same-speaker words with a gap under 2 s are merged into one turn. The code asserts that the word count going in equals the word count coming out. | Going by overlap uses the word's full duration. The fallback never drops a word, and the assert guarantees no text is lost between the transcript and the index. |
-| **Chunk** | Chunks follow **speaker turns**, not fixed windows. Long turns are split at sentence boundaries into chunks of up to about 80 words. Backchannel-only turns ("yeah", "mm") are dropped. | Each result is one speaker's moment, so the speaker shown is always correct for the whole chunk. Chunks of about 80 words keep timestamps precise and stay well under MiniLM's 256-token limit. |
+| **Align** | Pieces Whisper splits off a word are joined back (`4 .5 %` becomes `4.5%`). Each word goes to the speaker turn it **overlaps most**, not the one containing its midpoint. Words are never split. A word that falls in no turn goes to the nearest one and is marked low-confidence. Turns shorter than 250 ms are dropped. Same-speaker words with a gap under 2 s are merged into one turn. The code asserts that the word count going in equals the word count coming out, and that every character of the transcript survives. | Going by overlap uses the word's full duration. The fallback never drops a word, and the asserts guarantee no text is lost between the transcript and the index. |
+| **Chunk** | Chunks follow **speaker turns**, not fixed windows. Long turns are split at sentence boundaries into chunks of up to about 100 words (80 in v1). Backchannel-only turns ("yeah", "mm") are dropped. | Each result is one speaker's moment, so the speaker shown is always correct for the whole chunk. Chunks of about 100 words keep timestamps precise and stay well under MiniLM's 256-token limit: the longest `embed_text` is 168 tokens. |
 | | Each chunk is embedded as `embed_text` = **the other speaker's last 25 words + this chunk**. The stored `text` stays clean. | In interviews, answers often don't repeat the question. Adding the question to the embedding makes "why is the moon important" find the *answer*, while the text shown to users and used for keyword search stays exactly what was said. |
 | **Store** | One Postgres table holds text, timestamps, speaker, a `vector(384)` with an **HNSW** cosine index, and a generated `tsvector` with a **GIN** index | One database for both kinds of search: no second store to keep in sync, and everything is queryable with SQL. The ingest runs in a single transaction, so re-running it is safe. |
-| **Embed** | `all-MiniLM-L6-v2` (384 dimensions, normalized), run locally on CPU | Small and fast: all 192 chunks embed in about 6 s. The tradeoff is weaker semantics (see section 7). |
+| **Embed** | `all-MiniLM-L6-v2` (384 dimensions, normalized), run locally on CPU | Small and fast: all 170 chunks embed in about 6 s. The tradeoff is weaker semantics (see section 7). |
 | **Search** | Keyword: `websearch_to_tsquery` + `ts_rank_cd`. Vector: cosine distance `<=>`. Hybrid: **RRF** with `score = Σ 1/(60 + rank)` over the top 30 from each | Keyword and cosine scores aren't on comparable scales, and RRF only uses ranks, so no score normalization is needed. Each result shows its `kw_rank` and `vec_rank`, so you can see which search found it. |
 | **Eval** | `eval.py` runs all 3 modes over the golden set and writes a markdown report with success criteria, a summary by type, per-query results and known failures | Every change is measured the same way, and the reports stay on disk for comparison. |
 
 **Example: fusion finding what each search misses.** For "Artemis program", keyword search found 2 of the 3 relevant moments and vector search found a different 2 of 3. Hybrid found **all 3**. It ranked the 01:20 moment 2nd (keyword rank 1, vector rank 12) and the 09:47 moment 3rd (vector only).
 
 **Tests:**
-- `pytest` runs 25 tests: unit tests for each stage and for the scoring functions, plus live-database checks that skip if Postgres is down.
+- `pytest` runs 27 tests: unit tests for each stage and for the scoring functions, plus live-database checks that skip if Postgres is down.
 - `eval.py` is the automated recall@k measurement.
 - `init.sh` sets up and runs everything with one command.
 
@@ -109,7 +109,9 @@ Each stage reads files and writes files (`data/<stage>/<file>.json`), so each st
 
 ---
 
-## 5. Results
+## 5. Results (v1 baseline)
+
+These are the numbers before tuning. Section 6 shows what each tuning step changed.
 
 **Official run:** all 63 queries, including the 10 known failures.
 
@@ -160,39 +162,40 @@ Two changes, made one at a time and each motivated by a v1 finding. Both were me
 
 - **Split tokens:** only "4.5%" changed, from not found to rank 1. No other query got worse.
 - **100-word chunks, the trade-off:** bigger chunks help keyword matching and cover more of each moment, but they dilute the embedding. 3 queries got worse, and 2 known failures now pass only because a chunk grew to include the answer; negation and the ASR error are not fixed.
+- **Where the gains are real:** mixed improved from 0.78 to 0.85 (none of the mixed queries are known failures). Semantic without the known failures stayed at 0.83, so the official semantic rise comes from those two side-effect flips.
+- **v3 against the criteria:** lexical 0.79 **FAIL** (target 0.80); semantic 0.75 PASS (target 0.70); hybrid ≥ best single search PASS for all three types (0.79 ≥ 0.67, 0.75 = 0.75, 0.85 = 0.85).
 
 ---
 
 ## 7. Limitations
 
 **Retrieval**
-1. **Keyword search requires every word to match.** `websearch_to_tsquery` ANDs every term, so one unmatched word ("describe", "plan") empties the result. It returned nothing for 37 of the 63 queries, which caps what hybrid can add on mixed queries. The next step is to OR the terms and let `ts_rank_cd` reward chunks that match more of them, then re-run the eval.
-2. **Split tokens.** Whisper outputs `4.5%` as three words: `4`, `.5`, `%`. The same happens to `helium-3`, `C-suite`, `U.S.` and `single-minded`. The pipeline joins words with spaces, so the stored text reads `4 .5 %` and can't match. The fix: attach pieces that start with `.`, `-` or `%` to the previous word in `align.py`.
-3. **Limits of a small embedding model:**
+1. **Keyword search requires every word to match.** `websearch_to_tsquery` ANDs every term, so one unmatched word ("describe", "plan") empties the result. It returns nothing for 36 of the 63 queries in v3, which caps what hybrid can add on mixed queries. The next step is to OR the terms and let `ts_rank_cd` reward chunks that match more of them, then re-run the eval.
+2. **Limits of a small embedding model:**
    - negation: "internships that were *not* technical" returns the technical ones
    - vocabulary gaps: "less money" doesn't connect to "affordably"
    - aliases: "Y Combinator" doesn't connect to "YC"
    - typos in names: "artemus" instead of "artemis"
-4. **Search returns single moments.** It can't combine facts spread across a conversation, such as "what jobs has Evie had", whose answer is spread across the whole talk.
+3. **Search returns single moments.** It can't combine facts spread across a conversation, such as "what jobs has Evie had", whose answer is spread across the whole talk.
 
 **Transcription and speakers**
 
-5. **Speech-recognition errors are unrecoverable downstream:** "Metta" (Meta), "copper and content" (copyrighted content), "PV quote" (PG quote), "parallel linguistics" (paralinguistics), a garbled Sanskrit verse, and "using correctly" where the speaker probably said "incorrectly". The `small` Whisper model mishears names and rare words.
-6. **Speakers are anonymous:**
+4. **Speech-recognition errors are unrecoverable downstream:** "Metta" (Meta), "copper and content" (copyrighted content), "PV quote" (PG quote), "parallel linguistics" (paralinguistics), a garbled Sanskrit verse, and "using correctly" where the speaker probably said "incorrectly". The `small` Whisper model mishears names and rare words.
+5. **Speakers are anonymous:**
    - Labels are `SPEAKER_00` / `SPEAKER_01` per file, with no names or roles, so you can't search "what did the interviewer ask" (that query is a known partial failure).
    - Diarization makes occasional errors. For example, a host question at 7:45 in nikhilkamath is attributed to the guest.
    - `num_speakers=2` is hard-coded, so show intros and outros are forced into one of the two speakers.
 
 **Evaluation and dataset**
 
-7. **The golden set is small and labelled by one annotator.** Labels were drafted by the coding agent from the transcripts, following my labelling rules. There was no second annotator and no agreement measure. With about 20 queries per type, one query moves a type's average by about 0.05.
-8. **Labels inherit the ASR's timing**, because spans were located using the same transcripts that search runs over.
-9. **The hit rule is lenient:** any overlap counts, so long spans are easy to hit.
-10. **Three recordings are under the requested 8–10 minutes:** 7:12, 7:15 and 7:33. The source recordings are that long. The other three are 9:37 to 10:00.
+6. **The golden set is small and labelled by one annotator.** Labels were drafted by the coding agent from the transcripts, following my labelling rules. There was no second annotator and no agreement measure. With about 20 queries per type, one query moves a type's average by about 0.05.
+7. **Labels inherit the ASR's timing**, because spans were located using the same transcripts that search runs over.
+8. **The hit rule is lenient:** any overlap counts, so long spans are easy to hit.
+9. **Three recordings are under the requested 8–10 minutes:** 7:12, 7:15 and 7:33. The source recordings are that long. The other three are 9:37 to 10:00.
 
 **Scale**
 
-11. **Scale is untested.** The system was only run on 192 chunks; HNSW has no measurable effect at this size, and latency numbers won't carry over. Ingest also truncates and reloads the whole table rather than updating it incrementally.
+10. **Scale is untested.** The system was only run on fewer than 200 chunks (192 in v1, 170 in v3); HNSW has no measurable effect at this size, and latency numbers won't carry over. Ingest also truncates and reloads the whole table rather than updating it incrementally.
 
 ---
 

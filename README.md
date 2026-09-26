@@ -8,15 +8,15 @@ Every query runs through keyword search (Postgres full-text) and semantic search
 $ python pipeline/search.py "Artemis program" -k 3
 
 == hybrid (3 results) ==
- 1. 0.0323  kw= 2 vec= 2  nasa_interview.wav  SPEAKER_00  04:44-05:05
+ 1. 0.0323  kw= 2 vec= 2  nasa_interview.wav  SPEAKER_00  04:44-05:11
       Well, I'd say first and foremost, you know, the SLS architecture that supports Artemis ...
- 2. 0.0303  kw= 1 vec=12  nasa_interview.wav  SPEAKER_00  01:20-01:46
+ 2. 0.0301  kw= 1 vec=13  nasa_interview.wav  SPEAKER_00  01:20-01:51
       That's a really good question. First, I'd say it's fulfilling a promise that presidents ...
- 3. 0.0164  kw= - vec= 1  nasa_interview.wav  SPEAKER_00  09:47-09:59
-      They were able to do a number of tests, Comchecks, Eclips, Life Support Checks ...
+ 3. 0.0164  kw= - vec= 1  nasa_interview.wav  SPEAKER_00  09:53-09:59
+      The next time we do that test is when Artemis II is gonna be out on the pad ...
 ```
 
-`kw` and `vec` show where each result ranked in the keyword and vector searches, with `-` meaning that search didn't return it. Result 2 was ranked 12th by vector search and result 3 was never found by keyword search. Hybrid ranks both in the top 3.
+`kw` and `vec` show where each result ranked in the keyword and vector searches, with `-` meaning that search didn't return it. Result 2 was ranked 13th by vector search and result 3 was never found by keyword search. Hybrid ranks both in the top 3.
 
 > **Submission write-up:** [SUBMISSION.md](SUBMISSION.md) covers the design and rationale, success criteria, results, limitations, how this would scale, production metrics, and how the coding agent was used.
 
@@ -34,8 +34,8 @@ Each stage reads files and writes files, so any stage can be re-run on its own.
 |---|---|---|
 | `transcribe.py` | faster-whisper (small, CPU, int8) with word-level timestamps | `data/transcripts/` |
 | `diarize.py` | pyannote community-1, 2 speakers, uses the version with no overlapping turns | `data/diarization/` |
-| `align.py` | gives each word to the speaker span it overlaps most, then groups words into speaker turns | `data/turns/` |
-| `chunk.py` | splits turns at sentence boundaries into chunks of up to about 80 words, and adds the other speaker's last 25 words (usually the question) as extra embedding context | `data/chunks/` |
+| `align.py` | joins words Whisper split into pieces (`4 .5 %` becomes `4.5%`), gives each word to the speaker span it overlaps most, then groups words into speaker turns | `data/turns/` |
+| `chunk.py` | splits turns at sentence boundaries into chunks of up to about 100 words, and adds the other speaker's last 25 words (usually the question) as extra embedding context | `data/chunks/` |
 | `ingest.py` | embeds the chunks with all-MiniLM-L6-v2 and loads them into Postgres (pgvector + tsvector) | `chunks` table |
 | `search.py` | keyword (`websearch_to_tsquery`), vector (cosine) and hybrid (RRF, k=60, top 30 from each) | results |
 | `eval.py` | scores all three modes against `golden.json` | `results/result_<timestamp>.md` |
@@ -90,7 +90,7 @@ The full spec is in [design.md](design.md). Every decision made while building i
 
 | query | why it fails |
 |---|---|
-| `4.5%` | Whisper splits it into `4` `.5` `%`, so the stored text never matches (a fixable bug) |
+| `4.5%` | Whisper split it into `4` `.5` `%` so the stored text never matched. **Fixed in v2:** now found at rank 1 |
 | `Meta`, `copyrighted content`, `Sanskrit shloka` | speech-recognition errors ("Metta", "copper and content", garbled Sanskrit) |
 | `Y Combinator` | the speakers only ever say "YC" |
 | `artemus program` | typo in a name |
@@ -99,22 +99,31 @@ The full spec is in [design.md](design.md). Every decision made while building i
 | `what jobs has Evie had` | the answer is spread across the talk; search returns single moments and can't combine them |
 | `questions the interviewer asked the candidate` | search can't filter by speaker, and there are 8 relevant moments but only 5 results (partial score) |
 
+In v3, `internships that were not technical` and `Sanskrit shloka` show as passing. That's only because a chunk grew to include the answer; negation and the ASR error are not fixed.
+
 ---
 
 ## Results
 
-Latest run: [results/result_20260926_145727.md](results/result_20260926_145727.md)
+Latest run (v3): [results/result_20260926_161113.md](results/result_20260926_161113.md)
 
 | type | n | keyword R@5 | vector R@5 | **hybrid R@5** | hybrid MRR |
 |---|---|---|---|---|---|
-| lexical | 23 | 0.62 | 0.60 | **0.75** | 0.77 |
-| semantic | 22 | 0.00 | 0.66 | **0.66** | 0.61 |
-| mixed | 18 | 0.37 | 0.78 | **0.78** | 0.87 |
-| all | 63 | 0.33 | 0.67 | **0.73** | 0.74 |
+| lexical | 23 | 0.67 | 0.60 | **0.79** | 0.80 |
+| semantic | 22 | 0.05 | 0.75 | **0.75** | 0.69 |
+| mixed | 18 | 0.37 | 0.85 | **0.85** | 0.92 |
+| all | 63 | 0.37 | 0.72 | **0.79** | 0.80 |
 
-- **Hybrid is never worse than the better single search, for any query type.** On lexical queries it clearly beats both (0.75 against 0.62 and 0.60), because each search finds moments the other misses.
-- **The targets are not met: lexical 0.75 against 0.80, and semantic 0.66 against 0.70.** Both averages include the 10 deliberate failure cases.
-- **Biggest weakness:** keyword search requires every word to match, so it returns nothing for 37 of the 63 queries. On those queries hybrid can only equal vector search. Switching to OR matching is the next change to try.
+**Tuning:** these numbers come from two changes made on top of the v1 baseline (all R@5 0.73 → 0.79):
+1. Joining split tokens.
+2. Raising the chunk size from 80 to 100 words. Bigger chunks dilute embeddings, so 3 queries got worse.
+
+See [SUBMISSION.md §6](SUBMISSION.md#6-tuning-after-the-baseline) for the step-by-step table and the trade-offs.
+
+- **Hybrid is never worse than the better single search, for any query type.** On lexical queries it clearly beats both (0.79 against 0.67 and 0.60), because each search finds moments the other misses.
+- **Targets: semantic passes (0.75 against 0.70); lexical just misses (0.79 against 0.80).** Both averages include the 10 deliberate failure cases.
+- **Where the semantic gain came from:** leaving the known failures out, semantic is 0.83 in both v1 and v3. The official rise comes from two known failures that pass only as a side effect of bigger chunks.
+- **Biggest weakness:** keyword search requires every word to match, so it returns nothing for 36 of the 63 queries. On those queries hybrid can only equal vector search. Switching to OR matching is the next change to try.
 
 ---
 
@@ -204,7 +213,7 @@ It prints the report and saves it to `results/result_<timestamp>.md`.
 ```bash
 pytest
 ```
-25 tests. The two tests that query the live database skip themselves if Postgres is not running.
+27 tests. The two tests that query the live database skip themselves if Postgres is not running.
 
 ---
 
